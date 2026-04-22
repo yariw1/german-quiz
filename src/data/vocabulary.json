@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Strong Verbs",
+    "header": [
+      { "name": "infinitive", "questionable": true },
+      { "name": "3rd person", "questionable": false },
+      { "name": "past", "questionable": false },
+      { "name": "participle", "questionable": false },
+      { "name": "translation", "questionable": false }
+    ],
+    "groups": []
+  },
+  {
+    "name": "Weak Verbs",
+    "header": [
+      { "name": "infinitive", "questionable": true },
+      { "name": "translation", "questionable": false }
+    ],
+    "groups": []
+  },
+  {
+    "name": "Modal Verbs",
+    "header": [
+      { "name": "infinitive", "questionable": true },
+      { "name": "3rd person", "questionable": false },
+      { "name": "past", "questionable": false },
+      { "name": "participle", "questionable": false },
+      { "name": "translation", "questionable": false }
+    ],
+    "groups": [
+      {
+        "id": 0,
+        "items": [
+          {
+            "infinitive": "können",
+            "3rd person": "kann",
+            "past": "konnte",
+            "participle": "gekonnt",
+            "translation": "to be able to, can"
+          },
+          {
+            "infinitive": "müssen",
+            "3rd person": "muss",
+            "past": "musste",
+            "participle": "gemusst",
+            "translation": "to have to, must"
+          },
+          {
+            "infinitive": "dürfen",
+            "3rd person": "darf",
+            "past": "durfte",
+            "participle": "gedurft",
+            "translation": "to be allowed to, may"
+          },
+          {
+            "infinitive": "sollen",
+            "3rd person": "soll",
+            "past": "sollte",
+            "participle": "gesollt",
+            "translation": "should, ought to"
+          },
+          {
+            "infinitive": "wollen",
+            "3rd person": "will",
+            "past": "wollte",
+            "participle": "gewollt",
+            "translation": "to want to"
+          },
+          {
+            "infinitive": "mögen",
+            "3rd person": "mag",
+            "past": "mochte",
+            "participle": "gemocht",
+            "translation": "to like"
+          },
+          {
+            "infinitive": "möchten",
+            "3rd person": "möchte",
+            "past": "— (use wollte?)",
+            "participle": "— (use gewollt?)",
+            "translation": "would like to"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Prepositions",
+    "header": [
+      { "name": "preposition", "questionable": true },
+      { "name": "case", "questionable": false },
+      { "name": "translation", "questionable": false }
+    ],
+    "groups": []
+  },
+  {
+    "name": "Conjunctions",
+    "header": [
+      { "name": "conjunction", "questionable": true },
+      { "name": "type", "questionable": false },
+      { "name": "position", "questionable": false },
+      { "name": "translation", "questionable": false }
+    ],
+    "groups": []
+  },
+  {
+    "name": "Nouns",
+    "header": [
+      { "name": "noun", "questionable": true },
+      { "name": "gender", "questionable": false },
+      { "name": "plural", "questionable": false },
+      { "name": "translation", "questionable": false }
+    ],
+    "groups": []
+  },
+  {
+    "name": "Adjectives",
+    "header": [
+      { "name": "adjective", "questionable": true },
+      { "name": "translation", "questionable": false }
+    ],
+    "groups": []
+  },
+  {
+    "name": "Adverbs",
+    "header": [
+      { "name": "adverb", "questionable": true },
+      { "name": "translation", "questionable": false }
+    ],
+    "groups": []
+  }
+]

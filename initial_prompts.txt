@@ -1,0 +1,127 @@
+I want to build a web app that will help me learn new words in a foreign languae.
+I want it to get a json file.
+Here is the json file description:
+- The json file will have categories.
+- Each category will have a name entry, a  header entry and items entries.
+- The header will entry will have fields.
+- Each field will have a name and a boolean that says whether this item can be presented as a question.
+- Each item will have all the fields of the header and each field will have its name and a value.
+
+Here is the mode of operation of the web app.
+It will let the user choose one or few categories, and a number of repetitions (the default number should be able to be set somehow, and saved between subsequent runs).
+Then when the user hit the "test" button, it will choose a random item from all categories, and will choose a random field (one with a true boolean) and then it will print it to the user.
+When the user presses a key, it will show all the other fields of the item (name + vale) so the user can see if he guessed them correctly.
+It will repeat this according to the number of repetitions.
+
+
+===============================================================================
+Refined prompt (v2)
+===============================================================================
+
+# Foreign-language vocabulary drill web app
+
+Build a single-page web app that helps the user drill foreign-language vocabulary (German initially, but nothing in the app should be German-specific). The vocabulary dataset is a JSON file bundled with the app at build time. All UI chrome is in English.
+
+Pick whatever stack you think is the best fit and briefly justify the choice in the README. Constraints: must be a static site (no backend), must run offline once loaded, and must be deployable to any static host (e.g. GitHub Pages).
+
+## Data model
+
+The bundled JSON is an array of categories. Each category has:
+
+- `name` — display name of the category (string).
+- `header` — an array of field definitions. Each field definition has:
+  - `name` — the field's label (string).
+  - `questionable` — boolean. If true, this field is eligible to be used as the quiz prompt.
+- `groups` — an array of groups within the category. Each group has:
+  - `id` — a unique identifier within the category; either a serial integer or a descriptive string name.
+  - `items` — an array of vocabulary entries belonging to this group. Each item is an object whose keys match the field `name`s declared in `header`, with string values.
+
+### Example
+
+```json
+[
+  {
+    "name": "Animals",
+    "header": [
+      { "name": "German",  "questionable": true  },
+      { "name": "English", "questionable": true  },
+      { "name": "Article", "questionable": false },
+      { "name": "Plural",  "questionable": false }
+    ],
+    "groups": [
+      {
+        "id": "pets",
+        "items": [
+          { "German": "Hund",  "English": "dog", "Article": "der", "Plural": "Hunde"  },
+          { "German": "Katze", "English": "cat", "Article": "die", "Plural": "Katzen" }
+        ]
+      },
+      {
+        "id": "farm",
+        "items": [
+          { "German": "Kuh",   "English": "cow",  "Article": "die", "Plural": "Kühe"   },
+          { "German": "Pferd", "English": "horse","Article": "das", "Plural": "Pferde" }
+        ]
+      }
+    ]
+  }
+]
+```
+
+## User flow
+
+1. Settings screen (the landing view):
+   - Multi-select checkbox list of all categories from the JSON. "Select all" / "Clear all" shortcuts.
+   - Numeric input for number of questions in the run. Pre-filled with the user's saved default.
+   - A Start Test button (disabled until at least one category is selected and N >= 1).
+   - A small "Set as default" control next to the N field that updates the persisted default.
+   - Fixed question field (optional): when exactly one category is selected, an additional dropdown appears — "Question field: (random)" pre-selected, plus each of that category's questionable fields as options. If the user picks a specific field, every question in the run uses that field as the prompt instead of a random one. This control is hidden when multiple categories are selected.
+   - Group selection (optional): when exactly one category is selected, a multi-select list of that category's groups appears. By default all groups are selected ("All groups"). The user can deselect groups to restrict the item pool to specific ones. This control is hidden when multiple categories are selected.
+
+2. Test run: when the user clicks Start Test:
+   - The app collects every item from every selected category into one pool. When exactly one category is selected and specific groups have been chosen, only items from those groups are included.
+   - It picks N distinct items from that pool uniformly at random. (If N exceeds the pool size, show a clear inline error on the settings screen and don't start.)
+   - For each picked item, it picks one random field whose `questionable` is true to serve as the prompt (or the fixed field chosen on the settings screen, if set). If an item has zero questionable fields, skip it and draw a replacement.
+   - Questions are presented one at a time.
+
+3. Question screen:
+   - Shows the prompt in the form `<field name>: <value>` (e.g. `German: Hund`).
+   - Shows a Show Answer button.
+   - Clicking Show Answer reveals the remaining fields of the item as a list of `<field name>: <value>` rows (including non-questionable ones). The Show Answer button is replaced in place by a Next Question button (or a Finish button if this is the last question).
+   - Clicking Next Question advances to the next question; clicking Finish goes to the summary screen.
+   - Progress indicator somewhere visible: `Question 3 / 10`.
+
+4. Summary screen (after the Nth question):
+   - Shows: number of questions asked, categories used, and a Start Again button that returns to the settings screen with the previous selections pre-filled.
+
+## Persistence
+
+Use localStorage. Persist:
+
+- The default number of questions.
+- Last selected categories (so the settings screen restores them on reload).
+
+Nothing else is tracked — the app is pure self-check, with no correctness grading or scoring.
+
+## Edge cases and error handling
+
+- Malformed JSON at build time: fail the build with a clear message. (This is a bundled file, so a validator script is appropriate.)
+- Item missing a header-declared field: render that field as an empty string in the reveal; don't crash.
+- Item with no questionable fields: skip entirely (don't include in the pool).
+- N larger than available items across selected categories: inline validation on the settings screen, block Start.
+- Empty category selection: Start button disabled.
+
+## Non-goals (explicitly out of scope for v1)
+
+- User-uploadable JSON, multiple datasets, in-app editing.
+- Correctness tracking, scoring, spaced repetition.
+- Audio, images, or non-string field values.
+- Accounts, sync, multi-device.
+- i18n of the UI chrome (English only for now).
+
+## Deliverables
+
+- Source code in a single repo, buildable with a standard `npm install && npm run build`.
+- A README with: chosen stack + one-paragraph rationale, how to run locally, how to swap in a new vocabulary JSON, and how to deploy as a static site.
+- A sample `vocabulary.json` bundled in the repo (German <-> English, a couple of small categories) so the app works out of the box.
+
