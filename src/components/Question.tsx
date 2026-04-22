@@ -51,10 +51,10 @@ export function QuestionScreen({ question, index, total, isLast, onNext, onFinis
           <ul className="answer">
             {otherFields.map((f) => (
               <li key={f.name}>
-                <span className="field-name">{f.name}:</span>{' '}
-                {revealed && (
-                  <span className="field-value">{question.item[f.name] ?? ''}</span>
-                )}
+                <span className="field-name">{f.name}:</span>
+                <span className="field-value">
+                  {revealed ? (question.item[f.name] ?? '') : ''}
+                </span>
               </li>
             ))}
           </ul>

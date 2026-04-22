@@ -2,42 +2,24 @@
   {
     "name": "Strong Verbs",
     "header": [
-      { "name": "infinitive", "questionable": true },
-      { "name": "3rd person", "questionable": false },
-      { "name": "past", "questionable": false },
-      { "name": "participle", "questionable": false },
-      { "name": "translation", "questionable": false }
+      {"name": "infinitive", "questionable": true},
+      {"name": "3rd person", "questionable": false},
+      {"name": "past", "questionable": false},
+      {"name": "participle", "questionable": false},
+      {"name": "translation", "questionable": false}
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          {
-            "infinitive": "backen",
-            "3rd person": "bäckt",
-            "past": "backte/buk",
-            "participle": "gebacken",
-            "translation": "to bake"
-          },
-          {
-            "infinitive": "beginnen",
-            "3rd person": "beginnt",
-            "past": "begann",
-            "participle": "begonnen",
-            "translation": "to begin"
-          }
+          {"infinitive": "backen", "3rd person": "bäckt", "past": "backte/buk", "participle": "gebacken", "translation": "to bake"},
+          {"infinitive": "beginnen", "3rd person": "beginnt", "past": "begann", "participle": "begonnen", "translation": "to begin"}
         ]
       },
       {
         "id": 1,
         "items": [
-          {
-            "infinitive": "biegen",
-            "3rd person": "biegt",
-            "past": "bog",
-            "participle": "gebogen",
-            "translation": "to bend"
-          }
+          {"infinitive": "biegen", "3rd person": "biegt", "past": "bog", "participle": "gebogen", "translation": "to bend"}
         ]
       }
     ]
@@ -45,17 +27,14 @@
   {
     "name": "Weak Verbs",
     "header": [
-      { "name": "infinitive", "questionable": true },
-      { "name": "translation", "questionable": false }
+      {"name": "infinitive", "questionable": true},
+      {"name": "translation", "questionable": false}
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          {
-            "infinitive": "arbeiten",
-            "translation": "to work"
-          }
+          {"infinitive": "arbeiten", "translation": "to work"}
         ]
       }
     ]
@@ -63,65 +42,23 @@
   {
     "name": "Modal Verbs",
     "header": [
-      { "name": "infinitive", "questionable": true },
-      { "name": "3rd person", "questionable": false },
-      { "name": "past", "questionable": false },
-      { "name": "participle", "questionable": false },
-      { "name": "translation", "questionable": false }
+      {"name": "infinitive", "questionable": true},
+      {"name": "3rd person", "questionable": false},
+      {"name": "past", "questionable": false},
+      {"name": "participle", "questionable": false},
+      {"name": "translation", "questionable": false}
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          {
-            "infinitive": "dürfen",
-            "3rd person": "darf",
-            "past": "durfte",
-            "participle": "gedurft",
-            "translation": "to be allowed to"
-          },
-          {
-            "infinitive": "können",
-            "3rd person": "kann",
-            "past": "konnte",
-            "participle": "gekonnt",
-            "translation": "can, to be able to"
-          },
-          {
-            "infinitive": "mögen",
-            "3rd person": "mag",
-            "past": "mochte",
-            "participle": "gemocht",
-            "translation": "to like"
-          },
-          {
-            "infinitive": "möchten",
-            "3rd person": "möchte",
-            "past": "mochte",
-            "participle": "gemocht",
-            "translation": "would like to"
-          },
-          {
-            "infinitive": "müssen",
-            "3rd person": "muss",
-            "past": "musste",
-            "participle": "gemusst",
-            "translation": "must, to have to"
-          },
-          {
-            "infinitive": "sollen",
-            "3rd person": "soll",
-            "past": "sollte",
-            "participle": "gesollt",
-            "translation": "should, to be supposed to"
-          },
-          {
-            "infinitive": "wollen",
-            "3rd person": "will",
-            "past": "wollte",
-            "participle": "gewollt",
-            "translation": "to want to"
-          }
+          {"infinitive": "dürfen", "3rd person": "darf", "past": "durfte", "participle": "gedurft", "translation": "to be allowed to"},
+          {"infinitive": "können", "3rd person": "kann", "past": "konnte", "participle": "gekonnt", "translation": "can, to be able to"},
+          {"infinitive": "mögen", "3rd person": "mag", "past": "mochte", "participle": "gemocht", "translation": "to like"},
+          {"infinitive": "möchten", "3rd person": "möchte", "past": "mochte", "participle": "gemocht", "translation": "would like to"},
+          {"infinitive": "müssen", "3rd person": "muss", "past": "musste", "participle": "gemusst", "translation": "must, to have to"},
+          {"infinitive": "sollen", "3rd person": "soll", "past": "sollte", "participle": "gesollt", "translation": "should, to be supposed to"},
+          {"infinitive": "wollen", "3rd person": "will", "past": "wollte", "participle": "gewollt", "translation": "to want to"}
         ]
       }
     ]
@@ -129,64 +66,64 @@
   {
     "name": "Prepositions",
     "header": [
-      { "name": "preposition", "questionable": true },
-      { "name": "case", "questionable": false },
-      { "name": "translation", "questionable": false }
+      {"name": "preposition", "questionable": true},
+      {"name": "case", "questionable": false},
+      {"name": "translation", "questionable": false}
     ],
     "groups": [
       {
-        "id": 0,
+        "id": "Accusative Prepositions",
         "items": [
-          { "preposition": "durch", "case": "accusative", "translation": "through" },
-          { "preposition": "für", "case": "accusative", "translation": "for" },
-          { "preposition": "gegen", "case": "accusative", "translation": "against" },
-          { "preposition": "ohne", "case": "accusative", "translation": "without" },
-          { "preposition": "um", "case": "accusative", "translation": "around, at (for time)" }
+          {"preposition": "durch", "case": "accusative", "translation": "through"},
+          {"preposition": "für", "case": "accusative", "translation": "for"},
+          {"preposition": "gegen", "case": "accusative", "translation": "against"},
+          {"preposition": "ohne", "case": "accusative", "translation": "without"},
+          {"preposition": "um", "case": "accusative", "translation": "around, at (for time)"}
         ]
       },
       {
-        "id": 1,
+        "id": "Dative Prepositions",
         "items": [
-          { "preposition": "aus", "case": "dative", "translation": "from, out of" },
-          { "preposition": "außer", "case": "dative", "translation": "except for, besides" },
-          { "preposition": "bei", "case": "dative", "translation": "at, near, by" },
-          { "preposition": "mit", "case": "dative", "translation": "with, by means of" },
-          { "preposition": "nach", "case": "dative", "translation": "after, to, according to" },
-          { "preposition": "seit", "case": "dative", "translation": "since, for" },
-          { "preposition": "von", "case": "dative", "translation": "from, by, of, about" },
-          { "preposition": "zu", "case": "dative", "translation": "to" },
-          { "preposition": "gegenüber", "case": "dative", "translation": "across from" }
+          {"preposition": "aus", "case": "dative", "translation": "from, out of"},
+          {"preposition": "außer", "case": "dative", "translation": "except for, besides"},
+          {"preposition": "bei", "case": "dative", "translation": "at, near, by"},
+          {"preposition": "mit", "case": "dative", "translation": "with, by means of"},
+          {"preposition": "nach", "case": "dative", "translation": "after, to, according to"},
+          {"preposition": "seit", "case": "dative", "translation": "since, for"},
+          {"preposition": "von", "case": "dative", "translation": "from, by, of, about"},
+          {"preposition": "zu", "case": "dative", "translation": "to"},
+          {"preposition": "gegenüber", "case": "dative", "translation": "across from"}
         ]
       },
       {
-        "id": 2,
+        "id": "Accusative/Dative Prepositions",
         "items": [
-          { "preposition": "an", "case": "dative/accusative", "translation": "on, at" },
-          { "preposition": "auf", "case": "dative/accusative", "translation": "on, on top of" },
-          { "preposition": "hinter", "case": "dative/accusative", "translation": "behind" },
-          { "preposition": "in", "case": "dative/accusative", "translation": "in, into" },
-          { "preposition": "neben", "case": "dative/accusative", "translation": "next to" },
-          { "preposition": "über", "case": "dative/accusative", "translation": "over, above" },
-          { "preposition": "unter", "case": "dative/accusative", "translation": "under, among" },
-          { "preposition": "vor", "case": "dative/accusative", "translation": "in front of, before" },
-          { "preposition": "zwischen", "case": "dative/accusative", "translation": "between" }
+          {"preposition": "an", "case": "dative/accusative", "translation": "on, at"},
+          {"preposition": "auf", "case": "dative/accusative", "translation": "on, on top of"},
+          {"preposition": "hinter", "case": "dative/accusative", "translation": "behind"},
+          {"preposition": "in", "case": "dative/accusative", "translation": "in, into"},
+          {"preposition": "neben", "case": "dative/accusative", "translation": "next to"},
+          {"preposition": "über", "case": "dative/accusative", "translation": "over, above"},
+          {"preposition": "unter", "case": "dative/accusative", "translation": "under, among"},
+          {"preposition": "vor", "case": "dative/accusative", "translation": "in front of, before"},
+          {"preposition": "zwischen", "case": "dative/accusative", "translation": "between"}
         ]
       },
       {
-        "id": 3,
+        "id": "Genitive Prepositions",
         "items": [
-          { "preposition": "trotz", "case": "genitive", "translation": "despite, in spite of" },
-          { "preposition": "während", "case": "genitive", "translation": "during" },
-          { "preposition": "wegen", "case": "genitive", "translation": "because of, on account of" },
-          { "preposition": "anstatt / statt", "case": "genitive", "translation": "instead of" },
-          { "preposition": "außerhalb", "case": "genitive", "translation": "outside of" },
-          { "preposition": "innerhalb", "case": "genitive", "translation": "inside of, within" },
-          { "preposition": "oberhalb", "case": "genitive", "translation": "above" },
-          { "preposition": "unterhalb", "case": "genitive", "translation": "below" },
-          { "preposition": "diesseits", "case": "genitive", "translation": "on this side of" },
-          { "preposition": "jenseits", "case": "genitive", "translation": "on the other side of" },
-          { "preposition": "beidseits", "case": "genitive", "translation": "on both sides of" },
-          { "preposition": "unweit", "case": "genitive", "translation": "not far from" }
+          {"preposition": "trotz", "case": "genitive", "translation": "despite, in spite of"},
+          {"preposition": "während", "case": "genitive", "translation": "during"},
+          {"preposition": "wegen", "case": "genitive", "translation": "because of, on account of"},
+          {"preposition": "anstatt / statt", "case": "genitive", "translation": "instead of"},
+          {"preposition": "außerhalb", "case": "genitive", "translation": "outside of"},
+          {"preposition": "innerhalb", "case": "genitive", "translation": "inside of, within"},
+          {"preposition": "oberhalb", "case": "genitive", "translation": "above"},
+          {"preposition": "unterhalb", "case": "genitive", "translation": "below"},
+          {"preposition": "diesseits", "case": "genitive", "translation": "on this side of"},
+          {"preposition": "jenseits", "case": "genitive", "translation": "on the other side of"},
+          {"preposition": "beidseits", "case": "genitive", "translation": "on both sides of"},
+          {"preposition": "unweit", "case": "genitive", "translation": "not far from"}
         ]
       }
     ]
@@ -194,58 +131,58 @@
   {
     "name": "Conjunctions",
     "header": [
-      { "name": "conjunction", "questionable": true },
-      { "name": "type", "questionable": false },
-      { "name": "position", "questionable": false },
-      { "name": "translation", "questionable": false }
+      {"name": "conjunction", "questionable": true},
+      {"name": "type", "questionable": false},
+      {"name": "position", "questionable": false},
+      {"name": "translation", "questionable": false}
     ],
     "groups": [
       {
-        "id": 0,
+        "id": "Huptsatz Conjunctions 1",
         "items": [
-          { "conjunction": "und", "type": "hauptsatz", "position": "0", "translation": "and" },
-          { "conjunction": "aber", "type": "hauptsatz", "position": "0", "translation": "but" },
-          { "conjunction": "denn", "type": "hauptsatz", "position": "0", "translation": "because" },
-          { "conjunction": "oder", "type": "hauptsatz", "position": "0", "translation": "or" },
-          { "conjunction": "sondern", "type": "hauptsatz", "position": "0", "translation": "but rather (after negative hauptsatz)" },
-          { "conjunction": "doch", "type": "hauptsatz", "position": "0", "translation": "yet, still, but" }
+          {"conjunction": "und", "type": "hauptsatz", "position": "0", "translation": "and"},
+          {"conjunction": "aber", "type": "hauptsatz", "position": "0", "translation": "but"},
+          {"conjunction": "denn", "type": "hauptsatz", "position": "0", "translation": "because"},
+          {"conjunction": "oder", "type": "hauptsatz", "position": "0", "translation": "or"},
+          {"conjunction": "sondern", "type": "hauptsatz", "position": "0", "translation": "but rather (after negative hauptsatz)"},
+          {"conjunction": "doch", "type": "hauptsatz", "position": "0", "translation": "yet, still, but"}
         ]
       },
       {
-        "id": 1,
+        "id": "Nebensatz Conjunctions 1",
         "items": [
-          { "conjunction": "weil", "type": "nebensatz", "position": "1", "translation": "because" },
-          { "conjunction": "da", "type": "nebensatz", "position": "1", "translation": "because (can be used in beginning of sentence)" },
-          { "conjunction": "dass", "type": "nebensatz", "position": "1", "translation": "that" },
-          { "conjunction": "ob", "type": "nebensatz", "position": "1", "translation": "if, whether" },
-          { "conjunction": "wenn", "type": "nebensatz", "position": "1", "translation": "if, when" },
-          { "conjunction": "als", "type": "nebensatz", "position": "1", "translation": "when (past singular event) / than" },
-          { "conjunction": "obwohl", "type": "nebensatz", "position": "1", "translation": "although" },
-          { "conjunction": "damit", "type": "nebensatz", "position": "1", "translation": "so that, in order to" },
-          { "conjunction": "seit/seitdem", "type": "nebensatz", "position": "1", "translation": "since (cause)" }
+          {"conjunction": "weil", "type": "nebensatz", "position": "1", "translation": "because"},
+          {"conjunction": "da", "type": "nebensatz", "position": "1", "translation": "because (can be used in beginning of sentence)"},
+          {"conjunction": "dass", "type": "nebensatz", "position": "1", "translation": "that"},
+          {"conjunction": "ob", "type": "nebensatz", "position": "1", "translation": "if, whether"},
+          {"conjunction": "wenn", "type": "nebensatz", "position": "1", "translation": "if, when"},
+          {"conjunction": "als", "type": "nebensatz", "position": "1", "translation": "when (past singular event) / than"},
+          {"conjunction": "obwohl", "type": "nebensatz", "position": "1", "translation": "although"},
+          {"conjunction": "damit", "type": "nebensatz", "position": "1", "translation": "so that, in order to"},
+          {"conjunction": "seit/seitdem", "type": "nebensatz", "position": "1", "translation": "since (cause)"}
         ]
       },
       {
-        "id": 2,
+        "id": "Nebensatz Conjunctions 2",
         "items": [
-          { "conjunction": "bevor", "type": "nebensatz", "position": "1", "translation": "before" },
-          { "conjunction": "bis", "type": "nebensatz", "position": "1", "translation": "until" },
-          { "conjunction": "nachdem", "type": "nebensatz", "position": "1", "translation": "after" },
-          { "conjunction": "solange", "type": "nebensatz", "position": "1", "translation": "as long as" },
-          { "conjunction": "sobald", "type": "nebensatz", "position": "1", "translation": "as soon as" },
-          { "conjunction": "während", "type": "nebensatz", "position": "1", "translation": "while" },
-          { "conjunction": "falls", "type": "nebensatz", "position": "1", "translation": "in case" },
-          { "conjunction": "sodass", "type": "nebensatz", "position": "1", "translation": "so that, with the result that" }
+          {"conjunction": "bevor", "type": "nebensatz", "position": "1", "translation": "before"},
+          {"conjunction": "bis", "type": "nebensatz", "position": "1", "translation": "until"},
+          {"conjunction": "nachdem", "type": "nebensatz", "position": "1", "translation": "after"},
+          {"conjunction": "solange", "type": "nebensatz", "position": "1", "translation": "as long as"},
+          {"conjunction": "sobald", "type": "nebensatz", "position": "1", "translation": "as soon as"},
+          {"conjunction": "während", "type": "nebensatz", "position": "1", "translation": "while"},
+          {"conjunction": "falls", "type": "nebensatz", "position": "1", "translation": "in case"},
+          {"conjunction": "sodass", "type": "nebensatz", "position": "1", "translation": "so that, with the result that"}
         ]
       },
       {
-        "id": 3,
+        "id": "Huptsatz Conjunctions 2",
         "items": [
-          { "conjunction": "dann", "type": "hauptsatz", "position": "1", "translation": "then" },
-          { "conjunction": "deshalb", "type": "hauptsatz", "position": "1", "translation": "therefore" },
-          { "conjunction": "trotzdem", "type": "hauptsatz", "position": "1", "translation": "despite that, nevertheless" },
-          { "conjunction": "sonst", "type": "hauptsatz", "position": "1", "translation": "otherwise" },
-          { "conjunction": "außerdem", "type": "hauptsatz", "position": "1", "translation": "besides, in addition" }
+          {"conjunction": "dann", "type": "hauptsatz", "position": "1", "translation": "then"},
+          {"conjunction": "deshalb", "type": "hauptsatz", "position": "1", "translation": "therefore"},
+          {"conjunction": "trotzdem", "type": "hauptsatz", "position": "1", "translation": "despite that, nevertheless"},
+          {"conjunction": "sonst", "type": "hauptsatz", "position": "1", "translation": "otherwise"},
+          {"conjunction": "außerdem", "type": "hauptsatz", "position": "1", "translation": "besides, in addition"}
         ]
       }
     ]
@@ -253,132 +190,132 @@
   {
     "name": "Nouns",
     "header": [
-      { "name": "noun", "questionable": true },
-      { "name": "gender", "questionable": false },
-      { "name": "plural", "questionable": false },
-      { "name": "translation", "questionable": false }
+      {"name": "noun", "questionable": true},
+      {"name": "gender", "questionable": false},
+      {"name": "plural", "questionable": false},
+      {"name": "translation", "questionable": false}
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          { "noun": "Mann", "gender": "der", "plural": "Männer", "translation": "the man" },
-          { "noun": "Frau", "gender": "die", "plural": "Frauen", "translation": "the woman" },
-          { "noun": "Kind", "gender": "das", "plural": "Kinder", "translation": "the child" },
-          { "noun": "Junge", "gender": "der", "plural": "Jungen", "translation": "the boy" },
-          { "noun": "Mädchen", "gender": "das", "plural": "Mädchen", "translation": "the girl" },
-          { "noun": "Familie", "gender": "die", "plural": "Familien", "translation": "the family" },
-          { "noun": "Freund", "gender": "der", "plural": "Freunde", "translation": "the friend (male)" },
-          { "noun": "Freundin", "gender": "die", "plural": "Freundinnen", "translation": "the friend (female)" },
-          { "noun": "Vater", "gender": "der", "plural": "Väter", "translation": "the father" },
-          { "noun": "Mutter", "gender": "die", "plural": "Mütter", "translation": "the mother" },
-          { "noun": "Sohn", "gender": "der", "plural": "Söhne", "translation": "the son" },
-          { "noun": "Tochter", "gender": "die", "plural": "Töchter", "translation": "the daughter" },
-          { "noun": "Bruder", "gender": "der", "plural": "Brüder", "translation": "the brother" },
-          { "noun": "Schwester", "gender": "die", "plural": "Schwestern", "translation": "the sister" },
-          { "noun": "Mensch", "gender": "der", "plural": "Menschen", "translation": "the person" },
-          { "noun": "Leute", "gender": "die", "plural": "Leute", "translation": "the people" },
-          { "noun": "Haus", "gender": "das", "plural": "Häuser", "translation": "the house" },
-          { "noun": "Wohnung", "gender": "die", "plural": "Wohnungen", "translation": "the apartment" },
-          { "noun": "Zimmer", "gender": "das", "plural": "Zimmer", "translation": "the room" },
-          { "noun": "Tür", "gender": "die", "plural": "Türen", "translation": "the door" },
-          { "noun": "Fenster", "gender": "das", "plural": "Fenster", "translation": "the window" },
-          { "noun": "Tisch", "gender": "der", "plural": "Tische", "translation": "the table" },
-          { "noun": "Stuhl", "gender": "der", "plural": "Stühle", "translation": "the chair" },
-          { "noun": "Bett", "gender": "das", "plural": "Betten", "translation": "the bed" },
-          { "noun": "Schrank", "gender": "der", "plural": "Schränke", "translation": "the cupboard" },
-          { "noun": "Spiegel", "gender": "der", "plural": "Spiegel", "translation": "the mirror" }
+          {"noun": "Mann", "gender": "der", "plural": "Männer", "translation": "the man"},
+          {"noun": "Frau", "gender": "die", "plural": "Frauen", "translation": "the woman"},
+          {"noun": "Kind", "gender": "das", "plural": "Kinder", "translation": "the child"},
+          {"noun": "Junge", "gender": "der", "plural": "Jungen", "translation": "the boy"},
+          {"noun": "Mädchen", "gender": "das", "plural": "Mädchen", "translation": "the girl"},
+          {"noun": "Familie", "gender": "die", "plural": "Familien", "translation": "the family"},
+          {"noun": "Freund", "gender": "der", "plural": "Freunde", "translation": "the friend (male)"},
+          {"noun": "Freundin", "gender": "die", "plural": "Freundinnen", "translation": "the friend (female)"},
+          {"noun": "Vater", "gender": "der", "plural": "Väter", "translation": "the father"},
+          {"noun": "Mutter", "gender": "die", "plural": "Mütter", "translation": "the mother"},
+          {"noun": "Sohn", "gender": "der", "plural": "Söhne", "translation": "the son"},
+          {"noun": "Tochter", "gender": "die", "plural": "Töchter", "translation": "the daughter"},
+          {"noun": "Bruder", "gender": "der", "plural": "Brüder", "translation": "the brother"},
+          {"noun": "Schwester", "gender": "die", "plural": "Schwestern", "translation": "the sister"},
+          {"noun": "Mensch", "gender": "der", "plural": "Menschen", "translation": "the person"},
+          {"noun": "Leute", "gender": "die", "plural": "Leute", "translation": "the people"},
+          {"noun": "Haus", "gender": "das", "plural": "Häuser", "translation": "the house"},
+          {"noun": "Wohnung", "gender": "die", "plural": "Wohnungen", "translation": "the apartment"},
+          {"noun": "Zimmer", "gender": "das", "plural": "Zimmer", "translation": "the room"},
+          {"noun": "Tür", "gender": "die", "plural": "Türen", "translation": "the door"},
+          {"noun": "Fenster", "gender": "das", "plural": "Fenster", "translation": "the window"},
+          {"noun": "Tisch", "gender": "der", "plural": "Tische", "translation": "the table"},
+          {"noun": "Stuhl", "gender": "der", "plural": "Stühle", "translation": "the chair"},
+          {"noun": "Bett", "gender": "das", "plural": "Betten", "translation": "the bed"},
+          {"noun": "Schrank", "gender": "der", "plural": "Schränke", "translation": "the cupboard"},
+          {"noun": "Spiegel", "gender": "der", "plural": "Spiegel", "translation": "the mirror"}
         ]
       },
       {
         "id": 1,
         "items": [
-          { "noun": "Lampe", "gender": "die", "plural": "Lampen", "translation": "the lamp" },
-          { "noun": "Licht", "gender": "das", "plural": "Lichter", "translation": "the light" },
-          { "noun": "Computer", "gender": "der", "plural": "Computer", "translation": "the computer" },
-          { "noun": "Handy", "gender": "das", "plural": "Handys", "translation": "the mobile phone" },
-          { "noun": "Buch", "gender": "das", "plural": "Bücher", "translation": "the book" },
-          { "noun": "Zeitung", "gender": "die", "plural": "Zeitungen", "translation": "the newspaper" },
-          { "noun": "Heft", "gender": "das", "plural": "Hefte", "translation": "the notebook" },
-          { "noun": "Stift", "gender": "der", "plural": "Stifte", "translation": "the pen" },
-          { "noun": "Tag", "gender": "der", "plural": "Tage", "translation": "the day" },
-          { "noun": "Woche", "gender": "die", "plural": "Wochen", "translation": "the week" },
-          { "noun": "Monat", "gender": "der", "plural": "Monate", "translation": "the month" },
-          { "noun": "Jahr", "gender": "das", "plural": "Jahre", "translation": "the year" },
-          { "noun": "Zeit", "gender": "die", "plural": "Zeiten", "translation": "the time" },
-          { "noun": "Uhr", "gender": "die", "plural": "Uhren", "translation": "the clock" },
-          { "noun": "Morgen", "gender": "der", "plural": "Morgen", "translation": "the morning" },
-          { "noun": "Abend", "gender": "der", "plural": "Abende", "translation": "the evening" },
-          { "noun": "Nacht", "gender": "die", "plural": "Nächte", "translation": "the night" },
-          { "noun": "Kopf", "gender": "der", "plural": "Köpfe", "translation": "the head" },
-          { "noun": "Gesicht", "gender": "das", "plural": "Gesichter", "translation": "the face" },
-          { "noun": "Auge", "gender": "das", "plural": "Augen", "translation": "the eye" },
-          { "noun": "Ohr", "gender": "das", "plural": "Ohren", "translation": "the ear" },
-          { "noun": "Mund", "gender": "der", "plural": "Münder", "translation": "the mouth" },
-          { "noun": "Hand", "gender": "die", "plural": "Hände", "translation": "the hand" },
-          { "noun": "Finger", "gender": "der", "plural": "Finger", "translation": "the finger" },
-          { "noun": "Fuß", "gender": "der", "plural": "Füße", "translation": "the foot" }
+          {"noun": "Lampe", "gender": "die", "plural": "Lampen", "translation": "the lamp"},
+          {"noun": "Licht", "gender": "das", "plural": "Lichter", "translation": "the light"},
+          {"noun": "Computer", "gender": "der", "plural": "Computer", "translation": "the computer"},
+          {"noun": "Handy", "gender": "das", "plural": "Handys", "translation": "the mobile phone"},
+          {"noun": "Buch", "gender": "das", "plural": "Bücher", "translation": "the book"},
+          {"noun": "Zeitung", "gender": "die", "plural": "Zeitungen", "translation": "the newspaper"},
+          {"noun": "Heft", "gender": "das", "plural": "Hefte", "translation": "the notebook"},
+          {"noun": "Stift", "gender": "der", "plural": "Stifte", "translation": "the pen"},
+          {"noun": "Tag", "gender": "der", "plural": "Tage", "translation": "the day"},
+          {"noun": "Woche", "gender": "die", "plural": "Wochen", "translation": "the week"},
+          {"noun": "Monat", "gender": "der", "plural": "Monate", "translation": "the month"},
+          {"noun": "Jahr", "gender": "das", "plural": "Jahre", "translation": "the year"},
+          {"noun": "Zeit", "gender": "die", "plural": "Zeiten", "translation": "the time"},
+          {"noun": "Uhr", "gender": "die", "plural": "Uhren", "translation": "the clock"},
+          {"noun": "Morgen", "gender": "der", "plural": "Morgen", "translation": "the morning"},
+          {"noun": "Abend", "gender": "der", "plural": "Abende", "translation": "the evening"},
+          {"noun": "Nacht", "gender": "die", "plural": "Nächte", "translation": "the night"},
+          {"noun": "Kopf", "gender": "der", "plural": "Köpfe", "translation": "the head"},
+          {"noun": "Gesicht", "gender": "das", "plural": "Gesichter", "translation": "the face"},
+          {"noun": "Auge", "gender": "das", "plural": "Augen", "translation": "the eye"},
+          {"noun": "Ohr", "gender": "das", "plural": "Ohren", "translation": "the ear"},
+          {"noun": "Mund", "gender": "der", "plural": "Münder", "translation": "the mouth"},
+          {"noun": "Hand", "gender": "die", "plural": "Hände", "translation": "the hand"},
+          {"noun": "Finger", "gender": "der", "plural": "Finger", "translation": "the finger"},
+          {"noun": "Fuß", "gender": "der", "plural": "Füße", "translation": "the foot"}
         ]
       },
       {
         "id": 2,
         "items": [
-          { "noun": "Herz", "gender": "das", "plural": "Herzen", "translation": "the heart" },
-          { "noun": "Freund", "gender": "der", "plural": "Freunde", "translation": "the boyfriend" },
-          { "noun": "Freundin", "gender": "die", "plural": "Freundinnen", "translation": "the girlfriend" },
-          { "noun": "Schule", "gender": "die", "plural": "Schulen", "translation": "the school" },
-          { "noun": "Universität", "gender": "die", "plural": "Universitäten", "translation": "the university" },
-          { "noun": "Lehrer", "gender": "der", "plural": "Lehrer", "translation": "the teacher (male)" },
-          { "noun": "Lehrerin", "gender": "die", "plural": "Lehrerinnen", "translation": "the teacher (female)" },
-          { "noun": "Schüler", "gender": "der", "plural": "Schüler", "translation": "the pupil (male)" },
-          { "noun": "Schülerin", "gender": "die", "plural": "Schülerinnen", "translation": "the pupil (female)" },
-          { "noun": "Student", "gender": "der", "plural": "Studenten", "translation": "the student (male)" },
-          { "noun": "Studentin", "gender": "die", "plural": "Studentinnen", "translation": "the student (female)" },
-          { "noun": "Essen", "gender": "das", "plural": "Essen", "translation": "the food" },
-          { "noun": "Brot", "gender": "das", "plural": "Brote", "translation": "the bread" },
-          { "noun": "Suppe", "gender": "die", "plural": "Suppen", "translation": "the soup" },
-          { "noun": "Apfel", "gender": "der", "plural": "Äpfel", "translation": "the apple" },
-          { "noun": "Banane", "gender": "die", "plural": "Bananen", "translation": "the banana" },
-          { "noun": "Milch", "gender": "die", "plural": "Milchen", "translation": "the milk" },
-          { "noun": "Wasser", "gender": "das", "plural": "Wasser", "translation": "the water" },
-          { "noun": "Kaffee", "gender": "der", "plural": "Kaffees", "translation": "the coffee" },
-          { "noun": "Tee", "gender": "der", "plural": "Tees", "translation": "the tea" },
-          { "noun": "Bier", "gender": "das", "plural": "Biere", "translation": "the beer" },
-          { "noun": "Wein", "gender": "der", "plural": "Weine", "translation": "the wine" },
-          { "noun": "Auto", "gender": "das", "plural": "Autos", "translation": "the car" },
-          { "noun": "Bus", "gender": "der", "plural": "Busse", "translation": "the bus" },
-          { "noun": "Zug", "gender": "der", "plural": "Züge", "translation": "the train" }
+          {"noun": "Herz", "gender": "das", "plural": "Herzen", "translation": "the heart"},
+          {"noun": "Freund", "gender": "der", "plural": "Freunde", "translation": "the boyfriend"},
+          {"noun": "Freundin", "gender": "die", "plural": "Freundinnen", "translation": "the girlfriend"},
+          {"noun": "Schule", "gender": "die", "plural": "Schulen", "translation": "the school"},
+          {"noun": "Universität", "gender": "die", "plural": "Universitäten", "translation": "the university"},
+          {"noun": "Lehrer", "gender": "der", "plural": "Lehrer", "translation": "the teacher (male)"},
+          {"noun": "Lehrerin", "gender": "die", "plural": "Lehrerinnen", "translation": "the teacher (female)"},
+          {"noun": "Schüler", "gender": "der", "plural": "Schüler", "translation": "the pupil (male)"},
+          {"noun": "Schülerin", "gender": "die", "plural": "Schülerinnen", "translation": "the pupil (female)"},
+          {"noun": "Student", "gender": "der", "plural": "Studenten", "translation": "the student (male)"},
+          {"noun": "Studentin", "gender": "die", "plural": "Studentinnen", "translation": "the student (female)"},
+          {"noun": "Essen", "gender": "das", "plural": "Essen", "translation": "the food"},
+          {"noun": "Brot", "gender": "das", "plural": "Brote", "translation": "the bread"},
+          {"noun": "Suppe", "gender": "die", "plural": "Suppen", "translation": "the soup"},
+          {"noun": "Apfel", "gender": "der", "plural": "Äpfel", "translation": "the apple"},
+          {"noun": "Banane", "gender": "die", "plural": "Bananen", "translation": "the banana"},
+          {"noun": "Milch", "gender": "die", "plural": "Milchen", "translation": "the milk"},
+          {"noun": "Wasser", "gender": "das", "plural": "Wasser", "translation": "the water"},
+          {"noun": "Kaffee", "gender": "der", "plural": "Kaffees", "translation": "the coffee"},
+          {"noun": "Tee", "gender": "der", "plural": "Tees", "translation": "the tea"},
+          {"noun": "Bier", "gender": "das", "plural": "Biere", "translation": "the beer"},
+          {"noun": "Wein", "gender": "der", "plural": "Weine", "translation": "the wine"},
+          {"noun": "Auto", "gender": "das", "plural": "Autos", "translation": "the car"},
+          {"noun": "Bus", "gender": "der", "plural": "Busse", "translation": "the bus"},
+          {"noun": "Zug", "gender": "der", "plural": "Züge", "translation": "the train"}
         ]
       },
       {
         "id": 3,
         "items": [
-          { "noun": "Flugzeug", "gender": "das", "plural": "Flugzeuge", "translation": "the airplane" },
-          { "noun": "Schiff", "gender": "das", "plural": "Schiffe", "translation": "the ship" },
-          { "noun": "Weg", "gender": "der", "plural": "Wege", "translation": "the way" },
-          { "noun": "Straße", "gender": "die", "plural": "Straßen", "translation": "the street" },
-          { "noun": "Platz", "gender": "der", "plural": "Plätze", "translation": "the square/place" },
-          { "noun": "Stadt", "gender": "die", "plural": "Städte", "translation": "the city" },
-          { "noun": "Dorf", "gender": "das", "plural": "Dörfer", "translation": "the village" },
-          { "noun": "Land", "gender": "das", "plural": "Länder", "translation": "the country" },
-          { "noun": "Welt", "gender": "die", "plural": "Welten", "translation": "the world" },
-          { "noun": "Arbeit", "gender": "die", "plural": "Arbeiten", "translation": "the work" },
-          { "noun": "Beruf", "gender": "der", "plural": "Berufe", "translation": "the profession" },
-          { "noun": "Geld", "gender": "das", "plural": "Gelder", "translation": "the money" },
-          { "noun": "Euro", "gender": "der", "plural": "Euros", "translation": "the euro" },
-          { "noun": "Bank", "gender": "die", "plural": "Banken", "translation": "the bank" },
-          { "noun": "Geschäft", "gender": "das", "plural": "Geschäfte", "translation": "the shop" },
-          { "noun": "Laden", "gender": "der", "plural": "Läden", "translation": "the store" },
-          { "noun": "Markt", "gender": "der", "plural": "Märkte", "translation": "the market" },
-          { "noun": "Kirche", "gender": "die", "plural": "Kirchen", "translation": "the church" },
-          { "noun": "Krankenhaus", "gender": "das", "plural": "Krankenhäuser", "translation": "the hospital" },
-          { "noun": "Apotheke", "gender": "die", "plural": "Apotheken", "translation": "the pharmacy" },
-          { "noun": "Polizei", "gender": "die", "plural": "Polizeien", "translation": "the police" },
-          { "noun": "Wetter", "gender": "das", "plural": "Wetter", "translation": "the weather" },
-          { "noun": "Sonne", "gender": "die", "plural": "Sonnen", "translation": "the sun" },
-          { "noun": "Regen", "gender": "der", "plural": "Regen", "translation": "the rain" },
-          { "noun": "Schnee", "gender": "der", "plural": "Schnee", "translation": "the snow" },
-          { "noun": "Wind", "gender": "der", "plural": "Winde", "translation": "the wind" }
+          {"noun": "Flugzeug", "gender": "das", "plural": "Flugzeuge", "translation": "the airplane"},
+          {"noun": "Schiff", "gender": "das", "plural": "Schiffe", "translation": "the ship"},
+          {"noun": "Weg", "gender": "der", "plural": "Wege", "translation": "the way"},
+          {"noun": "Straße", "gender": "die", "plural": "Straßen", "translation": "the street"},
+          {"noun": "Platz", "gender": "der", "plural": "Plätze", "translation": "the square/place"},
+          {"noun": "Stadt", "gender": "die", "plural": "Städte", "translation": "the city"},
+          {"noun": "Dorf", "gender": "das", "plural": "Dörfer", "translation": "the village"},
+          {"noun": "Land", "gender": "das", "plural": "Länder", "translation": "the country"},
+          {"noun": "Welt", "gender": "die", "plural": "Welten", "translation": "the world"},
+          {"noun": "Arbeit", "gender": "die", "plural": "Arbeiten", "translation": "the work"},
+          {"noun": "Beruf", "gender": "der", "plural": "Berufe", "translation": "the profession"},
+          {"noun": "Geld", "gender": "das", "plural": "Gelder", "translation": "the money"},
+          {"noun": "Euro", "gender": "der", "plural": "Euros", "translation": "the euro"},
+          {"noun": "Bank", "gender": "die", "plural": "Banken", "translation": "the bank"},
+          {"noun": "Geschäft", "gender": "das", "plural": "Geschäfte", "translation": "the shop"},
+          {"noun": "Laden", "gender": "der", "plural": "Läden", "translation": "the store"},
+          {"noun": "Markt", "gender": "der", "plural": "Märkte", "translation": "the market"},
+          {"noun": "Kirche", "gender": "die", "plural": "Kirchen", "translation": "the church"},
+          {"noun": "Krankenhaus", "gender": "das", "plural": "Krankenhäuser", "translation": "the hospital"},
+          {"noun": "Apotheke", "gender": "die", "plural": "Apotheken", "translation": "the pharmacy"},
+          {"noun": "Polizei", "gender": "die", "plural": "Polizeien", "translation": "the police"},
+          {"noun": "Wetter", "gender": "das", "plural": "Wetter", "translation": "the weather"},
+          {"noun": "Sonne", "gender": "die", "plural": "Sonnen", "translation": "the sun"},
+          {"noun": "Regen", "gender": "der", "plural": "Regen", "translation": "the rain"},
+          {"noun": "Schnee", "gender": "der", "plural": "Schnee", "translation": "the snow"},
+          {"noun": "Wind", "gender": "der", "plural": "Winde", "translation": "the wind"}
         ]
       }
     ]
@@ -386,14 +323,14 @@
   {
     "name": "Adjectives",
     "header": [
-      { "name": "adjective", "questionable": true },
-      { "name": "translation", "questionable": false }
+      {"name": "adjective", "questionable": true},
+      {"name": "translation", "questionable": false}
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          { "adjective": "schön", "translation": "beautiful" }
+          {"adjective": "schön", "translation": "beautiful"}
         ]
       }
     ]
@@ -401,70 +338,70 @@
   {
     "name": "Adverbs",
     "header": [
-      { "name": "adverb", "questionable": true },
-      { "name": "translation", "questionable": false }
+      {"name": "adverb", "questionable": true},
+      {"name": "translation", "questionable": false}
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          { "adverb": "oft", "translation": "often" },
-          { "adverb": "immer", "translation": "always" },
-          { "adverb": "nie", "translation": "never" },
-          { "adverb": "manchmal", "translation": "sometimes" },
-          { "adverb": "selten", "translation": "rarely" },
-          { "adverb": "jetzt", "translation": "now" },
-          { "adverb": "dann", "translation": "then" },
-          { "adverb": "bald", "translation": "soon" },
-          { "adverb": "schon", "translation": "already" },
-          { "adverb": "noch", "translation": "still/yet" },
-          { "adverb": "wieder", "translation": "again" },
-          { "adverb": "gerade", "translation": "just/right now" },
-          { "adverb": "heute", "translation": "today" },
-          { "adverb": "morgen", "translation": "tomorrow" },
-          { "adverb": "gestern", "translation": "yesterday" },
-          { "adverb": "hier", "translation": "here" },
-          { "adverb": "dort", "translation": "there" },
-          { "adverb": "überall", "translation": "everywhere" },
-          { "adverb": "nirgends", "translation": "nowhere" },
-          { "adverb": "links", "translation": "left" },
-          { "adverb": "rechts", "translation": "right" },
-          { "adverb": "weiter", "translation": "further" },
-          { "adverb": "oben", "translation": "above/upstairs" },
-          { "adverb": "unten", "translation": "below/downstairs" },
-          { "adverb": "vorn", "translation": "in front" },
-          { "adverb": "hinten", "translation": "in back" }
+          {"adverb": "oft", "translation": "often"},
+          {"adverb": "immer", "translation": "always"},
+          {"adverb": "nie", "translation": "never"},
+          {"adverb": "manchmal", "translation": "sometimes"},
+          {"adverb": "selten", "translation": "rarely"},
+          {"adverb": "jetzt", "translation": "now"},
+          {"adverb": "dann", "translation": "then"},
+          {"adverb": "bald", "translation": "soon"},
+          {"adverb": "schon", "translation": "already"},
+          {"adverb": "noch", "translation": "still/yet"},
+          {"adverb": "wieder", "translation": "again"},
+          {"adverb": "gerade", "translation": "just/right now"},
+          {"adverb": "heute", "translation": "today"},
+          {"adverb": "morgen", "translation": "tomorrow"},
+          {"adverb": "gestern", "translation": "yesterday"},
+          {"adverb": "hier", "translation": "here"},
+          {"adverb": "dort", "translation": "there"},
+          {"adverb": "überall", "translation": "everywhere"},
+          {"adverb": "nirgends", "translation": "nowhere"},
+          {"adverb": "links", "translation": "left"},
+          {"adverb": "rechts", "translation": "right"},
+          {"adverb": "weiter", "translation": "further"},
+          {"adverb": "oben", "translation": "above/upstairs"},
+          {"adverb": "unten", "translation": "below/downstairs"},
+          {"adverb": "vorn", "translation": "in front"},
+          {"adverb": "hinten", "translation": "in back"}
         ]
       },
       {
         "id": 1,
         "items": [
-          { "adverb": "draußen", "translation": "outside" },
-          { "adverb": "drinnen", "translation": "inside" },
-          { "adverb": "sehr", "translation": "very" },
-          { "adverb": "ziemlich", "translation": "quite/pretty" },
-          { "adverb": "gut", "translation": "well" },
-          { "adverb": "schlecht", "translation": "badly" },
-          { "adverb": "gern", "translation": "gladly/with pleasure" },
-          { "adverb": "leider", "translation": "unfortunately" },
-          { "adverb": "vielleicht", "translation": "perhaps/maybe" },
-          { "adverb": "bestimmt", "translation": "definitely/certainly" },
-          { "adverb": "wirklich", "translation": "really" },
-          { "adverb": "natürlich", "translation": "naturally/of course" },
-          { "adverb": "sicher", "translation": "surely" },
-          { "adverb": "genau", "translation": "exactly" },
-          { "adverb": "ganz", "translation": "completely/quite" },
-          { "adverb": "fast", "translation": "almost" },
-          { "adverb": "nur", "translation": "only" },
-          { "adverb": "auch", "translation": "also" },
-          { "adverb": "so", "translation": "so/like this" },
-          { "adverb": "deshalb", "translation": "therefore" },
-          { "adverb": "trotzdem", "translation": "nevertheless" },
-          { "adverb": "danach", "translation": "afterward" },
-          { "adverb": "zuerst", "translation": "first" },
-          { "adverb": "schließlich", "translation": "finally" },
-          { "adverb": "allerdings", "translation": "however" },
-          { "adverb": "beinahe", "translation": "almost/nearly" }
+          {"adverb": "draußen", "translation": "outside"},
+          {"adverb": "drinnen", "translation": "inside"},
+          {"adverb": "sehr", "translation": "very"},
+          {"adverb": "ziemlich", "translation": "quite/pretty"},
+          {"adverb": "gut", "translation": "well"},
+          {"adverb": "schlecht", "translation": "badly"},
+          {"adverb": "gern", "translation": "gladly/with pleasure"},
+          {"adverb": "leider", "translation": "unfortunately"},
+          {"adverb": "vielleicht", "translation": "perhaps/maybe"},
+          {"adverb": "bestimmt", "translation": "definitely/certainly"},
+          {"adverb": "wirklich", "translation": "really"},
+          {"adverb": "natürlich", "translation": "naturally/of course"},
+          {"adverb": "sicher", "translation": "surely"},
+          {"adverb": "genau", "translation": "exactly"},
+          {"adverb": "ganz", "translation": "completely/quite"},
+          {"adverb": "fast", "translation": "almost"},
+          {"adverb": "nur", "translation": "only"},
+          {"adverb": "auch", "translation": "also"},
+          {"adverb": "so", "translation": "so/like this"},
+          {"adverb": "deshalb", "translation": "therefore"},
+          {"adverb": "trotzdem", "translation": "nevertheless"},
+          {"adverb": "danach", "translation": "afterward"},
+          {"adverb": "zuerst", "translation": "first"},
+          {"adverb": "schließlich", "translation": "finally"},
+          {"adverb": "allerdings", "translation": "however"},
+          {"adverb": "beinahe", "translation": "almost/nearly"}
         ]
       }
     ]
