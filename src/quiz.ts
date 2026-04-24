@@ -52,6 +52,11 @@ export function pickQuestions(
   return out;
 }
 
+export function shuffleQuestions(questions: Question[]): Question[] {
+  const order = shuffledIndices(questions.length);
+  return order.map((i) => questions[i]);
+}
+
 function shuffledIndices(n: number): number[] {
   const a = Array.from({ length: n }, (_, i) => i);
   for (let i = n - 1; i > 0; i--) {

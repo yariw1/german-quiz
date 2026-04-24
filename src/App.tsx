@@ -11,10 +11,11 @@ const vocabulary = vocabularyData as Category[];
 type Screen =
   | { kind: 'settings' }
   | { kind: 'question'; questions: Question[]; index: number; categoryNames: string[] }
-  | { kind: 'summary'; questionCount: number; categoryNames: string[] };
+  | { kind: 'summary'; questions: Question[]; categoryNames: string[] };
 
 export default function App() {
   const [screen, setScreen] = useState<Screen>({ kind: 'settings' });
+  const [repeatShuffle, setRepeatShuffle] = useState(false);
   const [lastSelected, setLastSelected] = useState<string[]>(() => {
     const valid = new Set(vocabulary.map((c) => c.name));
     return getSelectedCategories().filter((n) => valid.has(n));
@@ -48,7 +49,7 @@ export default function App() {
           if (isLast) {
             setScreen({
               kind: 'summary',
-              questionCount: questions.length,
+              questions,
               categoryNames,
             });
           } else {
@@ -58,7 +59,7 @@ export default function App() {
         onFinish={() => {
           setScreen({
             kind: 'summary',
-            questionCount: index + 1,
+            questions: questions.slice(0, index + 1),
             categoryNames,
           });
         }}
@@ -68,9 +69,12 @@ export default function App() {
 
   return (
     <Summary
-      questionCount={screen.questionCount}
+      questions={screen.questions}
       categoryNames={screen.categoryNames}
-      onRestart={() => setScreen({ kind: 'settings' })}
+      shuffle={repeatShuffle}
+      onShuffleChange={setRepeatShuffle}
+      onRestart={() => { setRepeatShuffle(false); setScreen({ kind: 'settings' }); }}
+      onRepeat={(qs) => setScreen({ kind: 'question', questions: qs, index: 0, categoryNames: screen.categoryNames })}
     />
   );
 }

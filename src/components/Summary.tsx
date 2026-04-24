@@ -1,12 +1,18 @@
 import { useEffect } from 'react';
+import type { Question } from '../types';
+import { shuffleQuestions } from '../quiz';
 
 type Props = {
-  questionCount: number;
+  questions: Question[];
   categoryNames: string[];
+  shuffle: boolean;
+  onShuffleChange: (value: boolean) => void;
   onRestart: () => void;
+  onRepeat: (questions: Question[]) => void;
 };
 
-export function Summary({ questionCount, categoryNames, onRestart }: Props) {
+export function Summary({ questions, categoryNames, shuffle, onShuffleChange, onRestart, onRepeat }: Props) {
+
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (e.code !== 'Space' && e.key !== ' ' && e.key !== 'Enter') return;
@@ -23,13 +29,28 @@ export function Summary({ questionCount, categoryNames, onRestart }: Props) {
     <div className="screen summary">
       <h1>Done</h1>
       <p>
-        Questions asked: <strong>{questionCount}</strong>
+        Questions asked: <strong>{questions.length}</strong>
       </p>
       <p>
         Categories: <strong>{categoryNames.join(', ')}</strong>
       </p>
-      <button type="button" className="primary" onClick={onRestart}>
-        Start Again
+      <label>
+        <input
+          type="checkbox"
+          checked={shuffle}
+          onChange={(e) => onShuffleChange(e.target.checked)}
+        />
+        {' '}Shuffle words
+      </label>
+      <button
+        type="button"
+        className="primary"
+        onClick={() => onRepeat(shuffle ? shuffleQuestions(questions) : questions)}
+      >
+        Repeat Test
+      </button>
+      <button type="button" className="green" onClick={onRestart}>
+        Main Menu
       </button>
     </div>
   );

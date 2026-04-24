@@ -45,7 +45,7 @@ export function QuestionScreen({ question, index, total, isLast, onNext, onFinis
             </div>
           </div>
           <div className="prompt">
-            <span className="field-name">{question.promptField}</span>
+            <span className="category-name">{question.category.name}</span>
             <span className="field-value">{promptValue}</span>
           </div>
           <ul className="answer">
