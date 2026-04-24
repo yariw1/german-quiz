@@ -10,16 +10,168 @@
     ],
     "groups": [
       {
-        "id": 0,
+        "id": "ei → ie → ie",
         "items": [
-          {"infinitive": "backen", "3rd person": "bäckt", "past": "backte/buk", "participle": "gebacken", "translation": "to bake"},
-          {"infinitive": "beginnen", "3rd person": "beginnt", "past": "begann", "participle": "begonnen", "translation": "to begin"}
+          {"infinitive": "bleiben", "3rd person": "bleibt", "past": "blieb", "participle": "geblieben", "translation": "to stay, remain"},
+          {"infinitive": "leihen", "3rd person": "leiht", "past": "lieh", "participle": "geliehen", "translation": "to lend, borrow"},
+          {"infinitive": "meiden", "3rd person": "meidet", "past": "mied", "participle": "gemieden", "translation": "to avoid"},
+          {"infinitive": "reiben", "3rd person": "reibt", "past": "rieb", "participle": "gerieben", "translation": "to rub"},
+          {"infinitive": "scheiden", "3rd person": "scheidet", "past": "schied", "participle": "geschieden", "translation": "to separate, divorce"},
+          {"infinitive": "scheinen", "3rd person": "scheint", "past": "schien", "participle": "geschienen", "translation": "to shine, seem"},
+          {"infinitive": "schreiben", "3rd person": "schreibt", "past": "schrieb", "participle": "geschrieben", "translation": "to write"},
+          {"infinitive": "schreien", "3rd person": "schreit", "past": "schrie", "participle": "geschrien", "translation": "to shout, scream"},
+          {"infinitive": "schweigen", "3rd person": "schweigt", "past": "schwieg", "participle": "geschwiegen", "translation": "to be silent"},
+          {"infinitive": "steigen", "3rd person": "steigt", "past": "stieg", "participle": "gestiegen", "translation": "to climb, rise"},
+          {"infinitive": "treiben", "3rd person": "treibt", "past": "trieb", "participle": "getrieben", "translation": "to drive, push"},
+          {"infinitive": "weisen", "3rd person": "weist", "past": "wies", "participle": "gewiesen", "translation": "to point, show"}
         ]
       },
       {
-        "id": 1,
+        "id": "ei → i → i",
         "items": [
-          {"infinitive": "biegen", "3rd person": "biegt", "past": "bog", "participle": "gebogen", "translation": "to bend"}
+          {"infinitive": "beißen", "3rd person": "beißt", "past": "biss", "participle": "gebissen", "translation": "to bite"},
+          {"infinitive": "gleiten", "3rd person": "gleitet", "past": "glitt", "participle": "geglitten", "translation": "to glide, slide"},
+          {"infinitive": "greifen", "3rd person": "greift", "past": "griff", "participle": "gegriffen", "translation": "to grab, reach"},
+          {"infinitive": "kneifen", "3rd person": "kneift", "past": "kniff", "participle": "gekniffen", "translation": "to pinch"},
+          {"infinitive": "leiden", "3rd person": "leidet", "past": "litt", "participle": "gelitten", "translation": "to suffer"},
+          {"infinitive": "pfeifen", "3rd person": "pfeift", "past": "pfiff", "participle": "gepfiffen", "translation": "to whistle"},
+          {"infinitive": "reißen", "3rd person": "reißt", "past": "riss", "participle": "gerissen", "translation": "to tear, rip"},
+          {"infinitive": "schleichen", "3rd person": "schleicht", "past": "schlich", "participle": "geschlichen", "translation": "to sneak, creep"},
+          {"infinitive": "schneiden", "3rd person": "schneidet", "past": "schnitt", "participle": "geschnitten", "translation": "to cut"},
+          {"infinitive": "schreiten", "3rd person": "schreitet", "past": "schritt", "participle": "geschritten", "translation": "to stride"},
+          {"infinitive": "streiten", "3rd person": "streitet", "past": "stritt", "participle": "gestritten", "translation": "to argue, dispute"},
+          {"infinitive": "weichen", "3rd person": "weicht", "past": "wich", "participle": "gewichen", "translation": "to yield, give way"}
+        ]
+      },
+      {
+        "id": "→ o → o",
+        "items": [
+          {"infinitive": "biegen", "3rd person": "biegt", "past": "bog", "participle": "gebogen", "translation": "to bend"},
+          {"infinitive": "bieten", "3rd person": "bietet", "past": "bot", "participle": "geboten", "translation": "to offer"},
+          {"infinitive": "fechten", "3rd person": "ficht", "past": "focht", "participle": "gefochten", "translation": "to fence, fight"},
+          {"infinitive": "flechten", "3rd person": "flicht", "past": "flocht", "participle": "geflochten", "translation": "to braid, plait"},
+          {"infinitive": "fliegen", "3rd person": "fliegt", "past": "flog", "participle": "geflogen", "translation": "to fly"},
+          {"infinitive": "fliehen", "3rd person": "flieht", "past": "floh", "participle": "geflohen", "translation": "to flee"},
+          {"infinitive": "fließen", "3rd person": "fließt", "past": "floss", "participle": "geflossen", "translation": "to flow"},
+          {"infinitive": "frieren", "3rd person": "friert", "past": "fror", "participle": "gefroren", "translation": "to freeze"},
+          {"infinitive": "genießen", "3rd person": "genießt", "past": "genoss", "participle": "genossen", "translation": "to enjoy"},
+          {"infinitive": "gießen", "3rd person": "gießt", "past": "goss", "participle": "gegossen", "translation": "to pour"},
+          {"infinitive": "heben", "3rd person": "hebt", "past": "hob", "participle": "gehoben", "translation": "to lift, raise"},
+          {"infinitive": "kriechen", "3rd person": "kriecht", "past": "kroch", "participle": "gekrochen", "translation": "to crawl"},
+          {"infinitive": "lügen", "3rd person": "lügt", "past": "log", "participle": "gelogen", "translation": "to lie, tell lies"},
+          {"infinitive": "riechen", "3rd person": "riecht", "past": "roch", "participle": "gerochen", "translation": "to smell"},
+          {"infinitive": "schieben", "3rd person": "schiebt", "past": "schob", "participle": "geschoben", "translation": "to push, slide"},
+          {"infinitive": "schießen", "3rd person": "schießt", "past": "schoss", "participle": "geschossen", "translation": "to shoot"},
+          {"infinitive": "schließen", "3rd person": "schließt", "past": "schloss", "participle": "geschlossen", "translation": "to close, lock"},
+          {"infinitive": "schmelzen", "3rd person": "schmilzt", "past": "schmolz", "participle": "geschmolzen", "translation": "to melt"},
+          {"infinitive": "schwellen", "3rd person": "schwillt", "past": "schwoll", "participle": "geschwollen", "translation": "to swell"},
+          {"infinitive": "trügen", "3rd person": "trügt", "past": "trog", "participle": "getrogen", "translation": "to deceive"},
+          {"infinitive": "verlieren", "3rd person": "verliert", "past": "verlor", "participle": "verloren", "translation": "to lose"},
+          {"infinitive": "weben", "3rd person": "webt", "past": "wob", "participle": "gewoben", "translation": "to weave"},
+          {"infinitive": "wiegen", "3rd person": "wiegt", "past": "wog", "participle": "gewogen", "translation": "to weigh"},
+          {"infinitive": "ziehen", "3rd person": "zieht", "past": "zog", "participle": "gezogen", "translation": "to pull, move"}
+        ]
+      },
+      {
+        "id": "i → a → u",
+        "items": [
+          {"infinitive": "binden", "3rd person": "bindet", "past": "band", "participle": "gebunden", "translation": "to bind, tie"},
+          {"infinitive": "dringen", "3rd person": "dringt", "past": "drang", "participle": "gedrungen", "translation": "to penetrate, urge"},
+          {"infinitive": "finden", "3rd person": "findet", "past": "fand", "participle": "gefunden", "translation": "to find"},
+          {"infinitive": "gelingen", "3rd person": "gelingt", "past": "gelang", "participle": "gelungen", "translation": "to succeed"},
+          {"infinitive": "klingen", "3rd person": "klingt", "past": "klang", "participle": "geklungen", "translation": "to sound, ring"},
+          {"infinitive": "ringen", "3rd person": "ringt", "past": "rang", "participle": "gerungen", "translation": "to wrestle, struggle"},
+          {"infinitive": "schwinden", "3rd person": "schwindet", "past": "schwand", "participle": "geschwunden", "translation": "to diminish, vanish"},
+          {"infinitive": "schwingen", "3rd person": "schwingt", "past": "schwang", "participle": "geschwungen", "translation": "to swing"},
+          {"infinitive": "singen", "3rd person": "singt", "past": "sang", "participle": "gesungen", "translation": "to sing"},
+          {"infinitive": "sinken", "3rd person": "sinkt", "past": "sank", "participle": "gesunken", "translation": "to sink"},
+          {"infinitive": "springen", "3rd person": "springt", "past": "sprang", "participle": "gesprungen", "translation": "to jump"},
+          {"infinitive": "trinken", "3rd person": "trinkt", "past": "trank", "participle": "getrunken", "translation": "to drink"},
+          {"infinitive": "winden", "3rd person": "windet", "past": "wand", "participle": "gewunden", "translation": "to wind, coil"},
+          {"infinitive": "zwingen", "3rd person": "zwingt", "past": "zwang", "participle": "gezwungen", "translation": "to force, compel"}
+        ]
+      },
+      {
+        "id": "e/i → a → o",
+        "items": [
+          {"infinitive": "befehlen", "3rd person": "befiehlt", "past": "befahl", "participle": "befohlen", "translation": "to command, order"},
+          {"infinitive": "beginnen", "3rd person": "beginnt", "past": "begann", "participle": "begonnen", "translation": "to begin"},
+          {"infinitive": "brechen", "3rd person": "bricht", "past": "brach", "participle": "gebrochen", "translation": "to break"},
+          {"infinitive": "empfehlen", "3rd person": "empfiehlt", "past": "empfahl", "participle": "empfohlen", "translation": "to recommend"},
+          {"infinitive": "erschrecken", "3rd person": "erschrickt", "past": "erschrak", "participle": "erschrocken", "translation": "to be frightened"},
+          {"infinitive": "gewinnen", "3rd person": "gewinnt", "past": "gewann", "participle": "gewonnen", "translation": "to win"},
+          {"infinitive": "helfen", "3rd person": "hilft", "past": "half", "participle": "geholfen", "translation": "to help"},
+          {"infinitive": "nehmen", "3rd person": "nimmt", "past": "nahm", "participle": "genommen", "translation": "to take"},
+          {"infinitive": "rinnen", "3rd person": "rinnt", "past": "rann", "participle": "geronnen", "translation": "to trickle, flow"},
+          {"infinitive": "schwimmen", "3rd person": "schwimmt", "past": "schwamm", "participle": "geschwommen", "translation": "to swim"},
+          {"infinitive": "sinnen", "3rd person": "sinnt", "past": "sann", "participle": "gesonnen", "translation": "to ponder, think"},
+          {"infinitive": "sprechen", "3rd person": "spricht", "past": "sprach", "participle": "gesprochen", "translation": "to speak"},
+          {"infinitive": "stehlen", "3rd person": "stiehlt", "past": "stahl", "participle": "gestohlen", "translation": "to steal"},
+          {"infinitive": "sterben", "3rd person": "stirbt", "past": "starb", "participle": "gestorben", "translation": "to die"},
+          {"infinitive": "treffen", "3rd person": "trifft", "past": "traf", "participle": "getroffen", "translation": "to meet, hit"},
+          {"infinitive": "verderben", "3rd person": "verdirbt", "past": "verdarb", "participle": "verdorben", "translation": "to spoil, ruin"},
+          {"infinitive": "werben", "3rd person": "wirbt", "past": "warb", "participle": "geworben", "translation": "to advertise, recruit"},
+          {"infinitive": "werfen", "3rd person": "wirft", "past": "warf", "participle": "geworfen", "translation": "to throw"}
+        ]
+      },
+      {
+        "id": "a → u → a",
+        "items": [
+          {"infinitive": "backen", "3rd person": "bäckt", "past": "buk", "participle": "gebacken", "translation": "to bake"},
+          {"infinitive": "fahren", "3rd person": "fährt", "past": "fuhr", "participle": "gefahren", "translation": "to drive, travel"},
+          {"infinitive": "graben", "3rd person": "gräbt", "past": "grub", "participle": "gegraben", "translation": "to dig"},
+          {"infinitive": "laden", "3rd person": "lädt", "past": "lud", "participle": "geladen", "translation": "to load, invite"},
+          {"infinitive": "schaffen", "3rd person": "schafft", "past": "schuf", "participle": "geschaffen", "translation": "to create, make"},
+          {"infinitive": "schlagen", "3rd person": "schlägt", "past": "schlug", "participle": "geschlagen", "translation": "to hit, beat"},
+          {"infinitive": "tragen", "3rd person": "trägt", "past": "trug", "participle": "getragen", "translation": "to carry, wear"},
+          {"infinitive": "wachsen", "3rd person": "wächst", "past": "wuchs", "participle": "gewachsen", "translation": "to grow"},
+          {"infinitive": "waschen", "3rd person": "wäscht", "past": "wusch", "participle": "gewaschen", "translation": "to wash"}
+        ]
+      },
+      {
+        "id": "→ ie/i in past",
+        "items": [
+          {"infinitive": "blasen", "3rd person": "bläst", "past": "blies", "participle": "geblasen", "translation": "to blow"},
+          {"infinitive": "braten", "3rd person": "brät", "past": "briet", "participle": "gebraten", "translation": "to roast, fry"},
+          {"infinitive": "fallen", "3rd person": "fällt", "past": "fiel", "participle": "gefallen", "translation": "to fall"},
+          {"infinitive": "fangen", "3rd person": "fängt", "past": "fing", "participle": "gefangen", "translation": "to catch"},
+          {"infinitive": "halten", "3rd person": "hält", "past": "hielt", "participle": "gehalten", "translation": "to hold, stop"},
+          {"infinitive": "hängen", "3rd person": "hängt", "past": "hing", "participle": "gehangen", "translation": "to hang, be suspended"},
+          {"infinitive": "heißen", "3rd person": "heißt", "past": "hieß", "participle": "geheißen", "translation": "to be called, be named"},
+          {"infinitive": "lassen", "3rd person": "lässt", "past": "ließ", "participle": "gelassen", "translation": "to let, leave"},
+          {"infinitive": "laufen", "3rd person": "läuft", "past": "lief", "participle": "gelaufen", "translation": "to run"},
+          {"infinitive": "raten", "3rd person": "rät", "past": "riet", "participle": "geraten", "translation": "to advise, guess"},
+          {"infinitive": "rufen", "3rd person": "ruft", "past": "rief", "participle": "gerufen", "translation": "to call"},
+          {"infinitive": "schlafen", "3rd person": "schläft", "past": "schlief", "participle": "geschlafen", "translation": "to sleep"},
+          {"infinitive": "stoßen", "3rd person": "stößt", "past": "stieß", "participle": "gestoßen", "translation": "to push, bump"}
+        ]
+      },
+      {
+        "id": "e/i → a → e",
+        "items": [
+          {"infinitive": "bitten", "3rd person": "bittet", "past": "bat", "participle": "gebeten", "translation": "to ask, request"},
+          {"infinitive": "essen", "3rd person": "isst", "past": "aß", "participle": "gegessen", "translation": "to eat"},
+          {"infinitive": "fressen", "3rd person": "frisst", "past": "fraß", "participle": "gefressen", "translation": "to devour, eat (animals)"},
+          {"infinitive": "geben", "3rd person": "gibt", "past": "gab", "participle": "gegeben", "translation": "to give"},
+          {"infinitive": "genesen", "3rd person": "genest", "past": "genas", "participle": "genesen", "translation": "to recover, recuperate"},
+          {"infinitive": "lesen", "3rd person": "liest", "past": "las", "participle": "gelesen", "translation": "to read"},
+          {"infinitive": "liegen", "3rd person": "liegt", "past": "lag", "participle": "gelegen", "translation": "to lie, be situated"},
+          {"infinitive": "messen", "3rd person": "misst", "past": "maß", "participle": "gemessen", "translation": "to measure"},
+          {"infinitive": "sehen", "3rd person": "sieht", "past": "sah", "participle": "gesehen", "translation": "to see"},
+          {"infinitive": "sitzen", "3rd person": "sitzt", "past": "saß", "participle": "gesessen", "translation": "to sit"},
+          {"infinitive": "treten", "3rd person": "tritt", "past": "trat", "participle": "getreten", "translation": "to step, kick"},
+          {"infinitive": "vergessen", "3rd person": "vergisst", "past": "vergaß", "participle": "vergessen", "translation": "to forget"}
+        ]
+      },
+      {
+        "id": "irregular",
+        "items": [
+          {"infinitive": "gehen", "3rd person": "geht", "past": "ging", "participle": "gegangen", "translation": "to go"},
+          {"infinitive": "kommen", "3rd person": "kommt", "past": "kam", "participle": "gekommen", "translation": "to come"},
+          {"infinitive": "sein", "3rd person": "ist", "past": "war", "participle": "gewesen", "translation": "to be"},
+          {"infinitive": "stehen", "3rd person": "steht", "past": "stand", "participle": "gestanden", "translation": "to stand"},
+          {"infinitive": "tun", "3rd person": "tut", "past": "tat", "participle": "getan", "translation": "to do"},
+          {"infinitive": "werden", "3rd person": "wird", "past": "wurde", "participle": "geworden", "translation": "to become"}
         ]
       }
     ]
