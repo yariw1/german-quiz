@@ -2,176 +2,1035 @@
   {
     "name": "Strong Verbs",
     "header": [
-      {"name": "infinitive", "questionable": true},
-      {"name": "3rd person", "questionable": false},
-      {"name": "past", "questionable": false},
-      {"name": "participle", "questionable": false},
-      {"name": "translation", "questionable": false}
+      {
+        "name": "infinitive",
+        "questionable": true
+      },
+      {
+        "name": "3rd person",
+        "questionable": false
+      },
+      {
+        "name": "past",
+        "questionable": false
+      },
+      {
+        "name": "participle",
+        "questionable": false
+      },
+      {
+        "name": "translation",
+        "questionable": false
+      },
+      {
+        "name": "example",
+        "questionable": false
+      }
     ],
     "groups": [
       {
         "id": "ei → ie → ie",
         "items": [
-          {"infinitive": "bleiben", "3rd person": "bleibt", "past": "blieb", "participle": "geblieben", "translation": "to stay, remain"},
-          {"infinitive": "leihen", "3rd person": "leiht", "past": "lieh", "participle": "geliehen", "translation": "to lend, borrow"},
-          {"infinitive": "meiden", "3rd person": "meidet", "past": "mied", "participle": "gemieden", "translation": "to avoid"},
-          {"infinitive": "reiben", "3rd person": "reibt", "past": "rieb", "participle": "gerieben", "translation": "to rub"},
-          {"infinitive": "scheiden", "3rd person": "scheidet", "past": "schied", "participle": "geschieden", "translation": "to separate, divorce"},
-          {"infinitive": "scheinen", "3rd person": "scheint", "past": "schien", "participle": "geschienen", "translation": "to shine, seem"},
-          {"infinitive": "schreiben", "3rd person": "schreibt", "past": "schrieb", "participle": "geschrieben", "translation": "to write"},
-          {"infinitive": "schreien", "3rd person": "schreit", "past": "schrie", "participle": "geschrien", "translation": "to shout, scream"},
-          {"infinitive": "schweigen", "3rd person": "schweigt", "past": "schwieg", "participle": "geschwiegen", "translation": "to be silent"},
-          {"infinitive": "steigen", "3rd person": "steigt", "past": "stieg", "participle": "gestiegen", "translation": "to climb, rise"},
-          {"infinitive": "treiben", "3rd person": "treibt", "past": "trieb", "participle": "getrieben", "translation": "to drive, push"},
-          {"infinitive": "weisen", "3rd person": "weist", "past": "wies", "participle": "gewiesen", "translation": "to point, show"}
+          {
+            "infinitive": "bleiben",
+            "3rd person": "bleibt",
+            "past": "blieb",
+            "participle": "geblieben",
+            "translation": "to stay, remain",
+            "example": ""
+          },
+          {
+            "infinitive": "leihen",
+            "3rd person": "leiht",
+            "past": "lieh",
+            "participle": "geliehen",
+            "translation": "to lend, borrow",
+            "example": ""
+          },
+          {
+            "infinitive": "meiden",
+            "3rd person": "meidet",
+            "past": "mied",
+            "participle": "gemieden",
+            "translation": "to avoid",
+            "example": ""
+          },
+          {
+            "infinitive": "reiben",
+            "3rd person": "reibt",
+            "past": "rieb",
+            "participle": "gerieben",
+            "translation": "to rub",
+            "example": ""
+          },
+          {
+            "infinitive": "scheiden",
+            "3rd person": "scheidet",
+            "past": "schied",
+            "participle": "geschieden",
+            "translation": "to separate, divorce",
+            "example": ""
+          },
+          {
+            "infinitive": "scheinen",
+            "3rd person": "scheint",
+            "past": "schien",
+            "participle": "geschienen",
+            "translation": "to shine, seem",
+            "example": ""
+          },
+          {
+            "infinitive": "schreiben",
+            "3rd person": "schreibt",
+            "past": "schrieb",
+            "participle": "geschrieben",
+            "translation": "to write",
+            "example": ""
+          },
+          {
+            "infinitive": "schreien",
+            "3rd person": "schreit",
+            "past": "schrie",
+            "participle": "geschrien",
+            "translation": "to shout, scream",
+            "example": ""
+          },
+          {
+            "infinitive": "schweigen",
+            "3rd person": "schweigt",
+            "past": "schwieg",
+            "participle": "geschwiegen",
+            "translation": "to be silent",
+            "example": ""
+          },
+          {
+            "infinitive": "steigen",
+            "3rd person": "steigt",
+            "past": "stieg",
+            "participle": "gestiegen",
+            "translation": "to climb, rise",
+            "example": ""
+          },
+          {
+            "infinitive": "treiben",
+            "3rd person": "treibt",
+            "past": "trieb",
+            "participle": "getrieben",
+            "translation": "to drive, push",
+            "example": ""
+          },
+          {
+            "infinitive": "weisen",
+            "3rd person": "weist",
+            "past": "wies",
+            "participle": "gewiesen",
+            "translation": "to point, show",
+            "example": ""
+          }
         ]
       },
       {
         "id": "ei → i → i",
         "items": [
-          {"infinitive": "beißen", "3rd person": "beißt", "past": "biss", "participle": "gebissen", "translation": "to bite"},
-          {"infinitive": "gleiten", "3rd person": "gleitet", "past": "glitt", "participle": "geglitten", "translation": "to glide, slide"},
-          {"infinitive": "greifen", "3rd person": "greift", "past": "griff", "participle": "gegriffen", "translation": "to grab, reach"},
-          {"infinitive": "kneifen", "3rd person": "kneift", "past": "kniff", "participle": "gekniffen", "translation": "to pinch"},
-          {"infinitive": "leiden", "3rd person": "leidet", "past": "litt", "participle": "gelitten", "translation": "to suffer"},
-          {"infinitive": "pfeifen", "3rd person": "pfeift", "past": "pfiff", "participle": "gepfiffen", "translation": "to whistle"},
-          {"infinitive": "reißen", "3rd person": "reißt", "past": "riss", "participle": "gerissen", "translation": "to tear, rip"},
-          {"infinitive": "schleichen", "3rd person": "schleicht", "past": "schlich", "participle": "geschlichen", "translation": "to sneak, creep"},
-          {"infinitive": "schneiden", "3rd person": "schneidet", "past": "schnitt", "participle": "geschnitten", "translation": "to cut"},
-          {"infinitive": "schreiten", "3rd person": "schreitet", "past": "schritt", "participle": "geschritten", "translation": "to stride"},
-          {"infinitive": "streiten", "3rd person": "streitet", "past": "stritt", "participle": "gestritten", "translation": "to argue, dispute"},
-          {"infinitive": "weichen", "3rd person": "weicht", "past": "wich", "participle": "gewichen", "translation": "to yield, give way"}
+          {
+            "infinitive": "beißen",
+            "3rd person": "beißt",
+            "past": "biss",
+            "participle": "gebissen",
+            "translation": "to bite",
+            "example": ""
+          },
+          {
+            "infinitive": "gleiten",
+            "3rd person": "gleitet",
+            "past": "glitt",
+            "participle": "geglitten",
+            "translation": "to glide, slide",
+            "example": ""
+          },
+          {
+            "infinitive": "greifen",
+            "3rd person": "greift",
+            "past": "griff",
+            "participle": "gegriffen",
+            "translation": "to grab, reach",
+            "example": ""
+          },
+          {
+            "infinitive": "kneifen",
+            "3rd person": "kneift",
+            "past": "kniff",
+            "participle": "gekniffen",
+            "translation": "to pinch",
+            "example": ""
+          },
+          {
+            "infinitive": "leiden",
+            "3rd person": "leidet",
+            "past": "litt",
+            "participle": "gelitten",
+            "translation": "to suffer",
+            "example": ""
+          },
+          {
+            "infinitive": "pfeifen",
+            "3rd person": "pfeift",
+            "past": "pfiff",
+            "participle": "gepfiffen",
+            "translation": "to whistle",
+            "example": ""
+          },
+          {
+            "infinitive": "reißen",
+            "3rd person": "reißt",
+            "past": "riss",
+            "participle": "gerissen",
+            "translation": "to tear, rip",
+            "example": ""
+          },
+          {
+            "infinitive": "schleichen",
+            "3rd person": "schleicht",
+            "past": "schlich",
+            "participle": "geschlichen",
+            "translation": "to sneak, creep",
+            "example": ""
+          },
+          {
+            "infinitive": "schneiden",
+            "3rd person": "schneidet",
+            "past": "schnitt",
+            "participle": "geschnitten",
+            "translation": "to cut",
+            "example": ""
+          },
+          {
+            "infinitive": "schreiten",
+            "3rd person": "schreitet",
+            "past": "schritt",
+            "participle": "geschritten",
+            "translation": "to stride",
+            "example": ""
+          },
+          {
+            "infinitive": "streiten",
+            "3rd person": "streitet",
+            "past": "stritt",
+            "participle": "gestritten",
+            "translation": "to argue, dispute",
+            "example": ""
+          },
+          {
+            "infinitive": "weichen",
+            "3rd person": "weicht",
+            "past": "wich",
+            "participle": "gewichen",
+            "translation": "to yield, give way",
+            "example": ""
+          }
         ]
       },
       {
         "id": "→ o → o",
         "items": [
-          {"infinitive": "biegen", "3rd person": "biegt", "past": "bog", "participle": "gebogen", "translation": "to bend"},
-          {"infinitive": "bieten", "3rd person": "bietet", "past": "bot", "participle": "geboten", "translation": "to offer"},
-          {"infinitive": "fechten", "3rd person": "ficht", "past": "focht", "participle": "gefochten", "translation": "to fence, fight"},
-          {"infinitive": "flechten", "3rd person": "flicht", "past": "flocht", "participle": "geflochten", "translation": "to braid, plait"},
-          {"infinitive": "fliegen", "3rd person": "fliegt", "past": "flog", "participle": "geflogen", "translation": "to fly"},
-          {"infinitive": "fliehen", "3rd person": "flieht", "past": "floh", "participle": "geflohen", "translation": "to flee"},
-          {"infinitive": "fließen", "3rd person": "fließt", "past": "floss", "participle": "geflossen", "translation": "to flow"},
-          {"infinitive": "frieren", "3rd person": "friert", "past": "fror", "participle": "gefroren", "translation": "to freeze"},
-          {"infinitive": "genießen", "3rd person": "genießt", "past": "genoss", "participle": "genossen", "translation": "to enjoy"},
-          {"infinitive": "gießen", "3rd person": "gießt", "past": "goss", "participle": "gegossen", "translation": "to pour"},
-          {"infinitive": "heben", "3rd person": "hebt", "past": "hob", "participle": "gehoben", "translation": "to lift, raise"},
-          {"infinitive": "kriechen", "3rd person": "kriecht", "past": "kroch", "participle": "gekrochen", "translation": "to crawl"},
-          {"infinitive": "lügen", "3rd person": "lügt", "past": "log", "participle": "gelogen", "translation": "to lie, tell lies"},
-          {"infinitive": "riechen", "3rd person": "riecht", "past": "roch", "participle": "gerochen", "translation": "to smell"},
-          {"infinitive": "schieben", "3rd person": "schiebt", "past": "schob", "participle": "geschoben", "translation": "to push, slide"},
-          {"infinitive": "schießen", "3rd person": "schießt", "past": "schoss", "participle": "geschossen", "translation": "to shoot"},
-          {"infinitive": "schließen", "3rd person": "schließt", "past": "schloss", "participle": "geschlossen", "translation": "to close, lock"},
-          {"infinitive": "schmelzen", "3rd person": "schmilzt", "past": "schmolz", "participle": "geschmolzen", "translation": "to melt"},
-          {"infinitive": "schwellen", "3rd person": "schwillt", "past": "schwoll", "participle": "geschwollen", "translation": "to swell"},
-          {"infinitive": "trügen", "3rd person": "trügt", "past": "trog", "participle": "getrogen", "translation": "to deceive"},
-          {"infinitive": "verlieren", "3rd person": "verliert", "past": "verlor", "participle": "verloren", "translation": "to lose"},
-          {"infinitive": "weben", "3rd person": "webt", "past": "wob", "participle": "gewoben", "translation": "to weave"},
-          {"infinitive": "wiegen", "3rd person": "wiegt", "past": "wog", "participle": "gewogen", "translation": "to weigh"},
-          {"infinitive": "ziehen", "3rd person": "zieht", "past": "zog", "participle": "gezogen", "translation": "to pull, move"}
+          {
+            "infinitive": "biegen",
+            "3rd person": "biegt",
+            "past": "bog",
+            "participle": "gebogen",
+            "translation": "to bend",
+            "example": ""
+          },
+          {
+            "infinitive": "bieten",
+            "3rd person": "bietet",
+            "past": "bot",
+            "participle": "geboten",
+            "translation": "to offer",
+            "example": ""
+          },
+          {
+            "infinitive": "fechten",
+            "3rd person": "ficht",
+            "past": "focht",
+            "participle": "gefochten",
+            "translation": "to fence, fight",
+            "example": ""
+          },
+          {
+            "infinitive": "flechten",
+            "3rd person": "flicht",
+            "past": "flocht",
+            "participle": "geflochten",
+            "translation": "to braid, plait",
+            "example": ""
+          },
+          {
+            "infinitive": "fliegen",
+            "3rd person": "fliegt",
+            "past": "flog",
+            "participle": "geflogen",
+            "translation": "to fly",
+            "example": ""
+          },
+          {
+            "infinitive": "fliehen",
+            "3rd person": "flieht",
+            "past": "floh",
+            "participle": "geflohen",
+            "translation": "to flee",
+            "example": ""
+          },
+          {
+            "infinitive": "fließen",
+            "3rd person": "fließt",
+            "past": "floss",
+            "participle": "geflossen",
+            "translation": "to flow",
+            "example": ""
+          },
+          {
+            "infinitive": "frieren",
+            "3rd person": "friert",
+            "past": "fror",
+            "participle": "gefroren",
+            "translation": "to freeze",
+            "example": ""
+          },
+          {
+            "infinitive": "genießen",
+            "3rd person": "genießt",
+            "past": "genoss",
+            "participle": "genossen",
+            "translation": "to enjoy",
+            "example": ""
+          },
+          {
+            "infinitive": "gießen",
+            "3rd person": "gießt",
+            "past": "goss",
+            "participle": "gegossen",
+            "translation": "to pour",
+            "example": ""
+          },
+          {
+            "infinitive": "heben",
+            "3rd person": "hebt",
+            "past": "hob",
+            "participle": "gehoben",
+            "translation": "to lift, raise",
+            "example": ""
+          },
+          {
+            "infinitive": "kriechen",
+            "3rd person": "kriecht",
+            "past": "kroch",
+            "participle": "gekrochen",
+            "translation": "to crawl",
+            "example": ""
+          },
+          {
+            "infinitive": "lügen",
+            "3rd person": "lügt",
+            "past": "log",
+            "participle": "gelogen",
+            "translation": "to lie, tell lies",
+            "example": ""
+          },
+          {
+            "infinitive": "riechen",
+            "3rd person": "riecht",
+            "past": "roch",
+            "participle": "gerochen",
+            "translation": "to smell",
+            "example": ""
+          },
+          {
+            "infinitive": "schieben",
+            "3rd person": "schiebt",
+            "past": "schob",
+            "participle": "geschoben",
+            "translation": "to push, slide",
+            "example": ""
+          },
+          {
+            "infinitive": "schießen",
+            "3rd person": "schießt",
+            "past": "schoss",
+            "participle": "geschossen",
+            "translation": "to shoot",
+            "example": ""
+          },
+          {
+            "infinitive": "schließen",
+            "3rd person": "schließt",
+            "past": "schloss",
+            "participle": "geschlossen",
+            "translation": "to close, lock",
+            "example": ""
+          },
+          {
+            "infinitive": "schmelzen",
+            "3rd person": "schmilzt",
+            "past": "schmolz",
+            "participle": "geschmolzen",
+            "translation": "to melt",
+            "example": ""
+          },
+          {
+            "infinitive": "schwellen",
+            "3rd person": "schwillt",
+            "past": "schwoll",
+            "participle": "geschwollen",
+            "translation": "to swell",
+            "example": ""
+          },
+          {
+            "infinitive": "trügen",
+            "3rd person": "trügt",
+            "past": "trog",
+            "participle": "getrogen",
+            "translation": "to deceive",
+            "example": ""
+          },
+          {
+            "infinitive": "verlieren",
+            "3rd person": "verliert",
+            "past": "verlor",
+            "participle": "verloren",
+            "translation": "to lose",
+            "example": ""
+          },
+          {
+            "infinitive": "weben",
+            "3rd person": "webt",
+            "past": "wob",
+            "participle": "gewoben",
+            "translation": "to weave",
+            "example": ""
+          },
+          {
+            "infinitive": "wiegen",
+            "3rd person": "wiegt",
+            "past": "wog",
+            "participle": "gewogen",
+            "translation": "to weigh",
+            "example": ""
+          },
+          {
+            "infinitive": "ziehen",
+            "3rd person": "zieht",
+            "past": "zog",
+            "participle": "gezogen",
+            "translation": "to pull, move",
+            "example": ""
+          }
         ]
       },
       {
         "id": "i → a → u",
         "items": [
-          {"infinitive": "binden", "3rd person": "bindet", "past": "band", "participle": "gebunden", "translation": "to bind, tie"},
-          {"infinitive": "dringen", "3rd person": "dringt", "past": "drang", "participle": "gedrungen", "translation": "to penetrate, urge"},
-          {"infinitive": "finden", "3rd person": "findet", "past": "fand", "participle": "gefunden", "translation": "to find"},
-          {"infinitive": "gelingen", "3rd person": "gelingt", "past": "gelang", "participle": "gelungen", "translation": "to succeed"},
-          {"infinitive": "klingen", "3rd person": "klingt", "past": "klang", "participle": "geklungen", "translation": "to sound, ring"},
-          {"infinitive": "ringen", "3rd person": "ringt", "past": "rang", "participle": "gerungen", "translation": "to wrestle, struggle"},
-          {"infinitive": "schwinden", "3rd person": "schwindet", "past": "schwand", "participle": "geschwunden", "translation": "to diminish, vanish"},
-          {"infinitive": "schwingen", "3rd person": "schwingt", "past": "schwang", "participle": "geschwungen", "translation": "to swing"},
-          {"infinitive": "singen", "3rd person": "singt", "past": "sang", "participle": "gesungen", "translation": "to sing"},
-          {"infinitive": "sinken", "3rd person": "sinkt", "past": "sank", "participle": "gesunken", "translation": "to sink"},
-          {"infinitive": "springen", "3rd person": "springt", "past": "sprang", "participle": "gesprungen", "translation": "to jump"},
-          {"infinitive": "trinken", "3rd person": "trinkt", "past": "trank", "participle": "getrunken", "translation": "to drink"},
-          {"infinitive": "winden", "3rd person": "windet", "past": "wand", "participle": "gewunden", "translation": "to wind, coil"},
-          {"infinitive": "zwingen", "3rd person": "zwingt", "past": "zwang", "participle": "gezwungen", "translation": "to force, compel"}
+          {
+            "infinitive": "binden",
+            "3rd person": "bindet",
+            "past": "band",
+            "participle": "gebunden",
+            "translation": "to bind, tie",
+            "example": ""
+          },
+          {
+            "infinitive": "dringen",
+            "3rd person": "dringt",
+            "past": "drang",
+            "participle": "gedrungen",
+            "translation": "to penetrate, urge",
+            "example": ""
+          },
+          {
+            "infinitive": "finden",
+            "3rd person": "findet",
+            "past": "fand",
+            "participle": "gefunden",
+            "translation": "to find",
+            "example": ""
+          },
+          {
+            "infinitive": "gelingen",
+            "3rd person": "gelingt",
+            "past": "gelang",
+            "participle": "gelungen",
+            "translation": "to succeed",
+            "example": ""
+          },
+          {
+            "infinitive": "klingen",
+            "3rd person": "klingt",
+            "past": "klang",
+            "participle": "geklungen",
+            "translation": "to sound, ring",
+            "example": ""
+          },
+          {
+            "infinitive": "ringen",
+            "3rd person": "ringt",
+            "past": "rang",
+            "participle": "gerungen",
+            "translation": "to wrestle, struggle",
+            "example": ""
+          },
+          {
+            "infinitive": "schwinden",
+            "3rd person": "schwindet",
+            "past": "schwand",
+            "participle": "geschwunden",
+            "translation": "to diminish, vanish",
+            "example": ""
+          },
+          {
+            "infinitive": "schwingen",
+            "3rd person": "schwingt",
+            "past": "schwang",
+            "participle": "geschwungen",
+            "translation": "to swing",
+            "example": ""
+          },
+          {
+            "infinitive": "singen",
+            "3rd person": "singt",
+            "past": "sang",
+            "participle": "gesungen",
+            "translation": "to sing",
+            "example": ""
+          },
+          {
+            "infinitive": "sinken",
+            "3rd person": "sinkt",
+            "past": "sank",
+            "participle": "gesunken",
+            "translation": "to sink",
+            "example": ""
+          },
+          {
+            "infinitive": "springen",
+            "3rd person": "springt",
+            "past": "sprang",
+            "participle": "gesprungen",
+            "translation": "to jump",
+            "example": ""
+          },
+          {
+            "infinitive": "trinken",
+            "3rd person": "trinkt",
+            "past": "trank",
+            "participle": "getrunken",
+            "translation": "to drink",
+            "example": ""
+          },
+          {
+            "infinitive": "winden",
+            "3rd person": "windet",
+            "past": "wand",
+            "participle": "gewunden",
+            "translation": "to wind, coil",
+            "example": ""
+          },
+          {
+            "infinitive": "zwingen",
+            "3rd person": "zwingt",
+            "past": "zwang",
+            "participle": "gezwungen",
+            "translation": "to force, compel",
+            "example": ""
+          }
         ]
       },
       {
         "id": "e/i → a → o",
         "items": [
-          {"infinitive": "befehlen", "3rd person": "befiehlt", "past": "befahl", "participle": "befohlen", "translation": "to command, order"},
-          {"infinitive": "beginnen", "3rd person": "beginnt", "past": "begann", "participle": "begonnen", "translation": "to begin"},
-          {"infinitive": "brechen", "3rd person": "bricht", "past": "brach", "participle": "gebrochen", "translation": "to break"},
-          {"infinitive": "empfehlen", "3rd person": "empfiehlt", "past": "empfahl", "participle": "empfohlen", "translation": "to recommend"},
-          {"infinitive": "erschrecken", "3rd person": "erschrickt", "past": "erschrak", "participle": "erschrocken", "translation": "to be frightened"},
-          {"infinitive": "gewinnen", "3rd person": "gewinnt", "past": "gewann", "participle": "gewonnen", "translation": "to win"},
-          {"infinitive": "helfen", "3rd person": "hilft", "past": "half", "participle": "geholfen", "translation": "to help"},
-          {"infinitive": "nehmen", "3rd person": "nimmt", "past": "nahm", "participle": "genommen", "translation": "to take"},
-          {"infinitive": "rinnen", "3rd person": "rinnt", "past": "rann", "participle": "geronnen", "translation": "to trickle, flow"},
-          {"infinitive": "schwimmen", "3rd person": "schwimmt", "past": "schwamm", "participle": "geschwommen", "translation": "to swim"},
-          {"infinitive": "sinnen", "3rd person": "sinnt", "past": "sann", "participle": "gesonnen", "translation": "to ponder, think"},
-          {"infinitive": "sprechen", "3rd person": "spricht", "past": "sprach", "participle": "gesprochen", "translation": "to speak"},
-          {"infinitive": "stehlen", "3rd person": "stiehlt", "past": "stahl", "participle": "gestohlen", "translation": "to steal"},
-          {"infinitive": "sterben", "3rd person": "stirbt", "past": "starb", "participle": "gestorben", "translation": "to die"},
-          {"infinitive": "treffen", "3rd person": "trifft", "past": "traf", "participle": "getroffen", "translation": "to meet, hit"},
-          {"infinitive": "verderben", "3rd person": "verdirbt", "past": "verdarb", "participle": "verdorben", "translation": "to spoil, ruin"},
-          {"infinitive": "werben", "3rd person": "wirbt", "past": "warb", "participle": "geworben", "translation": "to advertise, recruit"},
-          {"infinitive": "werfen", "3rd person": "wirft", "past": "warf", "participle": "geworfen", "translation": "to throw"}
+          {
+            "infinitive": "befehlen",
+            "3rd person": "befiehlt",
+            "past": "befahl",
+            "participle": "befohlen",
+            "translation": "to command, order",
+            "example": ""
+          },
+          {
+            "infinitive": "beginnen",
+            "3rd person": "beginnt",
+            "past": "begann",
+            "participle": "begonnen",
+            "translation": "to begin",
+            "example": ""
+          },
+          {
+            "infinitive": "brechen",
+            "3rd person": "bricht",
+            "past": "brach",
+            "participle": "gebrochen",
+            "translation": "to break",
+            "example": ""
+          },
+          {
+            "infinitive": "empfehlen",
+            "3rd person": "empfiehlt",
+            "past": "empfahl",
+            "participle": "empfohlen",
+            "translation": "to recommend",
+            "example": ""
+          },
+          {
+            "infinitive": "erschrecken",
+            "3rd person": "erschrickt",
+            "past": "erschrak",
+            "participle": "erschrocken",
+            "translation": "to be frightened",
+            "example": ""
+          },
+          {
+            "infinitive": "gewinnen",
+            "3rd person": "gewinnt",
+            "past": "gewann",
+            "participle": "gewonnen",
+            "translation": "to win",
+            "example": ""
+          },
+          {
+            "infinitive": "helfen",
+            "3rd person": "hilft",
+            "past": "half",
+            "participle": "geholfen",
+            "translation": "to help",
+            "example": ""
+          },
+          {
+            "infinitive": "nehmen",
+            "3rd person": "nimmt",
+            "past": "nahm",
+            "participle": "genommen",
+            "translation": "to take",
+            "example": ""
+          },
+          {
+            "infinitive": "rinnen",
+            "3rd person": "rinnt",
+            "past": "rann",
+            "participle": "geronnen",
+            "translation": "to trickle, flow",
+            "example": ""
+          },
+          {
+            "infinitive": "schwimmen",
+            "3rd person": "schwimmt",
+            "past": "schwamm",
+            "participle": "geschwommen",
+            "translation": "to swim",
+            "example": ""
+          },
+          {
+            "infinitive": "sinnen",
+            "3rd person": "sinnt",
+            "past": "sann",
+            "participle": "gesonnen",
+            "translation": "to ponder, think",
+            "example": ""
+          },
+          {
+            "infinitive": "sprechen",
+            "3rd person": "spricht",
+            "past": "sprach",
+            "participle": "gesprochen",
+            "translation": "to speak",
+            "example": ""
+          },
+          {
+            "infinitive": "stehlen",
+            "3rd person": "stiehlt",
+            "past": "stahl",
+            "participle": "gestohlen",
+            "translation": "to steal",
+            "example": ""
+          },
+          {
+            "infinitive": "sterben",
+            "3rd person": "stirbt",
+            "past": "starb",
+            "participle": "gestorben",
+            "translation": "to die",
+            "example": ""
+          },
+          {
+            "infinitive": "treffen",
+            "3rd person": "trifft",
+            "past": "traf",
+            "participle": "getroffen",
+            "translation": "to meet, hit",
+            "example": ""
+          },
+          {
+            "infinitive": "verderben",
+            "3rd person": "verdirbt",
+            "past": "verdarb",
+            "participle": "verdorben",
+            "translation": "to spoil, ruin",
+            "example": ""
+          },
+          {
+            "infinitive": "werben",
+            "3rd person": "wirbt",
+            "past": "warb",
+            "participle": "geworben",
+            "translation": "to advertise, recruit",
+            "example": ""
+          },
+          {
+            "infinitive": "werfen",
+            "3rd person": "wirft",
+            "past": "warf",
+            "participle": "geworfen",
+            "translation": "to throw",
+            "example": ""
+          }
         ]
       },
       {
         "id": "a → u → a",
         "items": [
-          {"infinitive": "backen", "3rd person": "bäckt", "past": "buk", "participle": "gebacken", "translation": "to bake"},
-          {"infinitive": "fahren", "3rd person": "fährt", "past": "fuhr", "participle": "gefahren", "translation": "to drive, travel"},
-          {"infinitive": "graben", "3rd person": "gräbt", "past": "grub", "participle": "gegraben", "translation": "to dig"},
-          {"infinitive": "laden", "3rd person": "lädt", "past": "lud", "participle": "geladen", "translation": "to load, invite"},
-          {"infinitive": "schaffen", "3rd person": "schafft", "past": "schuf", "participle": "geschaffen", "translation": "to create, make"},
-          {"infinitive": "schlagen", "3rd person": "schlägt", "past": "schlug", "participle": "geschlagen", "translation": "to hit, beat"},
-          {"infinitive": "tragen", "3rd person": "trägt", "past": "trug", "participle": "getragen", "translation": "to carry, wear"},
-          {"infinitive": "wachsen", "3rd person": "wächst", "past": "wuchs", "participle": "gewachsen", "translation": "to grow"},
-          {"infinitive": "waschen", "3rd person": "wäscht", "past": "wusch", "participle": "gewaschen", "translation": "to wash"}
+          {
+            "infinitive": "backen",
+            "3rd person": "bäckt",
+            "past": "buk",
+            "participle": "gebacken",
+            "translation": "to bake",
+            "example": ""
+          },
+          {
+            "infinitive": "fahren",
+            "3rd person": "fährt",
+            "past": "fuhr",
+            "participle": "gefahren",
+            "translation": "to drive, travel",
+            "example": ""
+          },
+          {
+            "infinitive": "graben",
+            "3rd person": "gräbt",
+            "past": "grub",
+            "participle": "gegraben",
+            "translation": "to dig",
+            "example": ""
+          },
+          {
+            "infinitive": "laden",
+            "3rd person": "lädt",
+            "past": "lud",
+            "participle": "geladen",
+            "translation": "to load, invite",
+            "example": ""
+          },
+          {
+            "infinitive": "schaffen",
+            "3rd person": "schafft",
+            "past": "schuf",
+            "participle": "geschaffen",
+            "translation": "to create, make",
+            "example": ""
+          },
+          {
+            "infinitive": "schlagen",
+            "3rd person": "schlägt",
+            "past": "schlug",
+            "participle": "geschlagen",
+            "translation": "to hit, beat",
+            "example": ""
+          },
+          {
+            "infinitive": "tragen",
+            "3rd person": "trägt",
+            "past": "trug",
+            "participle": "getragen",
+            "translation": "to carry, wear",
+            "example": ""
+          },
+          {
+            "infinitive": "wachsen",
+            "3rd person": "wächst",
+            "past": "wuchs",
+            "participle": "gewachsen",
+            "translation": "to grow",
+            "example": ""
+          },
+          {
+            "infinitive": "waschen",
+            "3rd person": "wäscht",
+            "past": "wusch",
+            "participle": "gewaschen",
+            "translation": "to wash",
+            "example": ""
+          }
         ]
       },
       {
         "id": "→ ie/i in past",
         "items": [
-          {"infinitive": "blasen", "3rd person": "bläst", "past": "blies", "participle": "geblasen", "translation": "to blow"},
-          {"infinitive": "braten", "3rd person": "brät", "past": "briet", "participle": "gebraten", "translation": "to roast, fry"},
-          {"infinitive": "fallen", "3rd person": "fällt", "past": "fiel", "participle": "gefallen", "translation": "to fall"},
-          {"infinitive": "fangen", "3rd person": "fängt", "past": "fing", "participle": "gefangen", "translation": "to catch"},
-          {"infinitive": "halten", "3rd person": "hält", "past": "hielt", "participle": "gehalten", "translation": "to hold, stop"},
-          {"infinitive": "hängen", "3rd person": "hängt", "past": "hing", "participle": "gehangen", "translation": "to hang, be suspended"},
-          {"infinitive": "heißen", "3rd person": "heißt", "past": "hieß", "participle": "geheißen", "translation": "to be called, be named"},
-          {"infinitive": "lassen", "3rd person": "lässt", "past": "ließ", "participle": "gelassen", "translation": "to let, leave"},
-          {"infinitive": "laufen", "3rd person": "läuft", "past": "lief", "participle": "gelaufen", "translation": "to run"},
-          {"infinitive": "raten", "3rd person": "rät", "past": "riet", "participle": "geraten", "translation": "to advise, guess"},
-          {"infinitive": "rufen", "3rd person": "ruft", "past": "rief", "participle": "gerufen", "translation": "to call"},
-          {"infinitive": "schlafen", "3rd person": "schläft", "past": "schlief", "participle": "geschlafen", "translation": "to sleep"},
-          {"infinitive": "stoßen", "3rd person": "stößt", "past": "stieß", "participle": "gestoßen", "translation": "to push, bump"}
+          {
+            "infinitive": "blasen",
+            "3rd person": "bläst",
+            "past": "blies",
+            "participle": "geblasen",
+            "translation": "to blow",
+            "example": ""
+          },
+          {
+            "infinitive": "braten",
+            "3rd person": "brät",
+            "past": "briet",
+            "participle": "gebraten",
+            "translation": "to roast, fry",
+            "example": ""
+          },
+          {
+            "infinitive": "fallen",
+            "3rd person": "fällt",
+            "past": "fiel",
+            "participle": "gefallen",
+            "translation": "to fall",
+            "example": ""
+          },
+          {
+            "infinitive": "fangen",
+            "3rd person": "fängt",
+            "past": "fing",
+            "participle": "gefangen",
+            "translation": "to catch",
+            "example": ""
+          },
+          {
+            "infinitive": "halten",
+            "3rd person": "hält",
+            "past": "hielt",
+            "participle": "gehalten",
+            "translation": "to hold, stop",
+            "example": ""
+          },
+          {
+            "infinitive": "hängen",
+            "3rd person": "hängt",
+            "past": "hing",
+            "participle": "gehangen",
+            "translation": "to hang, be suspended",
+            "example": ""
+          },
+          {
+            "infinitive": "heißen",
+            "3rd person": "heißt",
+            "past": "hieß",
+            "participle": "geheißen",
+            "translation": "to be called, be named",
+            "example": ""
+          },
+          {
+            "infinitive": "lassen",
+            "3rd person": "lässt",
+            "past": "ließ",
+            "participle": "gelassen",
+            "translation": "to let, leave",
+            "example": ""
+          },
+          {
+            "infinitive": "laufen",
+            "3rd person": "läuft",
+            "past": "lief",
+            "participle": "gelaufen",
+            "translation": "to run",
+            "example": ""
+          },
+          {
+            "infinitive": "raten",
+            "3rd person": "rät",
+            "past": "riet",
+            "participle": "geraten",
+            "translation": "to advise, guess",
+            "example": ""
+          },
+          {
+            "infinitive": "rufen",
+            "3rd person": "ruft",
+            "past": "rief",
+            "participle": "gerufen",
+            "translation": "to call",
+            "example": ""
+          },
+          {
+            "infinitive": "schlafen",
+            "3rd person": "schläft",
+            "past": "schlief",
+            "participle": "geschlafen",
+            "translation": "to sleep",
+            "example": ""
+          },
+          {
+            "infinitive": "stoßen",
+            "3rd person": "stößt",
+            "past": "stieß",
+            "participle": "gestoßen",
+            "translation": "to push, bump",
+            "example": ""
+          }
         ]
       },
       {
         "id": "e/i → a → e",
         "items": [
-          {"infinitive": "bitten", "3rd person": "bittet", "past": "bat", "participle": "gebeten", "translation": "to ask, request"},
-          {"infinitive": "essen", "3rd person": "isst", "past": "aß", "participle": "gegessen", "translation": "to eat"},
-          {"infinitive": "fressen", "3rd person": "frisst", "past": "fraß", "participle": "gefressen", "translation": "to devour, eat (animals)"},
-          {"infinitive": "geben", "3rd person": "gibt", "past": "gab", "participle": "gegeben", "translation": "to give"},
-          {"infinitive": "genesen", "3rd person": "genest", "past": "genas", "participle": "genesen", "translation": "to recover, recuperate"},
-          {"infinitive": "lesen", "3rd person": "liest", "past": "las", "participle": "gelesen", "translation": "to read"},
-          {"infinitive": "liegen", "3rd person": "liegt", "past": "lag", "participle": "gelegen", "translation": "to lie, be situated"},
-          {"infinitive": "messen", "3rd person": "misst", "past": "maß", "participle": "gemessen", "translation": "to measure"},
-          {"infinitive": "sehen", "3rd person": "sieht", "past": "sah", "participle": "gesehen", "translation": "to see"},
-          {"infinitive": "sitzen", "3rd person": "sitzt", "past": "saß", "participle": "gesessen", "translation": "to sit"},
-          {"infinitive": "treten", "3rd person": "tritt", "past": "trat", "participle": "getreten", "translation": "to step, kick"},
-          {"infinitive": "vergessen", "3rd person": "vergisst", "past": "vergaß", "participle": "vergessen", "translation": "to forget"}
+          {
+            "infinitive": "bitten",
+            "3rd person": "bittet",
+            "past": "bat",
+            "participle": "gebeten",
+            "translation": "to ask, request",
+            "example": ""
+          },
+          {
+            "infinitive": "essen",
+            "3rd person": "isst",
+            "past": "aß",
+            "participle": "gegessen",
+            "translation": "to eat",
+            "example": ""
+          },
+          {
+            "infinitive": "fressen",
+            "3rd person": "frisst",
+            "past": "fraß",
+            "participle": "gefressen",
+            "translation": "to devour, eat (animals)",
+            "example": ""
+          },
+          {
+            "infinitive": "geben",
+            "3rd person": "gibt",
+            "past": "gab",
+            "participle": "gegeben",
+            "translation": "to give",
+            "example": ""
+          },
+          {
+            "infinitive": "genesen",
+            "3rd person": "genest",
+            "past": "genas",
+            "participle": "genesen",
+            "translation": "to recover, recuperate",
+            "example": ""
+          },
+          {
+            "infinitive": "lesen",
+            "3rd person": "liest",
+            "past": "las",
+            "participle": "gelesen",
+            "translation": "to read",
+            "example": ""
+          },
+          {
+            "infinitive": "liegen",
+            "3rd person": "liegt",
+            "past": "lag",
+            "participle": "gelegen",
+            "translation": "to lie, be situated",
+            "example": ""
+          },
+          {
+            "infinitive": "messen",
+            "3rd person": "misst",
+            "past": "maß",
+            "participle": "gemessen",
+            "translation": "to measure",
+            "example": ""
+          },
+          {
+            "infinitive": "sehen",
+            "3rd person": "sieht",
+            "past": "sah",
+            "participle": "gesehen",
+            "translation": "to see",
+            "example": ""
+          },
+          {
+            "infinitive": "sitzen",
+            "3rd person": "sitzt",
+            "past": "saß",
+            "participle": "gesessen",
+            "translation": "to sit",
+            "example": ""
+          },
+          {
+            "infinitive": "treten",
+            "3rd person": "tritt",
+            "past": "trat",
+            "participle": "getreten",
+            "translation": "to step, kick",
+            "example": ""
+          },
+          {
+            "infinitive": "vergessen",
+            "3rd person": "vergisst",
+            "past": "vergaß",
+            "participle": "vergessen",
+            "translation": "to forget",
+            "example": ""
+          }
         ]
       },
       {
         "id": "irregular",
         "items": [
-          {"infinitive": "gehen", "3rd person": "geht", "past": "ging", "participle": "gegangen", "translation": "to go"},
-          {"infinitive": "kommen", "3rd person": "kommt", "past": "kam", "participle": "gekommen", "translation": "to come"},
-          {"infinitive": "sein", "3rd person": "ist", "past": "war", "participle": "gewesen", "translation": "to be"},
-          {"infinitive": "stehen", "3rd person": "steht", "past": "stand", "participle": "gestanden", "translation": "to stand"},
-          {"infinitive": "tun", "3rd person": "tut", "past": "tat", "participle": "getan", "translation": "to do"},
-          {"infinitive": "werden", "3rd person": "wird", "past": "wurde", "participle": "geworden", "translation": "to become"}
+          {
+            "infinitive": "gehen",
+            "3rd person": "geht",
+            "past": "ging",
+            "participle": "gegangen",
+            "translation": "to go",
+            "example": ""
+          },
+          {
+            "infinitive": "kommen",
+            "3rd person": "kommt",
+            "past": "kam",
+            "participle": "gekommen",
+            "translation": "to come",
+            "example": ""
+          },
+          {
+            "infinitive": "sein",
+            "3rd person": "ist",
+            "past": "war",
+            "participle": "gewesen",
+            "translation": "to be",
+            "example": ""
+          },
+          {
+            "infinitive": "stehen",
+            "3rd person": "steht",
+            "past": "stand",
+            "participle": "gestanden",
+            "translation": "to stand",
+            "example": ""
+          },
+          {
+            "infinitive": "tun",
+            "3rd person": "tut",
+            "past": "tat",
+            "participle": "getan",
+            "translation": "to do",
+            "example": ""
+          },
+          {
+            "infinitive": "werden",
+            "3rd person": "wird",
+            "past": "wurde",
+            "participle": "geworden",
+            "translation": "to become",
+            "example": ""
+          }
         ]
       }
     ]
@@ -179,14 +1038,28 @@
   {
     "name": "Weak Verbs",
     "header": [
-      {"name": "infinitive", "questionable": true},
-      {"name": "translation", "questionable": false}
+      {
+        "name": "infinitive",
+        "questionable": true
+      },
+      {
+        "name": "translation",
+        "questionable": false
+      },
+      {
+        "name": "example",
+        "questionable": false
+      }
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          {"infinitive": "arbeiten", "translation": "to work"}
+          {
+            "infinitive": "arbeiten",
+            "translation": "to work",
+            "example": ""
+          }
         ]
       }
     ]
@@ -194,23 +1067,91 @@
   {
     "name": "Modal Verbs",
     "header": [
-      {"name": "infinitive", "questionable": true},
-      {"name": "3rd person", "questionable": false},
-      {"name": "past", "questionable": false},
-      {"name": "participle", "questionable": false},
-      {"name": "translation", "questionable": false}
+      {
+        "name": "infinitive",
+        "questionable": true
+      },
+      {
+        "name": "3rd person",
+        "questionable": false
+      },
+      {
+        "name": "past",
+        "questionable": false
+      },
+      {
+        "name": "participle",
+        "questionable": false
+      },
+      {
+        "name": "translation",
+        "questionable": false
+      },
+      {
+        "name": "example",
+        "questionable": false
+      }
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          {"infinitive": "dürfen", "3rd person": "darf", "past": "durfte", "participle": "gedurft", "translation": "to be allowed to"},
-          {"infinitive": "können", "3rd person": "kann", "past": "konnte", "participle": "gekonnt", "translation": "can, to be able to"},
-          {"infinitive": "mögen", "3rd person": "mag", "past": "mochte", "participle": "gemocht", "translation": "to like"},
-          {"infinitive": "möchten", "3rd person": "möchte", "past": "mochte", "participle": "gemocht", "translation": "would like to"},
-          {"infinitive": "müssen", "3rd person": "muss", "past": "musste", "participle": "gemusst", "translation": "must, to have to"},
-          {"infinitive": "sollen", "3rd person": "soll", "past": "sollte", "participle": "gesollt", "translation": "should, to be supposed to"},
-          {"infinitive": "wollen", "3rd person": "will", "past": "wollte", "participle": "gewollt", "translation": "to want to"}
+          {
+            "infinitive": "dürfen",
+            "3rd person": "darf",
+            "past": "durfte",
+            "participle": "gedurft",
+            "translation": "to be allowed to",
+            "example": ""
+          },
+          {
+            "infinitive": "können",
+            "3rd person": "kann",
+            "past": "konnte",
+            "participle": "gekonnt",
+            "translation": "can, to be able to",
+            "example": ""
+          },
+          {
+            "infinitive": "mögen",
+            "3rd person": "mag",
+            "past": "mochte",
+            "participle": "gemocht",
+            "translation": "to like",
+            "example": ""
+          },
+          {
+            "infinitive": "möchten",
+            "3rd person": "möchte",
+            "past": "mochte",
+            "participle": "gemocht",
+            "translation": "would like to",
+            "example": ""
+          },
+          {
+            "infinitive": "müssen",
+            "3rd person": "muss",
+            "past": "musste",
+            "participle": "gemusst",
+            "translation": "must, to have to",
+            "example": ""
+          },
+          {
+            "infinitive": "sollen",
+            "3rd person": "soll",
+            "past": "sollte",
+            "participle": "gesollt",
+            "translation": "should, to be supposed to",
+            "example": ""
+          },
+          {
+            "infinitive": "wollen",
+            "3rd person": "will",
+            "past": "wollte",
+            "participle": "gewollt",
+            "translation": "to want to",
+            "example": ""
+          }
         ]
       }
     ]
@@ -218,64 +1159,252 @@
   {
     "name": "Prepositions",
     "header": [
-      {"name": "preposition", "questionable": true},
-      {"name": "case", "questionable": false},
-      {"name": "translation", "questionable": false}
+      {
+        "name": "preposition",
+        "questionable": true
+      },
+      {
+        "name": "case",
+        "questionable": false
+      },
+      {
+        "name": "translation",
+        "questionable": false
+      },
+      {
+        "name": "example",
+        "questionable": false
+      }
     ],
     "groups": [
       {
         "id": "Accusative Prepositions",
         "items": [
-          {"preposition": "durch", "case": "accusative", "translation": "through"},
-          {"preposition": "für", "case": "accusative", "translation": "for"},
-          {"preposition": "gegen", "case": "accusative", "translation": "against"},
-          {"preposition": "ohne", "case": "accusative", "translation": "without"},
-          {"preposition": "um", "case": "accusative", "translation": "around, at (for time)"}
+          {
+            "preposition": "durch",
+            "case": "accusative",
+            "translation": "through",
+            "example": ""
+          },
+          {
+            "preposition": "für",
+            "case": "accusative",
+            "translation": "for",
+            "example": ""
+          },
+          {
+            "preposition": "gegen",
+            "case": "accusative",
+            "translation": "against",
+            "example": ""
+          },
+          {
+            "preposition": "ohne",
+            "case": "accusative",
+            "translation": "without",
+            "example": ""
+          },
+          {
+            "preposition": "um",
+            "case": "accusative",
+            "translation": "around, at (for time)",
+            "example": ""
+          }
         ]
       },
       {
         "id": "Dative Prepositions",
         "items": [
-          {"preposition": "aus", "case": "dative", "translation": "from, out of"},
-          {"preposition": "außer", "case": "dative", "translation": "except for, besides"},
-          {"preposition": "bei", "case": "dative", "translation": "at, near, by"},
-          {"preposition": "mit", "case": "dative", "translation": "with, by means of"},
-          {"preposition": "nach", "case": "dative", "translation": "after, to, according to"},
-          {"preposition": "seit", "case": "dative", "translation": "since, for"},
-          {"preposition": "von", "case": "dative", "translation": "from, by, of, about"},
-          {"preposition": "zu", "case": "dative", "translation": "to"},
-          {"preposition": "gegenüber", "case": "dative", "translation": "across from"}
+          {
+            "preposition": "aus",
+            "case": "dative",
+            "translation": "from, out of",
+            "example": ""
+          },
+          {
+            "preposition": "außer",
+            "case": "dative",
+            "translation": "except for, besides",
+            "example": ""
+          },
+          {
+            "preposition": "bei",
+            "case": "dative",
+            "translation": "at, near, by",
+            "example": ""
+          },
+          {
+            "preposition": "mit",
+            "case": "dative",
+            "translation": "with, by means of",
+            "example": ""
+          },
+          {
+            "preposition": "nach",
+            "case": "dative",
+            "translation": "after, to, according to",
+            "example": ""
+          },
+          {
+            "preposition": "seit",
+            "case": "dative",
+            "translation": "since, for",
+            "example": ""
+          },
+          {
+            "preposition": "von",
+            "case": "dative",
+            "translation": "from, by, of, about",
+            "example": ""
+          },
+          {
+            "preposition": "zu",
+            "case": "dative",
+            "translation": "to",
+            "example": ""
+          },
+          {
+            "preposition": "gegenüber",
+            "case": "dative",
+            "translation": "across from",
+            "example": ""
+          }
         ]
       },
       {
         "id": "Accusative/Dative Prepositions",
         "items": [
-          {"preposition": "an", "case": "dative/accusative", "translation": "on, at"},
-          {"preposition": "auf", "case": "dative/accusative", "translation": "on, on top of"},
-          {"preposition": "hinter", "case": "dative/accusative", "translation": "behind"},
-          {"preposition": "in", "case": "dative/accusative", "translation": "in, into"},
-          {"preposition": "neben", "case": "dative/accusative", "translation": "next to"},
-          {"preposition": "über", "case": "dative/accusative", "translation": "over, above"},
-          {"preposition": "unter", "case": "dative/accusative", "translation": "under, among"},
-          {"preposition": "vor", "case": "dative/accusative", "translation": "in front of, before"},
-          {"preposition": "zwischen", "case": "dative/accusative", "translation": "between"}
+          {
+            "preposition": "an",
+            "case": "dative/accusative",
+            "translation": "on, at",
+            "example": ""
+          },
+          {
+            "preposition": "auf",
+            "case": "dative/accusative",
+            "translation": "on, on top of",
+            "example": ""
+          },
+          {
+            "preposition": "hinter",
+            "case": "dative/accusative",
+            "translation": "behind",
+            "example": ""
+          },
+          {
+            "preposition": "in",
+            "case": "dative/accusative",
+            "translation": "in, into",
+            "example": ""
+          },
+          {
+            "preposition": "neben",
+            "case": "dative/accusative",
+            "translation": "next to",
+            "example": ""
+          },
+          {
+            "preposition": "über",
+            "case": "dative/accusative",
+            "translation": "over, above",
+            "example": ""
+          },
+          {
+            "preposition": "unter",
+            "case": "dative/accusative",
+            "translation": "under, among",
+            "example": ""
+          },
+          {
+            "preposition": "vor",
+            "case": "dative/accusative",
+            "translation": "in front of, before",
+            "example": ""
+          },
+          {
+            "preposition": "zwischen",
+            "case": "dative/accusative",
+            "translation": "between",
+            "example": ""
+          }
         ]
       },
       {
         "id": "Genitive Prepositions",
         "items": [
-          {"preposition": "trotz", "case": "genitive", "translation": "despite, in spite of"},
-          {"preposition": "während", "case": "genitive", "translation": "during"},
-          {"preposition": "wegen", "case": "genitive", "translation": "because of, on account of"},
-          {"preposition": "anstatt / statt", "case": "genitive", "translation": "instead of"},
-          {"preposition": "außerhalb", "case": "genitive", "translation": "outside of"},
-          {"preposition": "innerhalb", "case": "genitive", "translation": "inside of, within"},
-          {"preposition": "oberhalb", "case": "genitive", "translation": "above"},
-          {"preposition": "unterhalb", "case": "genitive", "translation": "below"},
-          {"preposition": "diesseits", "case": "genitive", "translation": "on this side of"},
-          {"preposition": "jenseits", "case": "genitive", "translation": "on the other side of"},
-          {"preposition": "beidseits", "case": "genitive", "translation": "on both sides of"},
-          {"preposition": "unweit", "case": "genitive", "translation": "not far from"}
+          {
+            "preposition": "trotz",
+            "case": "genitive",
+            "translation": "despite, in spite of",
+            "example": ""
+          },
+          {
+            "preposition": "während",
+            "case": "genitive",
+            "translation": "during",
+            "example": ""
+          },
+          {
+            "preposition": "wegen",
+            "case": "genitive",
+            "translation": "because of, on account of",
+            "example": ""
+          },
+          {
+            "preposition": "anstatt / statt",
+            "case": "genitive",
+            "translation": "instead of",
+            "example": ""
+          },
+          {
+            "preposition": "außerhalb",
+            "case": "genitive",
+            "translation": "outside of",
+            "example": ""
+          },
+          {
+            "preposition": "innerhalb",
+            "case": "genitive",
+            "translation": "inside of, within",
+            "example": ""
+          },
+          {
+            "preposition": "oberhalb",
+            "case": "genitive",
+            "translation": "above",
+            "example": ""
+          },
+          {
+            "preposition": "unterhalb",
+            "case": "genitive",
+            "translation": "below",
+            "example": ""
+          },
+          {
+            "preposition": "diesseits",
+            "case": "genitive",
+            "translation": "on this side of",
+            "example": ""
+          },
+          {
+            "preposition": "jenseits",
+            "case": "genitive",
+            "translation": "on the other side of",
+            "example": ""
+          },
+          {
+            "preposition": "beidseits",
+            "case": "genitive",
+            "translation": "on both sides of",
+            "example": ""
+          },
+          {
+            "preposition": "unweit",
+            "case": "genitive",
+            "translation": "not far from",
+            "example": ""
+          }
         ]
       }
     ]
@@ -283,58 +1412,242 @@
   {
     "name": "Conjunctions",
     "header": [
-      {"name": "conjunction", "questionable": true},
-      {"name": "type", "questionable": false},
-      {"name": "position", "questionable": false},
-      {"name": "translation", "questionable": false}
+      {
+        "name": "conjunction",
+        "questionable": true
+      },
+      {
+        "name": "type",
+        "questionable": false
+      },
+      {
+        "name": "position",
+        "questionable": false
+      },
+      {
+        "name": "translation",
+        "questionable": false
+      },
+      {
+        "name": "example",
+        "questionable": false
+      }
     ],
     "groups": [
       {
         "id": "Huptsatz Conjunctions 1",
         "items": [
-          {"conjunction": "und", "type": "hauptsatz", "position": "0", "translation": "and"},
-          {"conjunction": "aber", "type": "hauptsatz", "position": "0", "translation": "but"},
-          {"conjunction": "denn", "type": "hauptsatz", "position": "0", "translation": "because"},
-          {"conjunction": "oder", "type": "hauptsatz", "position": "0", "translation": "or"},
-          {"conjunction": "sondern", "type": "hauptsatz", "position": "0", "translation": "but rather (after negative hauptsatz)"},
-          {"conjunction": "doch", "type": "hauptsatz", "position": "0", "translation": "yet, still, but"}
+          {
+            "conjunction": "und",
+            "type": "hauptsatz",
+            "position": "0",
+            "translation": "and",
+            "example": ""
+          },
+          {
+            "conjunction": "aber",
+            "type": "hauptsatz",
+            "position": "0",
+            "translation": "but",
+            "example": ""
+          },
+          {
+            "conjunction": "denn",
+            "type": "hauptsatz",
+            "position": "0",
+            "translation": "because",
+            "example": ""
+          },
+          {
+            "conjunction": "oder",
+            "type": "hauptsatz",
+            "position": "0",
+            "translation": "or",
+            "example": ""
+          },
+          {
+            "conjunction": "sondern",
+            "type": "hauptsatz",
+            "position": "0",
+            "translation": "but rather (after negative hauptsatz)",
+            "example": ""
+          },
+          {
+            "conjunction": "doch",
+            "type": "hauptsatz",
+            "position": "0",
+            "translation": "yet, still, but",
+            "example": ""
+          }
         ]
       },
       {
         "id": "Nebensatz Conjunctions 1",
         "items": [
-          {"conjunction": "weil", "type": "nebensatz", "position": "1", "translation": "because"},
-          {"conjunction": "da", "type": "nebensatz", "position": "1", "translation": "because (can be used in beginning of sentence)"},
-          {"conjunction": "dass", "type": "nebensatz", "position": "1", "translation": "that"},
-          {"conjunction": "ob", "type": "nebensatz", "position": "1", "translation": "if, whether"},
-          {"conjunction": "wenn", "type": "nebensatz", "position": "1", "translation": "if, when"},
-          {"conjunction": "als", "type": "nebensatz", "position": "1", "translation": "when (past singular event) / than"},
-          {"conjunction": "obwohl", "type": "nebensatz", "position": "1", "translation": "although"},
-          {"conjunction": "damit", "type": "nebensatz", "position": "1", "translation": "so that, in order to"},
-          {"conjunction": "seit/seitdem", "type": "nebensatz", "position": "1", "translation": "since (cause)"}
+          {
+            "conjunction": "weil",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "because",
+            "example": ""
+          },
+          {
+            "conjunction": "da",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "because (can be used in beginning of sentence)",
+            "example": ""
+          },
+          {
+            "conjunction": "dass",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "that",
+            "example": ""
+          },
+          {
+            "conjunction": "ob",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "if, whether",
+            "example": ""
+          },
+          {
+            "conjunction": "wenn",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "if, when",
+            "example": ""
+          },
+          {
+            "conjunction": "als",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "when (past singular event) / than",
+            "example": ""
+          },
+          {
+            "conjunction": "obwohl",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "although",
+            "example": ""
+          },
+          {
+            "conjunction": "damit",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "so that, in order to",
+            "example": ""
+          },
+          {
+            "conjunction": "seit/seitdem",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "since (cause)",
+            "example": ""
+          }
         ]
       },
       {
         "id": "Nebensatz Conjunctions 2",
         "items": [
-          {"conjunction": "bevor", "type": "nebensatz", "position": "1", "translation": "before"},
-          {"conjunction": "bis", "type": "nebensatz", "position": "1", "translation": "until"},
-          {"conjunction": "nachdem", "type": "nebensatz", "position": "1", "translation": "after"},
-          {"conjunction": "solange", "type": "nebensatz", "position": "1", "translation": "as long as"},
-          {"conjunction": "sobald", "type": "nebensatz", "position": "1", "translation": "as soon as"},
-          {"conjunction": "während", "type": "nebensatz", "position": "1", "translation": "while"},
-          {"conjunction": "falls", "type": "nebensatz", "position": "1", "translation": "in case"},
-          {"conjunction": "sodass", "type": "nebensatz", "position": "1", "translation": "so that, with the result that"}
+          {
+            "conjunction": "bevor",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "before",
+            "example": ""
+          },
+          {
+            "conjunction": "bis",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "until",
+            "example": ""
+          },
+          {
+            "conjunction": "nachdem",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "after",
+            "example": ""
+          },
+          {
+            "conjunction": "solange",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "as long as",
+            "example": ""
+          },
+          {
+            "conjunction": "sobald",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "as soon as",
+            "example": ""
+          },
+          {
+            "conjunction": "während",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "while",
+            "example": ""
+          },
+          {
+            "conjunction": "falls",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "in case",
+            "example": ""
+          },
+          {
+            "conjunction": "sodass",
+            "type": "nebensatz",
+            "position": "1",
+            "translation": "so that, with the result that",
+            "example": ""
+          }
         ]
       },
       {
         "id": "Huptsatz Conjunctions 2",
         "items": [
-          {"conjunction": "dann", "type": "hauptsatz", "position": "1", "translation": "then"},
-          {"conjunction": "deshalb", "type": "hauptsatz", "position": "1", "translation": "therefore"},
-          {"conjunction": "trotzdem", "type": "hauptsatz", "position": "1", "translation": "despite that, nevertheless"},
-          {"conjunction": "sonst", "type": "hauptsatz", "position": "1", "translation": "otherwise"},
-          {"conjunction": "außerdem", "type": "hauptsatz", "position": "1", "translation": "besides, in addition"}
+          {
+            "conjunction": "dann",
+            "type": "hauptsatz",
+            "position": "1",
+            "translation": "then",
+            "example": ""
+          },
+          {
+            "conjunction": "deshalb",
+            "type": "hauptsatz",
+            "position": "1",
+            "translation": "therefore",
+            "example": ""
+          },
+          {
+            "conjunction": "trotzdem",
+            "type": "hauptsatz",
+            "position": "1",
+            "translation": "despite that, nevertheless",
+            "example": ""
+          },
+          {
+            "conjunction": "sonst",
+            "type": "hauptsatz",
+            "position": "1",
+            "translation": "otherwise",
+            "example": ""
+          },
+          {
+            "conjunction": "außerdem",
+            "type": "hauptsatz",
+            "position": "1",
+            "translation": "besides, in addition",
+            "example": ""
+          }
         ]
       }
     ]
@@ -342,132 +1655,760 @@
   {
     "name": "Nouns",
     "header": [
-      {"name": "noun", "questionable": true},
-      {"name": "gender", "questionable": false},
-      {"name": "plural", "questionable": false},
-      {"name": "translation", "questionable": false}
+      {
+        "name": "noun",
+        "questionable": true
+      },
+      {
+        "name": "gender",
+        "questionable": false
+      },
+      {
+        "name": "plural",
+        "questionable": false
+      },
+      {
+        "name": "translation",
+        "questionable": false
+      },
+      {
+        "name": "example",
+        "questionable": false
+      }
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          {"noun": "Mann", "gender": "der", "plural": "Männer", "translation": "the man"},
-          {"noun": "Frau", "gender": "die", "plural": "Frauen", "translation": "the woman"},
-          {"noun": "Kind", "gender": "das", "plural": "Kinder", "translation": "the child"},
-          {"noun": "Junge", "gender": "der", "plural": "Jungen", "translation": "the boy"},
-          {"noun": "Mädchen", "gender": "das", "plural": "Mädchen", "translation": "the girl"},
-          {"noun": "Familie", "gender": "die", "plural": "Familien", "translation": "the family"},
-          {"noun": "Freund", "gender": "der", "plural": "Freunde", "translation": "the friend (male)"},
-          {"noun": "Freundin", "gender": "die", "plural": "Freundinnen", "translation": "the friend (female)"},
-          {"noun": "Vater", "gender": "der", "plural": "Väter", "translation": "the father"},
-          {"noun": "Mutter", "gender": "die", "plural": "Mütter", "translation": "the mother"},
-          {"noun": "Sohn", "gender": "der", "plural": "Söhne", "translation": "the son"},
-          {"noun": "Tochter", "gender": "die", "plural": "Töchter", "translation": "the daughter"},
-          {"noun": "Bruder", "gender": "der", "plural": "Brüder", "translation": "the brother"},
-          {"noun": "Schwester", "gender": "die", "plural": "Schwestern", "translation": "the sister"},
-          {"noun": "Mensch", "gender": "der", "plural": "Menschen", "translation": "the person"},
-          {"noun": "Leute", "gender": "die", "plural": "Leute", "translation": "the people"},
-          {"noun": "Haus", "gender": "das", "plural": "Häuser", "translation": "the house"},
-          {"noun": "Wohnung", "gender": "die", "plural": "Wohnungen", "translation": "the apartment"},
-          {"noun": "Zimmer", "gender": "das", "plural": "Zimmer", "translation": "the room"},
-          {"noun": "Tür", "gender": "die", "plural": "Türen", "translation": "the door"},
-          {"noun": "Fenster", "gender": "das", "plural": "Fenster", "translation": "the window"},
-          {"noun": "Tisch", "gender": "der", "plural": "Tische", "translation": "the table"},
-          {"noun": "Stuhl", "gender": "der", "plural": "Stühle", "translation": "the chair"},
-          {"noun": "Bett", "gender": "das", "plural": "Betten", "translation": "the bed"},
-          {"noun": "Schrank", "gender": "der", "plural": "Schränke", "translation": "the cupboard"},
-          {"noun": "Spiegel", "gender": "der", "plural": "Spiegel", "translation": "the mirror"}
+          {
+            "noun": "Mann",
+            "gender": "der",
+            "plural": "Männer",
+            "translation": "the man",
+            "example": ""
+          },
+          {
+            "noun": "Frau",
+            "gender": "die",
+            "plural": "Frauen",
+            "translation": "the woman",
+            "example": ""
+          },
+          {
+            "noun": "Kind",
+            "gender": "das",
+            "plural": "Kinder",
+            "translation": "the child",
+            "example": ""
+          },
+          {
+            "noun": "Junge",
+            "gender": "der",
+            "plural": "Jungen",
+            "translation": "the boy",
+            "example": ""
+          },
+          {
+            "noun": "Mädchen",
+            "gender": "das",
+            "plural": "Mädchen",
+            "translation": "the girl",
+            "example": ""
+          },
+          {
+            "noun": "Familie",
+            "gender": "die",
+            "plural": "Familien",
+            "translation": "the family",
+            "example": ""
+          },
+          {
+            "noun": "Freund",
+            "gender": "der",
+            "plural": "Freunde",
+            "translation": "the friend (male)",
+            "example": ""
+          },
+          {
+            "noun": "Freundin",
+            "gender": "die",
+            "plural": "Freundinnen",
+            "translation": "the friend (female)",
+            "example": ""
+          },
+          {
+            "noun": "Vater",
+            "gender": "der",
+            "plural": "Väter",
+            "translation": "the father",
+            "example": ""
+          },
+          {
+            "noun": "Mutter",
+            "gender": "die",
+            "plural": "Mütter",
+            "translation": "the mother",
+            "example": ""
+          },
+          {
+            "noun": "Sohn",
+            "gender": "der",
+            "plural": "Söhne",
+            "translation": "the son",
+            "example": ""
+          },
+          {
+            "noun": "Tochter",
+            "gender": "die",
+            "plural": "Töchter",
+            "translation": "the daughter",
+            "example": ""
+          },
+          {
+            "noun": "Bruder",
+            "gender": "der",
+            "plural": "Brüder",
+            "translation": "the brother",
+            "example": ""
+          },
+          {
+            "noun": "Schwester",
+            "gender": "die",
+            "plural": "Schwestern",
+            "translation": "the sister",
+            "example": ""
+          },
+          {
+            "noun": "Mensch",
+            "gender": "der",
+            "plural": "Menschen",
+            "translation": "the person",
+            "example": ""
+          },
+          {
+            "noun": "Leute",
+            "gender": "die",
+            "plural": "Leute",
+            "translation": "the people",
+            "example": ""
+          },
+          {
+            "noun": "Haus",
+            "gender": "das",
+            "plural": "Häuser",
+            "translation": "the house",
+            "example": ""
+          },
+          {
+            "noun": "Wohnung",
+            "gender": "die",
+            "plural": "Wohnungen",
+            "translation": "the apartment",
+            "example": ""
+          },
+          {
+            "noun": "Zimmer",
+            "gender": "das",
+            "plural": "Zimmer",
+            "translation": "the room",
+            "example": ""
+          },
+          {
+            "noun": "Tür",
+            "gender": "die",
+            "plural": "Türen",
+            "translation": "the door",
+            "example": ""
+          },
+          {
+            "noun": "Fenster",
+            "gender": "das",
+            "plural": "Fenster",
+            "translation": "the window",
+            "example": ""
+          },
+          {
+            "noun": "Tisch",
+            "gender": "der",
+            "plural": "Tische",
+            "translation": "the table",
+            "example": ""
+          },
+          {
+            "noun": "Stuhl",
+            "gender": "der",
+            "plural": "Stühle",
+            "translation": "the chair",
+            "example": ""
+          },
+          {
+            "noun": "Bett",
+            "gender": "das",
+            "plural": "Betten",
+            "translation": "the bed",
+            "example": ""
+          },
+          {
+            "noun": "Schrank",
+            "gender": "der",
+            "plural": "Schränke",
+            "translation": "the cupboard",
+            "example": ""
+          },
+          {
+            "noun": "Spiegel",
+            "gender": "der",
+            "plural": "Spiegel",
+            "translation": "the mirror",
+            "example": ""
+          }
         ]
       },
       {
         "id": 1,
         "items": [
-          {"noun": "Lampe", "gender": "die", "plural": "Lampen", "translation": "the lamp"},
-          {"noun": "Licht", "gender": "das", "plural": "Lichter", "translation": "the light"},
-          {"noun": "Computer", "gender": "der", "plural": "Computer", "translation": "the computer"},
-          {"noun": "Handy", "gender": "das", "plural": "Handys", "translation": "the mobile phone"},
-          {"noun": "Buch", "gender": "das", "plural": "Bücher", "translation": "the book"},
-          {"noun": "Zeitung", "gender": "die", "plural": "Zeitungen", "translation": "the newspaper"},
-          {"noun": "Heft", "gender": "das", "plural": "Hefte", "translation": "the notebook"},
-          {"noun": "Stift", "gender": "der", "plural": "Stifte", "translation": "the pen"},
-          {"noun": "Tag", "gender": "der", "plural": "Tage", "translation": "the day"},
-          {"noun": "Woche", "gender": "die", "plural": "Wochen", "translation": "the week"},
-          {"noun": "Monat", "gender": "der", "plural": "Monate", "translation": "the month"},
-          {"noun": "Jahr", "gender": "das", "plural": "Jahre", "translation": "the year"},
-          {"noun": "Zeit", "gender": "die", "plural": "Zeiten", "translation": "the time"},
-          {"noun": "Uhr", "gender": "die", "plural": "Uhren", "translation": "the clock"},
-          {"noun": "Morgen", "gender": "der", "plural": "Morgen", "translation": "the morning"},
-          {"noun": "Abend", "gender": "der", "plural": "Abende", "translation": "the evening"},
-          {"noun": "Nacht", "gender": "die", "plural": "Nächte", "translation": "the night"},
-          {"noun": "Kopf", "gender": "der", "plural": "Köpfe", "translation": "the head"},
-          {"noun": "Gesicht", "gender": "das", "plural": "Gesichter", "translation": "the face"},
-          {"noun": "Auge", "gender": "das", "plural": "Augen", "translation": "the eye"},
-          {"noun": "Ohr", "gender": "das", "plural": "Ohren", "translation": "the ear"},
-          {"noun": "Mund", "gender": "der", "plural": "Münder", "translation": "the mouth"},
-          {"noun": "Hand", "gender": "die", "plural": "Hände", "translation": "the hand"},
-          {"noun": "Finger", "gender": "der", "plural": "Finger", "translation": "the finger"},
-          {"noun": "Fuß", "gender": "der", "plural": "Füße", "translation": "the foot"}
+          {
+            "noun": "Lampe",
+            "gender": "die",
+            "plural": "Lampen",
+            "translation": "the lamp",
+            "example": ""
+          },
+          {
+            "noun": "Licht",
+            "gender": "das",
+            "plural": "Lichter",
+            "translation": "the light",
+            "example": ""
+          },
+          {
+            "noun": "Computer",
+            "gender": "der",
+            "plural": "Computer",
+            "translation": "the computer",
+            "example": ""
+          },
+          {
+            "noun": "Handy",
+            "gender": "das",
+            "plural": "Handys",
+            "translation": "the mobile phone",
+            "example": ""
+          },
+          {
+            "noun": "Buch",
+            "gender": "das",
+            "plural": "Bücher",
+            "translation": "the book",
+            "example": ""
+          },
+          {
+            "noun": "Zeitung",
+            "gender": "die",
+            "plural": "Zeitungen",
+            "translation": "the newspaper",
+            "example": ""
+          },
+          {
+            "noun": "Heft",
+            "gender": "das",
+            "plural": "Hefte",
+            "translation": "the notebook",
+            "example": ""
+          },
+          {
+            "noun": "Stift",
+            "gender": "der",
+            "plural": "Stifte",
+            "translation": "the pen",
+            "example": ""
+          },
+          {
+            "noun": "Tag",
+            "gender": "der",
+            "plural": "Tage",
+            "translation": "the day",
+            "example": ""
+          },
+          {
+            "noun": "Woche",
+            "gender": "die",
+            "plural": "Wochen",
+            "translation": "the week",
+            "example": ""
+          },
+          {
+            "noun": "Monat",
+            "gender": "der",
+            "plural": "Monate",
+            "translation": "the month",
+            "example": ""
+          },
+          {
+            "noun": "Jahr",
+            "gender": "das",
+            "plural": "Jahre",
+            "translation": "the year",
+            "example": ""
+          },
+          {
+            "noun": "Zeit",
+            "gender": "die",
+            "plural": "Zeiten",
+            "translation": "the time",
+            "example": ""
+          },
+          {
+            "noun": "Uhr",
+            "gender": "die",
+            "plural": "Uhren",
+            "translation": "the clock",
+            "example": ""
+          },
+          {
+            "noun": "Morgen",
+            "gender": "der",
+            "plural": "Morgen",
+            "translation": "the morning",
+            "example": ""
+          },
+          {
+            "noun": "Abend",
+            "gender": "der",
+            "plural": "Abende",
+            "translation": "the evening",
+            "example": ""
+          },
+          {
+            "noun": "Nacht",
+            "gender": "die",
+            "plural": "Nächte",
+            "translation": "the night",
+            "example": ""
+          },
+          {
+            "noun": "Kopf",
+            "gender": "der",
+            "plural": "Köpfe",
+            "translation": "the head",
+            "example": ""
+          },
+          {
+            "noun": "Gesicht",
+            "gender": "das",
+            "plural": "Gesichter",
+            "translation": "the face",
+            "example": ""
+          },
+          {
+            "noun": "Auge",
+            "gender": "das",
+            "plural": "Augen",
+            "translation": "the eye",
+            "example": ""
+          },
+          {
+            "noun": "Ohr",
+            "gender": "das",
+            "plural": "Ohren",
+            "translation": "the ear",
+            "example": ""
+          },
+          {
+            "noun": "Mund",
+            "gender": "der",
+            "plural": "Münder",
+            "translation": "the mouth",
+            "example": ""
+          },
+          {
+            "noun": "Hand",
+            "gender": "die",
+            "plural": "Hände",
+            "translation": "the hand",
+            "example": ""
+          },
+          {
+            "noun": "Finger",
+            "gender": "der",
+            "plural": "Finger",
+            "translation": "the finger",
+            "example": ""
+          },
+          {
+            "noun": "Fuß",
+            "gender": "der",
+            "plural": "Füße",
+            "translation": "the foot",
+            "example": ""
+          }
         ]
       },
       {
         "id": 2,
         "items": [
-          {"noun": "Herz", "gender": "das", "plural": "Herzen", "translation": "the heart"},
-          {"noun": "Freund", "gender": "der", "plural": "Freunde", "translation": "the boyfriend"},
-          {"noun": "Freundin", "gender": "die", "plural": "Freundinnen", "translation": "the girlfriend"},
-          {"noun": "Schule", "gender": "die", "plural": "Schulen", "translation": "the school"},
-          {"noun": "Universität", "gender": "die", "plural": "Universitäten", "translation": "the university"},
-          {"noun": "Lehrer", "gender": "der", "plural": "Lehrer", "translation": "the teacher (male)"},
-          {"noun": "Lehrerin", "gender": "die", "plural": "Lehrerinnen", "translation": "the teacher (female)"},
-          {"noun": "Schüler", "gender": "der", "plural": "Schüler", "translation": "the pupil (male)"},
-          {"noun": "Schülerin", "gender": "die", "plural": "Schülerinnen", "translation": "the pupil (female)"},
-          {"noun": "Student", "gender": "der", "plural": "Studenten", "translation": "the student (male)"},
-          {"noun": "Studentin", "gender": "die", "plural": "Studentinnen", "translation": "the student (female)"},
-          {"noun": "Essen", "gender": "das", "plural": "Essen", "translation": "the food"},
-          {"noun": "Brot", "gender": "das", "plural": "Brote", "translation": "the bread"},
-          {"noun": "Suppe", "gender": "die", "plural": "Suppen", "translation": "the soup"},
-          {"noun": "Apfel", "gender": "der", "plural": "Äpfel", "translation": "the apple"},
-          {"noun": "Banane", "gender": "die", "plural": "Bananen", "translation": "the banana"},
-          {"noun": "Milch", "gender": "die", "plural": "Milchen", "translation": "the milk"},
-          {"noun": "Wasser", "gender": "das", "plural": "Wasser", "translation": "the water"},
-          {"noun": "Kaffee", "gender": "der", "plural": "Kaffees", "translation": "the coffee"},
-          {"noun": "Tee", "gender": "der", "plural": "Tees", "translation": "the tea"},
-          {"noun": "Bier", "gender": "das", "plural": "Biere", "translation": "the beer"},
-          {"noun": "Wein", "gender": "der", "plural": "Weine", "translation": "the wine"},
-          {"noun": "Auto", "gender": "das", "plural": "Autos", "translation": "the car"},
-          {"noun": "Bus", "gender": "der", "plural": "Busse", "translation": "the bus"},
-          {"noun": "Zug", "gender": "der", "plural": "Züge", "translation": "the train"}
+          {
+            "noun": "Herz",
+            "gender": "das",
+            "plural": "Herzen",
+            "translation": "the heart",
+            "example": ""
+          },
+          {
+            "noun": "Freund",
+            "gender": "der",
+            "plural": "Freunde",
+            "translation": "the boyfriend",
+            "example": ""
+          },
+          {
+            "noun": "Freundin",
+            "gender": "die",
+            "plural": "Freundinnen",
+            "translation": "the girlfriend",
+            "example": ""
+          },
+          {
+            "noun": "Schule",
+            "gender": "die",
+            "plural": "Schulen",
+            "translation": "the school",
+            "example": ""
+          },
+          {
+            "noun": "Universität",
+            "gender": "die",
+            "plural": "Universitäten",
+            "translation": "the university",
+            "example": ""
+          },
+          {
+            "noun": "Lehrer",
+            "gender": "der",
+            "plural": "Lehrer",
+            "translation": "the teacher (male)",
+            "example": ""
+          },
+          {
+            "noun": "Lehrerin",
+            "gender": "die",
+            "plural": "Lehrerinnen",
+            "translation": "the teacher (female)",
+            "example": ""
+          },
+          {
+            "noun": "Schüler",
+            "gender": "der",
+            "plural": "Schüler",
+            "translation": "the pupil (male)",
+            "example": ""
+          },
+          {
+            "noun": "Schülerin",
+            "gender": "die",
+            "plural": "Schülerinnen",
+            "translation": "the pupil (female)",
+            "example": ""
+          },
+          {
+            "noun": "Student",
+            "gender": "der",
+            "plural": "Studenten",
+            "translation": "the student (male)",
+            "example": ""
+          },
+          {
+            "noun": "Studentin",
+            "gender": "die",
+            "plural": "Studentinnen",
+            "translation": "the student (female)",
+            "example": ""
+          },
+          {
+            "noun": "Essen",
+            "gender": "das",
+            "plural": "Essen",
+            "translation": "the food",
+            "example": ""
+          },
+          {
+            "noun": "Brot",
+            "gender": "das",
+            "plural": "Brote",
+            "translation": "the bread",
+            "example": ""
+          },
+          {
+            "noun": "Suppe",
+            "gender": "die",
+            "plural": "Suppen",
+            "translation": "the soup",
+            "example": ""
+          },
+          {
+            "noun": "Apfel",
+            "gender": "der",
+            "plural": "Äpfel",
+            "translation": "the apple",
+            "example": ""
+          },
+          {
+            "noun": "Banane",
+            "gender": "die",
+            "plural": "Bananen",
+            "translation": "the banana",
+            "example": ""
+          },
+          {
+            "noun": "Milch",
+            "gender": "die",
+            "plural": "Milchen",
+            "translation": "the milk",
+            "example": ""
+          },
+          {
+            "noun": "Wasser",
+            "gender": "das",
+            "plural": "Wasser",
+            "translation": "the water",
+            "example": ""
+          },
+          {
+            "noun": "Kaffee",
+            "gender": "der",
+            "plural": "Kaffees",
+            "translation": "the coffee",
+            "example": ""
+          },
+          {
+            "noun": "Tee",
+            "gender": "der",
+            "plural": "Tees",
+            "translation": "the tea",
+            "example": ""
+          },
+          {
+            "noun": "Bier",
+            "gender": "das",
+            "plural": "Biere",
+            "translation": "the beer",
+            "example": ""
+          },
+          {
+            "noun": "Wein",
+            "gender": "der",
+            "plural": "Weine",
+            "translation": "the wine",
+            "example": ""
+          },
+          {
+            "noun": "Auto",
+            "gender": "das",
+            "plural": "Autos",
+            "translation": "the car",
+            "example": ""
+          },
+          {
+            "noun": "Bus",
+            "gender": "der",
+            "plural": "Busse",
+            "translation": "the bus",
+            "example": ""
+          },
+          {
+            "noun": "Zug",
+            "gender": "der",
+            "plural": "Züge",
+            "translation": "the train",
+            "example": ""
+          }
         ]
       },
       {
         "id": 3,
         "items": [
-          {"noun": "Flugzeug", "gender": "das", "plural": "Flugzeuge", "translation": "the airplane"},
-          {"noun": "Schiff", "gender": "das", "plural": "Schiffe", "translation": "the ship"},
-          {"noun": "Weg", "gender": "der", "plural": "Wege", "translation": "the way"},
-          {"noun": "Straße", "gender": "die", "plural": "Straßen", "translation": "the street"},
-          {"noun": "Platz", "gender": "der", "plural": "Plätze", "translation": "the square/place"},
-          {"noun": "Stadt", "gender": "die", "plural": "Städte", "translation": "the city"},
-          {"noun": "Dorf", "gender": "das", "plural": "Dörfer", "translation": "the village"},
-          {"noun": "Land", "gender": "das", "plural": "Länder", "translation": "the country"},
-          {"noun": "Welt", "gender": "die", "plural": "Welten", "translation": "the world"},
-          {"noun": "Arbeit", "gender": "die", "plural": "Arbeiten", "translation": "the work"},
-          {"noun": "Beruf", "gender": "der", "plural": "Berufe", "translation": "the profession"},
-          {"noun": "Geld", "gender": "das", "plural": "Gelder", "translation": "the money"},
-          {"noun": "Euro", "gender": "der", "plural": "Euros", "translation": "the euro"},
-          {"noun": "Bank", "gender": "die", "plural": "Banken", "translation": "the bank"},
-          {"noun": "Geschäft", "gender": "das", "plural": "Geschäfte", "translation": "the shop"},
-          {"noun": "Laden", "gender": "der", "plural": "Läden", "translation": "the store"},
-          {"noun": "Markt", "gender": "der", "plural": "Märkte", "translation": "the market"},
-          {"noun": "Kirche", "gender": "die", "plural": "Kirchen", "translation": "the church"},
-          {"noun": "Krankenhaus", "gender": "das", "plural": "Krankenhäuser", "translation": "the hospital"},
-          {"noun": "Apotheke", "gender": "die", "plural": "Apotheken", "translation": "the pharmacy"},
-          {"noun": "Polizei", "gender": "die", "plural": "Polizeien", "translation": "the police"},
-          {"noun": "Wetter", "gender": "das", "plural": "Wetter", "translation": "the weather"},
-          {"noun": "Sonne", "gender": "die", "plural": "Sonnen", "translation": "the sun"},
-          {"noun": "Regen", "gender": "der", "plural": "Regen", "translation": "the rain"},
-          {"noun": "Schnee", "gender": "der", "plural": "Schnee", "translation": "the snow"},
-          {"noun": "Wind", "gender": "der", "plural": "Winde", "translation": "the wind"}
+          {
+            "noun": "Flugzeug",
+            "gender": "das",
+            "plural": "Flugzeuge",
+            "translation": "the airplane",
+            "example": ""
+          },
+          {
+            "noun": "Schiff",
+            "gender": "das",
+            "plural": "Schiffe",
+            "translation": "the ship",
+            "example": ""
+          },
+          {
+            "noun": "Weg",
+            "gender": "der",
+            "plural": "Wege",
+            "translation": "the way",
+            "example": ""
+          },
+          {
+            "noun": "Straße",
+            "gender": "die",
+            "plural": "Straßen",
+            "translation": "the street",
+            "example": ""
+          },
+          {
+            "noun": "Platz",
+            "gender": "der",
+            "plural": "Plätze",
+            "translation": "the square/place",
+            "example": ""
+          },
+          {
+            "noun": "Stadt",
+            "gender": "die",
+            "plural": "Städte",
+            "translation": "the city",
+            "example": ""
+          },
+          {
+            "noun": "Dorf",
+            "gender": "das",
+            "plural": "Dörfer",
+            "translation": "the village",
+            "example": ""
+          },
+          {
+            "noun": "Land",
+            "gender": "das",
+            "plural": "Länder",
+            "translation": "the country",
+            "example": ""
+          },
+          {
+            "noun": "Welt",
+            "gender": "die",
+            "plural": "Welten",
+            "translation": "the world",
+            "example": ""
+          },
+          {
+            "noun": "Arbeit",
+            "gender": "die",
+            "plural": "Arbeiten",
+            "translation": "the work",
+            "example": ""
+          },
+          {
+            "noun": "Beruf",
+            "gender": "der",
+            "plural": "Berufe",
+            "translation": "the profession",
+            "example": ""
+          },
+          {
+            "noun": "Geld",
+            "gender": "das",
+            "plural": "Gelder",
+            "translation": "the money",
+            "example": ""
+          },
+          {
+            "noun": "Euro",
+            "gender": "der",
+            "plural": "Euros",
+            "translation": "the euro",
+            "example": ""
+          },
+          {
+            "noun": "Bank",
+            "gender": "die",
+            "plural": "Banken",
+            "translation": "the bank",
+            "example": ""
+          },
+          {
+            "noun": "Geschäft",
+            "gender": "das",
+            "plural": "Geschäfte",
+            "translation": "the shop",
+            "example": ""
+          },
+          {
+            "noun": "Laden",
+            "gender": "der",
+            "plural": "Läden",
+            "translation": "the store",
+            "example": ""
+          },
+          {
+            "noun": "Markt",
+            "gender": "der",
+            "plural": "Märkte",
+            "translation": "the market",
+            "example": ""
+          },
+          {
+            "noun": "Kirche",
+            "gender": "die",
+            "plural": "Kirchen",
+            "translation": "the church",
+            "example": ""
+          },
+          {
+            "noun": "Krankenhaus",
+            "gender": "das",
+            "plural": "Krankenhäuser",
+            "translation": "the hospital",
+            "example": ""
+          },
+          {
+            "noun": "Apotheke",
+            "gender": "die",
+            "plural": "Apotheken",
+            "translation": "the pharmacy",
+            "example": ""
+          },
+          {
+            "noun": "Polizei",
+            "gender": "die",
+            "plural": "Polizeien",
+            "translation": "the police",
+            "example": ""
+          },
+          {
+            "noun": "Wetter",
+            "gender": "das",
+            "plural": "Wetter",
+            "translation": "the weather",
+            "example": ""
+          },
+          {
+            "noun": "Sonne",
+            "gender": "die",
+            "plural": "Sonnen",
+            "translation": "the sun",
+            "example": ""
+          },
+          {
+            "noun": "Regen",
+            "gender": "der",
+            "plural": "Regen",
+            "translation": "the rain",
+            "example": ""
+          },
+          {
+            "noun": "Schnee",
+            "gender": "der",
+            "plural": "Schnee",
+            "translation": "the snow",
+            "example": ""
+          },
+          {
+            "noun": "Wind",
+            "gender": "der",
+            "plural": "Winde",
+            "translation": "the wind",
+            "example": ""
+          }
         ]
       }
     ]
@@ -475,14 +2416,28 @@
   {
     "name": "Adjectives",
     "header": [
-      {"name": "adjective", "questionable": true},
-      {"name": "translation", "questionable": false}
+      {
+        "name": "adjective",
+        "questionable": true
+      },
+      {
+        "name": "translation",
+        "questionable": false
+      },
+      {
+        "name": "example",
+        "questionable": false
+      }
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          {"adjective": "schön", "translation": "beautiful"}
+          {
+            "adjective": "schön",
+            "translation": "beautiful",
+            "example": ""
+          }
         ]
       }
     ]
@@ -490,70 +2445,288 @@
   {
     "name": "Adverbs",
     "header": [
-      {"name": "adverb", "questionable": true},
-      {"name": "translation", "questionable": false}
+      {
+        "name": "adverb",
+        "questionable": true
+      },
+      {
+        "name": "translation",
+        "questionable": false
+      },
+      {
+        "name": "example",
+        "questionable": false
+      }
     ],
     "groups": [
       {
         "id": 0,
         "items": [
-          {"adverb": "oft", "translation": "often"},
-          {"adverb": "immer", "translation": "always"},
-          {"adverb": "nie", "translation": "never"},
-          {"adverb": "manchmal", "translation": "sometimes"},
-          {"adverb": "selten", "translation": "rarely"},
-          {"adverb": "jetzt", "translation": "now"},
-          {"adverb": "dann", "translation": "then"},
-          {"adverb": "bald", "translation": "soon"},
-          {"adverb": "schon", "translation": "already"},
-          {"adverb": "noch", "translation": "still/yet"},
-          {"adverb": "wieder", "translation": "again"},
-          {"adverb": "gerade", "translation": "just/right now"},
-          {"adverb": "heute", "translation": "today"},
-          {"adverb": "morgen", "translation": "tomorrow"},
-          {"adverb": "gestern", "translation": "yesterday"},
-          {"adverb": "hier", "translation": "here"},
-          {"adverb": "dort", "translation": "there"},
-          {"adverb": "überall", "translation": "everywhere"},
-          {"adverb": "nirgends", "translation": "nowhere"},
-          {"adverb": "links", "translation": "left"},
-          {"adverb": "rechts", "translation": "right"},
-          {"adverb": "weiter", "translation": "further"},
-          {"adverb": "oben", "translation": "above/upstairs"},
-          {"adverb": "unten", "translation": "below/downstairs"},
-          {"adverb": "vorn", "translation": "in front"},
-          {"adverb": "hinten", "translation": "in back"}
+          {
+            "adverb": "oft",
+            "translation": "often",
+            "example": ""
+          },
+          {
+            "adverb": "immer",
+            "translation": "always",
+            "example": ""
+          },
+          {
+            "adverb": "nie",
+            "translation": "never",
+            "example": ""
+          },
+          {
+            "adverb": "manchmal",
+            "translation": "sometimes",
+            "example": ""
+          },
+          {
+            "adverb": "selten",
+            "translation": "rarely",
+            "example": ""
+          },
+          {
+            "adverb": "jetzt",
+            "translation": "now",
+            "example": ""
+          },
+          {
+            "adverb": "dann",
+            "translation": "then",
+            "example": ""
+          },
+          {
+            "adverb": "bald",
+            "translation": "soon",
+            "example": ""
+          },
+          {
+            "adverb": "schon",
+            "translation": "already",
+            "example": ""
+          },
+          {
+            "adverb": "noch",
+            "translation": "still/yet",
+            "example": ""
+          },
+          {
+            "adverb": "wieder",
+            "translation": "again",
+            "example": ""
+          },
+          {
+            "adverb": "gerade",
+            "translation": "just/right now",
+            "example": ""
+          },
+          {
+            "adverb": "heute",
+            "translation": "today",
+            "example": ""
+          },
+          {
+            "adverb": "morgen",
+            "translation": "tomorrow",
+            "example": ""
+          },
+          {
+            "adverb": "gestern",
+            "translation": "yesterday",
+            "example": ""
+          },
+          {
+            "adverb": "hier",
+            "translation": "here",
+            "example": ""
+          },
+          {
+            "adverb": "dort",
+            "translation": "there",
+            "example": ""
+          },
+          {
+            "adverb": "überall",
+            "translation": "everywhere",
+            "example": ""
+          },
+          {
+            "adverb": "nirgends",
+            "translation": "nowhere",
+            "example": ""
+          },
+          {
+            "adverb": "links",
+            "translation": "left",
+            "example": ""
+          },
+          {
+            "adverb": "rechts",
+            "translation": "right",
+            "example": ""
+          },
+          {
+            "adverb": "weiter",
+            "translation": "further",
+            "example": ""
+          },
+          {
+            "adverb": "oben",
+            "translation": "above/upstairs",
+            "example": ""
+          },
+          {
+            "adverb": "unten",
+            "translation": "below/downstairs",
+            "example": ""
+          },
+          {
+            "adverb": "vorn",
+            "translation": "in front",
+            "example": ""
+          },
+          {
+            "adverb": "hinten",
+            "translation": "in back",
+            "example": ""
+          }
         ]
       },
       {
         "id": 1,
         "items": [
-          {"adverb": "draußen", "translation": "outside"},
-          {"adverb": "drinnen", "translation": "inside"},
-          {"adverb": "sehr", "translation": "very"},
-          {"adverb": "ziemlich", "translation": "quite/pretty"},
-          {"adverb": "gut", "translation": "well"},
-          {"adverb": "schlecht", "translation": "badly"},
-          {"adverb": "gern", "translation": "gladly/with pleasure"},
-          {"adverb": "leider", "translation": "unfortunately"},
-          {"adverb": "vielleicht", "translation": "perhaps/maybe"},
-          {"adverb": "bestimmt", "translation": "definitely/certainly"},
-          {"adverb": "wirklich", "translation": "really"},
-          {"adverb": "natürlich", "translation": "naturally/of course"},
-          {"adverb": "sicher", "translation": "surely"},
-          {"adverb": "genau", "translation": "exactly"},
-          {"adverb": "ganz", "translation": "completely/quite"},
-          {"adverb": "fast", "translation": "almost"},
-          {"adverb": "nur", "translation": "only"},
-          {"adverb": "auch", "translation": "also"},
-          {"adverb": "so", "translation": "so/like this"},
-          {"adverb": "deshalb", "translation": "therefore"},
-          {"adverb": "trotzdem", "translation": "nevertheless"},
-          {"adverb": "danach", "translation": "afterward"},
-          {"adverb": "zuerst", "translation": "first"},
-          {"adverb": "schließlich", "translation": "finally"},
-          {"adverb": "allerdings", "translation": "however"},
-          {"adverb": "beinahe", "translation": "almost/nearly"}
+          {
+            "adverb": "draußen",
+            "translation": "outside",
+            "example": ""
+          },
+          {
+            "adverb": "drinnen",
+            "translation": "inside",
+            "example": ""
+          },
+          {
+            "adverb": "sehr",
+            "translation": "very",
+            "example": ""
+          },
+          {
+            "adverb": "ziemlich",
+            "translation": "quite/pretty",
+            "example": ""
+          },
+          {
+            "adverb": "gut",
+            "translation": "well",
+            "example": ""
+          },
+          {
+            "adverb": "schlecht",
+            "translation": "badly",
+            "example": ""
+          },
+          {
+            "adverb": "gern",
+            "translation": "gladly/with pleasure",
+            "example": ""
+          },
+          {
+            "adverb": "leider",
+            "translation": "unfortunately",
+            "example": ""
+          },
+          {
+            "adverb": "vielleicht",
+            "translation": "perhaps/maybe",
+            "example": ""
+          },
+          {
+            "adverb": "bestimmt",
+            "translation": "definitely/certainly",
+            "example": ""
+          },
+          {
+            "adverb": "wirklich",
+            "translation": "really",
+            "example": ""
+          },
+          {
+            "adverb": "natürlich",
+            "translation": "naturally/of course",
+            "example": ""
+          },
+          {
+            "adverb": "sicher",
+            "translation": "surely",
+            "example": ""
+          },
+          {
+            "adverb": "genau",
+            "translation": "exactly",
+            "example": ""
+          },
+          {
+            "adverb": "ganz",
+            "translation": "completely/quite",
+            "example": ""
+          },
+          {
+            "adverb": "fast",
+            "translation": "almost",
+            "example": ""
+          },
+          {
+            "adverb": "nur",
+            "translation": "only",
+            "example": ""
+          },
+          {
+            "adverb": "auch",
+            "translation": "also",
+            "example": ""
+          },
+          {
+            "adverb": "so",
+            "translation": "so/like this",
+            "example": ""
+          },
+          {
+            "adverb": "deshalb",
+            "translation": "therefore",
+            "example": ""
+          },
+          {
+            "adverb": "trotzdem",
+            "translation": "nevertheless",
+            "example": ""
+          },
+          {
+            "adverb": "danach",
+            "translation": "afterward",
+            "example": ""
+          },
+          {
+            "adverb": "zuerst",
+            "translation": "first",
+            "example": ""
+          },
+          {
+            "adverb": "schließlich",
+            "translation": "finally",
+            "example": ""
+          },
+          {
+            "adverb": "allerdings",
+            "translation": "however",
+            "example": ""
+          },
+          {
+            "adverb": "beinahe",
+            "translation": "almost/nearly",
+            "example": ""
+          }
         ]
       }
     ]
