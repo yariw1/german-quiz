@@ -37,7 +37,7 @@
             "past": "blieb",
             "participle": "geblieben",
             "translation": "to stay, remain",
-            "example": ""
+            "example": "Er bleibt heute Abend zu Hause."
           },
           {
             "infinitive": "leihen",
@@ -45,7 +45,7 @@
             "past": "lieh",
             "participle": "geliehen",
             "translation": "to lend, borrow",
-            "example": ""
+            "example": "Kannst du mir dein Fahrrad leihen?"
           },
           {
             "infinitive": "meiden",
@@ -53,7 +53,7 @@
             "past": "mied",
             "participle": "gemieden",
             "translation": "to avoid",
-            "example": ""
+            "example": "Sie meidet laute Menschenmengen."
           },
           {
             "infinitive": "reiben",
@@ -61,7 +61,7 @@
             "past": "rieb",
             "participle": "gerieben",
             "translation": "to rub",
-            "example": ""
+            "example": "Er reibt sich die müden Augen."
           },
           {
             "infinitive": "scheiden",
@@ -69,7 +69,7 @@
             "past": "schied",
             "participle": "geschieden",
             "translation": "to separate, divorce",
-            "example": ""
+            "example": "Das Paar scheidet sich nach zwanzig Jahren."
           },
           {
             "infinitive": "scheinen",
@@ -77,7 +77,7 @@
             "past": "schien",
             "participle": "geschienen",
             "translation": "to shine, seem",
-            "example": ""
+            "example": "Die Sonne scheint den ganzen Tag."
           },
           {
             "infinitive": "schreiben",
@@ -85,7 +85,7 @@
             "past": "schrieb",
             "participle": "geschrieben",
             "translation": "to write",
-            "example": ""
+            "example": "Sie schreibt einen Brief an ihre Freundin."
           },
           {
             "infinitive": "schreien",
@@ -93,7 +93,7 @@
             "past": "schrie",
             "participle": "geschrien",
             "translation": "to shout, scream",
-            "example": ""
+            "example": "Das Kind schreit, weil es Hunger hat."
           },
           {
             "infinitive": "schweigen",
@@ -101,7 +101,7 @@
             "past": "schwieg",
             "participle": "geschwiegen",
             "translation": "to be silent",
-            "example": ""
+            "example": "Er schweigt, wenn er wütend ist."
           },
           {
             "infinitive": "steigen",
@@ -109,7 +109,7 @@
             "past": "stieg",
             "participle": "gestiegen",
             "translation": "to climb, rise",
-            "example": ""
+            "example": "Sie steigen auf den höchsten Berg."
           },
           {
             "infinitive": "treiben",
@@ -117,7 +117,7 @@
             "past": "trieb",
             "participle": "getrieben",
             "translation": "to drive, push",
-            "example": ""
+            "example": "Der Wind treibt die Wolken über den Himmel."
           },
           {
             "infinitive": "weisen",
@@ -125,7 +125,7 @@
             "past": "wies",
             "participle": "gewiesen",
             "translation": "to point, show",
-            "example": ""
+            "example": "Der Lehrer weist auf die Tafel."
           }
         ]
       },
@@ -138,7 +138,7 @@
             "past": "biss",
             "participle": "gebissen",
             "translation": "to bite",
-            "example": ""
+            "example": "Der Hund beißt nicht, er bellt nur."
           },
           {
             "infinitive": "gleiten",
@@ -146,7 +146,7 @@
             "past": "glitt",
             "participle": "geglitten",
             "translation": "to glide, slide",
-            "example": ""
+            "example": "Das Boot gleitet lautlos über das Wasser."
           },
           {
             "infinitive": "greifen",
@@ -154,7 +154,7 @@
             "past": "griff",
             "participle": "gegriffen",
             "translation": "to grab, reach",
-            "example": ""
+            "example": "Er greift nach dem fallenden Glas."
           },
           {
             "infinitive": "kneifen",
@@ -162,7 +162,7 @@
             "past": "kniff",
             "participle": "gekniffen",
             "translation": "to pinch",
-            "example": ""
+            "example": "Das kleine Mädchen kneift ihren Bruder in den Arm."
           },
           {
             "infinitive": "leiden",
@@ -170,7 +170,7 @@
             "past": "litt",
             "participle": "gelitten",
             "translation": "to suffer",
-            "example": ""
+            "example": "Sie leidet seit Jahren an Kopfschmerzen."
           },
           {
             "infinitive": "pfeifen",
@@ -178,7 +178,7 @@
             "past": "pfiff",
             "participle": "gepfiffen",
             "translation": "to whistle",
-            "example": ""
+            "example": "Der Junge pfeift ein fröhliches Lied."
           },
           {
             "infinitive": "reißen",
@@ -186,7 +186,7 @@
             "past": "riss",
             "participle": "gerissen",
             "translation": "to tear, rip",
-            "example": ""
+            "example": "Das Papier reißt leicht, wenn es nass ist."
           },
           {
             "infinitive": "schleichen",
@@ -194,7 +194,7 @@
             "past": "schlich",
             "participle": "geschlichen",
             "translation": "to sneak, creep",
-            "example": ""
+            "example": "Die Katze schleicht leise durch den Garten."
           },
           {
             "infinitive": "schneiden",
@@ -202,7 +202,7 @@
             "past": "schnitt",
             "participle": "geschnitten",
             "translation": "to cut",
-            "example": ""
+            "example": "Er schneidet das Brot in dünne Scheiben."
           },
           {
             "infinitive": "schreiten",
@@ -210,7 +210,7 @@
             "past": "schritt",
             "participle": "geschritten",
             "translation": "to stride",
-            "example": ""
+            "example": "Der Direktor schreitet langsam durch den Saal."
           },
           {
             "infinitive": "streiten",
@@ -218,7 +218,7 @@
             "past": "stritt",
             "participle": "gestritten",
             "translation": "to argue, dispute",
-            "example": ""
+            "example": "Die Brüder streiten oft um Kleinigkeiten."
           },
           {
             "infinitive": "weichen",
@@ -226,7 +226,7 @@
             "past": "wich",
             "participle": "gewichen",
             "translation": "to yield, give way",
-            "example": ""
+            "example": "Das Eis weicht der Frühlingswärme."
           }
         ]
       },
@@ -239,7 +239,7 @@
             "past": "bog",
             "participle": "gebogen",
             "translation": "to bend",
-            "example": ""
+            "example": "Er biegt den Draht zu einer Spirale."
           },
           {
             "infinitive": "bieten",
@@ -247,7 +247,7 @@
             "past": "bot",
             "participle": "geboten",
             "translation": "to offer",
-            "example": ""
+            "example": "Das Hotel bietet seinen Gästen ein reiches Frühstück."
           },
           {
             "infinitive": "fechten",
@@ -255,7 +255,7 @@
             "past": "focht",
             "participle": "gefochten",
             "translation": "to fence, fight",
-            "example": ""
+            "example": "Er ficht seit Jahren in einem Sportverein."
           },
           {
             "infinitive": "flechten",
@@ -263,7 +263,7 @@
             "past": "flocht",
             "participle": "geflochten",
             "translation": "to braid, plait",
-            "example": ""
+            "example": "Sie flicht sich morgens einen Zopf."
           },
           {
             "infinitive": "fliegen",
@@ -271,7 +271,7 @@
             "past": "flog",
             "participle": "geflogen",
             "translation": "to fly",
-            "example": ""
+            "example": "Das Flugzeug fliegt direkt nach Berlin."
           },
           {
             "infinitive": "fliehen",
@@ -279,7 +279,7 @@
             "past": "floh",
             "participle": "geflohen",
             "translation": "to flee",
-            "example": ""
+            "example": "Die Familie flieht vor dem Sturm in Sicherheit."
           },
           {
             "infinitive": "fließen",
@@ -287,7 +287,7 @@
             "past": "floss",
             "participle": "geflossen",
             "translation": "to flow",
-            "example": ""
+            "example": "Der Fluss fließt ruhig ins Meer."
           },
           {
             "infinitive": "frieren",
@@ -295,7 +295,7 @@
             "past": "fror",
             "participle": "gefroren",
             "translation": "to freeze",
-            "example": ""
+            "example": "Ich friere ohne Jacke im Winter."
           },
           {
             "infinitive": "genießen",
@@ -303,7 +303,7 @@
             "past": "genoss",
             "participle": "genossen",
             "translation": "to enjoy",
-            "example": ""
+            "example": "Wir genießen den Sonnenuntergang am Strand."
           },
           {
             "infinitive": "gießen",
@@ -311,7 +311,7 @@
             "past": "goss",
             "participle": "gegossen",
             "translation": "to pour",
-            "example": ""
+            "example": "Sie gießt die Blumen jeden Morgen."
           },
           {
             "infinitive": "heben",
@@ -319,7 +319,7 @@
             "past": "hob",
             "participle": "gehoben",
             "translation": "to lift, raise",
-            "example": ""
+            "example": "Er hebt die schwere Kiste allein."
           },
           {
             "infinitive": "kriechen",
@@ -327,7 +327,7 @@
             "past": "kroch",
             "participle": "gekrochen",
             "translation": "to crawl",
-            "example": ""
+            "example": "Das Baby kriecht auf dem Boden."
           },
           {
             "infinitive": "lügen",
@@ -335,7 +335,7 @@
             "past": "log",
             "participle": "gelogen",
             "translation": "to lie, tell lies",
-            "example": ""
+            "example": "Er lügt nie — man kann ihm immer vertrauen."
           },
           {
             "infinitive": "riechen",
@@ -343,7 +343,7 @@
             "past": "roch",
             "participle": "gerochen",
             "translation": "to smell",
-            "example": ""
+            "example": "Die frischen Rosen riechen wunderschön."
           },
           {
             "infinitive": "schieben",
@@ -351,7 +351,7 @@
             "past": "schob",
             "participle": "geschoben",
             "translation": "to push, slide",
-            "example": ""
+            "example": "Sie schiebt den Kinderwagen durch den Park."
           },
           {
             "infinitive": "schießen",
@@ -359,7 +359,7 @@
             "past": "schoss",
             "participle": "geschossen",
             "translation": "to shoot",
-            "example": ""
+            "example": "Der Stürmer schießt das entscheidende Tor."
           },
           {
             "infinitive": "schließen",
@@ -367,7 +367,7 @@
             "past": "schloss",
             "participle": "geschlossen",
             "translation": "to close, lock",
-            "example": ""
+            "example": "Sie schließt die Tür ab, bevor sie geht."
           },
           {
             "infinitive": "schmelzen",
@@ -375,7 +375,7 @@
             "past": "schmolz",
             "participle": "geschmolzen",
             "translation": "to melt",
-            "example": ""
+            "example": "Das Eis schmilzt schnell in der Sonne."
           },
           {
             "infinitive": "schwellen",
@@ -383,7 +383,7 @@
             "past": "schwoll",
             "participle": "geschwollen",
             "translation": "to swell",
-            "example": ""
+            "example": "Sein Knöchel schwillt nach dem Sturz."
           },
           {
             "infinitive": "trügen",
@@ -391,7 +391,7 @@
             "past": "trog",
             "participle": "getrogen",
             "translation": "to deceive",
-            "example": ""
+            "example": "Der Schein trügt — er ist nicht so reich, wie er wirkt."
           },
           {
             "infinitive": "verlieren",
@@ -399,7 +399,7 @@
             "past": "verlor",
             "participle": "verloren",
             "translation": "to lose",
-            "example": ""
+            "example": "Er verliert immer seinen Hausschlüssel."
           },
           {
             "infinitive": "weben",
@@ -407,7 +407,7 @@
             "past": "wob",
             "participle": "gewoben",
             "translation": "to weave",
-            "example": ""
+            "example": "Die Weberin webt einen bunten Teppich."
           },
           {
             "infinitive": "wiegen",
@@ -415,7 +415,7 @@
             "past": "wog",
             "participle": "gewogen",
             "translation": "to weigh",
-            "example": ""
+            "example": "Das Neugeborene wiegt drei Kilogramm."
           },
           {
             "infinitive": "ziehen",
@@ -423,7 +423,7 @@
             "past": "zog",
             "participle": "gezogen",
             "translation": "to pull, move",
-            "example": ""
+            "example": "Er zieht die schwere Tür auf."
           }
         ]
       },
@@ -436,7 +436,7 @@
             "past": "band",
             "participle": "gebunden",
             "translation": "to bind, tie",
-            "example": ""
+            "example": "Sie bindet ihr Haar zu einem Zopf."
           },
           {
             "infinitive": "dringen",
@@ -444,7 +444,7 @@
             "past": "drang",
             "participle": "gedrungen",
             "translation": "to penetrate, urge",
-            "example": ""
+            "example": "Wasser dringt durch das undichte Dach."
           },
           {
             "infinitive": "finden",
@@ -452,7 +452,7 @@
             "past": "fand",
             "participle": "gefunden",
             "translation": "to find",
-            "example": ""
+            "example": "Ich finde meine Brille nirgends."
           },
           {
             "infinitive": "gelingen",
@@ -460,7 +460,7 @@
             "past": "gelang",
             "participle": "gelungen",
             "translation": "to succeed",
-            "example": ""
+            "example": "Es gelingt ihr endlich, den Kuchen zu backen."
           },
           {
             "infinitive": "klingen",
@@ -468,7 +468,7 @@
             "past": "klang",
             "participle": "geklungen",
             "translation": "to sound, ring",
-            "example": ""
+            "example": "Das Lied klingt sehr schön."
           },
           {
             "infinitive": "ringen",
@@ -476,7 +476,7 @@
             "past": "rang",
             "participle": "gerungen",
             "translation": "to wrestle, struggle",
-            "example": ""
+            "example": "Die Sportler ringen um die Goldmedaille."
           },
           {
             "infinitive": "schwinden",
@@ -484,7 +484,7 @@
             "past": "schwand",
             "participle": "geschwunden",
             "translation": "to diminish, vanish",
-            "example": ""
+            "example": "Ihre Kräfte schwinden mit dem Alter."
           },
           {
             "infinitive": "schwingen",
@@ -492,7 +492,7 @@
             "past": "schwang",
             "participle": "geschwungen",
             "translation": "to swing",
-            "example": ""
+            "example": "Das Kind schwingt auf der Schaukel."
           },
           {
             "infinitive": "singen",
@@ -500,7 +500,7 @@
             "past": "sang",
             "participle": "gesungen",
             "translation": "to sing",
-            "example": ""
+            "example": "Die Mutter singt dem Baby ein Schlaflied."
           },
           {
             "infinitive": "sinken",
@@ -508,7 +508,7 @@
             "past": "sank",
             "participle": "gesunken",
             "translation": "to sink",
-            "example": ""
+            "example": "Das Schiff sinkt langsam auf den Meeresgrund."
           },
           {
             "infinitive": "springen",
@@ -516,7 +516,7 @@
             "past": "sprang",
             "participle": "gesprungen",
             "translation": "to jump",
-            "example": ""
+            "example": "Der Hund springt über den Zaun."
           },
           {
             "infinitive": "trinken",
@@ -524,7 +524,7 @@
             "past": "trank",
             "participle": "getrunken",
             "translation": "to drink",
-            "example": ""
+            "example": "Er trinkt jeden Morgen eine Tasse Kaffee."
           },
           {
             "infinitive": "winden",
@@ -532,7 +532,7 @@
             "past": "wand",
             "participle": "gewunden",
             "translation": "to wind, coil",
-            "example": ""
+            "example": "Der Weg windet sich durch den dichten Wald."
           },
           {
             "infinitive": "zwingen",
@@ -540,7 +540,7 @@
             "past": "zwang",
             "participle": "gezwungen",
             "translation": "to force, compel",
-            "example": ""
+            "example": "Der Sturm zwingt uns, drinnen zu bleiben."
           }
         ]
       },
@@ -553,7 +553,7 @@
             "past": "befahl",
             "participle": "befohlen",
             "translation": "to command, order",
-            "example": ""
+            "example": "Der General befiehlt den sofortigen Rückzug."
           },
           {
             "infinitive": "beginnen",
@@ -561,7 +561,7 @@
             "past": "begann",
             "participle": "begonnen",
             "translation": "to begin",
-            "example": ""
+            "example": "Der Film beginnt um acht Uhr."
           },
           {
             "infinitive": "brechen",
@@ -569,7 +569,7 @@
             "past": "brach",
             "participle": "gebrochen",
             "translation": "to break",
-            "example": ""
+            "example": "Er bricht sein Versprechen nie."
           },
           {
             "infinitive": "empfehlen",
@@ -577,7 +577,7 @@
             "past": "empfahl",
             "participle": "empfohlen",
             "translation": "to recommend",
-            "example": ""
+            "example": "Der Arzt empfiehlt mehr Bewegung und frische Luft."
           },
           {
             "infinitive": "erschrecken",
@@ -585,7 +585,7 @@
             "past": "erschrak",
             "participle": "erschrocken",
             "translation": "to be frightened",
-            "example": ""
+            "example": "Das Kind erschrickt bei jedem lauten Geräusch."
           },
           {
             "infinitive": "gewinnen",
@@ -593,7 +593,7 @@
             "past": "gewann",
             "participle": "gewonnen",
             "translation": "to win",
-            "example": ""
+            "example": "Unser Team gewinnt das Spiel mit drei zu null."
           },
           {
             "infinitive": "helfen",
@@ -601,7 +601,7 @@
             "past": "half",
             "participle": "geholfen",
             "translation": "to help",
-            "example": ""
+            "example": "Er hilft seiner Nachbarin beim Tragen der Einkäufe."
           },
           {
             "infinitive": "nehmen",
@@ -609,7 +609,7 @@
             "past": "nahm",
             "participle": "genommen",
             "translation": "to take",
-            "example": ""
+            "example": "Sie nimmt jeden Tag den Bus zur Arbeit."
           },
           {
             "infinitive": "rinnen",
@@ -617,7 +617,7 @@
             "past": "rann",
             "participle": "geronnen",
             "translation": "to trickle, flow",
-            "example": ""
+            "example": "Das Wasser rinnt langsam den Hang hinunter."
           },
           {
             "infinitive": "schwimmen",
@@ -625,7 +625,7 @@
             "past": "schwamm",
             "participle": "geschwommen",
             "translation": "to swim",
-            "example": ""
+            "example": "Er schwimmt jeden Morgen eine Stunde im See."
           },
           {
             "infinitive": "sinnen",
@@ -633,7 +633,7 @@
             "past": "sann",
             "participle": "gesonnen",
             "translation": "to ponder, think",
-            "example": ""
+            "example": "Der Dichter sinnt über den Sinn des Lebens nach."
           },
           {
             "infinitive": "sprechen",
@@ -641,7 +641,7 @@
             "past": "sprach",
             "participle": "gesprochen",
             "translation": "to speak",
-            "example": ""
+            "example": "Er spricht fließend Deutsch und Englisch."
           },
           {
             "infinitive": "stehlen",
@@ -649,7 +649,7 @@
             "past": "stahl",
             "participle": "gestohlen",
             "translation": "to steal",
-            "example": ""
+            "example": "Der Dieb stiehlt eine Uhr aus dem Schaufenster."
           },
           {
             "infinitive": "sterben",
@@ -657,7 +657,7 @@
             "past": "starb",
             "participle": "gestorben",
             "translation": "to die",
-            "example": ""
+            "example": "Die Pflanze stirbt ohne regelmäßiges Gießen."
           },
           {
             "infinitive": "treffen",
@@ -665,7 +665,7 @@
             "past": "traf",
             "participle": "getroffen",
             "translation": "to meet, hit",
-            "example": ""
+            "example": "Ich treffe mich jeden Freitag mit Freunden."
           },
           {
             "infinitive": "verderben",
@@ -673,7 +673,7 @@
             "past": "verdarb",
             "participle": "verdorben",
             "translation": "to spoil, ruin",
-            "example": ""
+            "example": "Die Milch verdirbt schnell bei Wärme."
           },
           {
             "infinitive": "werben",
@@ -681,7 +681,7 @@
             "past": "warb",
             "participle": "geworben",
             "translation": "to advertise, recruit",
-            "example": ""
+            "example": "Das Unternehmen wirbt intensiv für sein neues Produkt."
           },
           {
             "infinitive": "werfen",
@@ -689,7 +689,7 @@
             "past": "warf",
             "participle": "geworfen",
             "translation": "to throw",
-            "example": ""
+            "example": "Das Kind wirft den Ball in den Korb."
           }
         ]
       },
@@ -702,7 +702,7 @@
             "past": "buk",
             "participle": "gebacken",
             "translation": "to bake",
-            "example": ""
+            "example": "Sie bäckt jeden Sonntag einen Kuchen."
           },
           {
             "infinitive": "fahren",
@@ -710,7 +710,7 @@
             "past": "fuhr",
             "participle": "gefahren",
             "translation": "to drive, travel",
-            "example": ""
+            "example": "Er fährt jeden Tag mit dem Zug zur Arbeit."
           },
           {
             "infinitive": "graben",
@@ -718,7 +718,7 @@
             "past": "grub",
             "participle": "gegraben",
             "translation": "to dig",
-            "example": ""
+            "example": "Der Hund gräbt ein Loch im Garten."
           },
           {
             "infinitive": "laden",
@@ -726,7 +726,7 @@
             "past": "lud",
             "participle": "geladen",
             "translation": "to load, invite",
-            "example": ""
+            "example": "Er lädt alle Freunde zu seinem Geburtstag ein."
           },
           {
             "infinitive": "schaffen",
@@ -734,7 +734,7 @@
             "past": "schuf",
             "participle": "geschaffen",
             "translation": "to create, make",
-            "example": ""
+            "example": "Der Künstler schafft ein neues Werk."
           },
           {
             "infinitive": "schlagen",
@@ -742,7 +742,7 @@
             "past": "schlug",
             "participle": "geschlagen",
             "translation": "to hit, beat",
-            "example": ""
+            "example": "Der Zimmermann schlägt den Nagel in die Wand."
           },
           {
             "infinitive": "tragen",
@@ -750,7 +750,7 @@
             "past": "trug",
             "participle": "getragen",
             "translation": "to carry, wear",
-            "example": ""
+            "example": "Sie trägt im Sommer gern helle Kleider."
           },
           {
             "infinitive": "wachsen",
@@ -758,7 +758,7 @@
             "past": "wuchs",
             "participle": "gewachsen",
             "translation": "to grow",
-            "example": ""
+            "example": "Die Kinder wachsen so schnell!"
           },
           {
             "infinitive": "waschen",
@@ -766,7 +766,7 @@
             "past": "wusch",
             "participle": "gewaschen",
             "translation": "to wash",
-            "example": ""
+            "example": "Er wäscht sich vor dem Essen die Hände."
           }
         ]
       },
@@ -779,7 +779,7 @@
             "past": "blies",
             "participle": "geblasen",
             "translation": "to blow",
-            "example": ""
+            "example": "Der Wind bläst heute besonders stark."
           },
           {
             "infinitive": "braten",
@@ -787,7 +787,7 @@
             "past": "briet",
             "participle": "gebraten",
             "translation": "to roast, fry",
-            "example": ""
+            "example": "Sie brät das Fleisch in der Pfanne."
           },
           {
             "infinitive": "fallen",
@@ -795,7 +795,7 @@
             "past": "fiel",
             "participle": "gefallen",
             "translation": "to fall",
-            "example": ""
+            "example": "Das Laub fällt im Herbst von den Bäumen."
           },
           {
             "infinitive": "fangen",
@@ -803,7 +803,7 @@
             "past": "fing",
             "participle": "gefangen",
             "translation": "to catch",
-            "example": ""
+            "example": "Die Katze fängt eine Maus im Keller."
           },
           {
             "infinitive": "halten",
@@ -811,7 +811,7 @@
             "past": "hielt",
             "participle": "gehalten",
             "translation": "to hold, stop",
-            "example": ""
+            "example": "Er hält die Tür für die ältere Dame auf."
           },
           {
             "infinitive": "hängen",
@@ -819,7 +819,7 @@
             "past": "hing",
             "participle": "gehangen",
             "translation": "to hang, be suspended",
-            "example": ""
+            "example": "Das Bild hängt an der Wand über dem Sofa."
           },
           {
             "infinitive": "heißen",
@@ -827,7 +827,7 @@
             "past": "hieß",
             "participle": "geheißen",
             "translation": "to be called, be named",
-            "example": ""
+            "example": "Wie heißt du? — Ich heiße Maria."
           },
           {
             "infinitive": "lassen",
@@ -835,7 +835,7 @@
             "past": "ließ",
             "participle": "gelassen",
             "translation": "to let, leave",
-            "example": ""
+            "example": "Sie lässt das Kind auf dem Spielplatz spielen."
           },
           {
             "infinitive": "laufen",
@@ -843,7 +843,7 @@
             "past": "lief",
             "participle": "gelaufen",
             "translation": "to run",
-            "example": ""
+            "example": "Er läuft jeden Morgen fünf Kilometer."
           },
           {
             "infinitive": "raten",
@@ -851,7 +851,7 @@
             "past": "riet",
             "participle": "geraten",
             "translation": "to advise, guess",
-            "example": ""
+            "example": "Der Arzt rät ihm, mehr Obst zu essen."
           },
           {
             "infinitive": "rufen",
@@ -859,7 +859,7 @@
             "past": "rief",
             "participle": "gerufen",
             "translation": "to call",
-            "example": ""
+            "example": "Die Mutter ruft die Kinder zum Abendessen."
           },
           {
             "infinitive": "schlafen",
@@ -867,7 +867,7 @@
             "past": "schlief",
             "participle": "geschlafen",
             "translation": "to sleep",
-            "example": ""
+            "example": "Das Baby schläft tief und fest."
           },
           {
             "infinitive": "stoßen",
@@ -875,7 +875,7 @@
             "past": "stieß",
             "participle": "gestoßen",
             "translation": "to push, bump",
-            "example": ""
+            "example": "Er stößt versehentlich gegen den Tisch."
           }
         ]
       },
@@ -888,7 +888,7 @@
             "past": "bat",
             "participle": "gebeten",
             "translation": "to ask, request",
-            "example": ""
+            "example": "Er bittet seinen Kollegen um Hilfe."
           },
           {
             "infinitive": "essen",
@@ -896,7 +896,7 @@
             "past": "aß",
             "participle": "gegessen",
             "translation": "to eat",
-            "example": ""
+            "example": "Die Kinder essen mittags gern Pasta."
           },
           {
             "infinitive": "fressen",
@@ -904,7 +904,7 @@
             "past": "fraß",
             "participle": "gefressen",
             "translation": "to devour, eat (animals)",
-            "example": ""
+            "example": "Die Katze frisst ihren Napf in Sekunden leer."
           },
           {
             "infinitive": "geben",
@@ -912,7 +912,7 @@
             "past": "gab",
             "participle": "gegeben",
             "translation": "to give",
-            "example": ""
+            "example": "Sie gibt ihm ein Geschenk zum Geburtstag."
           },
           {
             "infinitive": "genesen",
@@ -920,7 +920,7 @@
             "past": "genas",
             "participle": "genesen",
             "translation": "to recover, recuperate",
-            "example": ""
+            "example": "Er genest langsam von seiner schweren Krankheit."
           },
           {
             "infinitive": "lesen",
@@ -928,7 +928,7 @@
             "past": "las",
             "participle": "gelesen",
             "translation": "to read",
-            "example": ""
+            "example": "Sie liest jeden Abend ein Kapitel ihres Buches."
           },
           {
             "infinitive": "liegen",
@@ -936,7 +936,7 @@
             "past": "lag",
             "participle": "gelegen",
             "translation": "to lie, be situated",
-            "example": ""
+            "example": "Das Buch liegt auf dem Tisch."
           },
           {
             "infinitive": "messen",
@@ -944,7 +944,7 @@
             "past": "maß",
             "participle": "gemessen",
             "translation": "to measure",
-            "example": ""
+            "example": "Der Arzt misst seinen Blutdruck regelmäßig."
           },
           {
             "infinitive": "sehen",
@@ -952,7 +952,7 @@
             "past": "sah",
             "participle": "gesehen",
             "translation": "to see",
-            "example": ""
+            "example": "Ich sehe einen wunderschönen Sonnenuntergang."
           },
           {
             "infinitive": "sitzen",
@@ -960,7 +960,7 @@
             "past": "saß",
             "participle": "gesessen",
             "translation": "to sit",
-            "example": ""
+            "example": "Er sitzt am Fenster und schaut nach draußen."
           },
           {
             "infinitive": "treten",
@@ -968,7 +968,7 @@
             "past": "trat",
             "participle": "getreten",
             "translation": "to step, kick",
-            "example": ""
+            "example": "Sie tritt in einen neuen Sportverein ein."
           },
           {
             "infinitive": "vergessen",
@@ -976,7 +976,7 @@
             "past": "vergaß",
             "participle": "vergessen",
             "translation": "to forget",
-            "example": ""
+            "example": "Er vergisst oft seinen Schlüssel zu Hause."
           }
         ]
       },
@@ -989,7 +989,7 @@
             "past": "ging",
             "participle": "gegangen",
             "translation": "to go",
-            "example": ""
+            "example": "Sie geht jeden Abend mit dem Hund spazieren."
           },
           {
             "infinitive": "kommen",
@@ -997,7 +997,7 @@
             "past": "kam",
             "participle": "gekommen",
             "translation": "to come",
-            "example": ""
+            "example": "Er kommt morgen zu Besuch."
           },
           {
             "infinitive": "sein",
@@ -1005,7 +1005,7 @@
             "past": "war",
             "participle": "gewesen",
             "translation": "to be",
-            "example": ""
+            "example": "Das Wetter ist heute sehr schön."
           },
           {
             "infinitive": "stehen",
@@ -1013,7 +1013,7 @@
             "past": "stand",
             "participle": "gestanden",
             "translation": "to stand",
-            "example": ""
+            "example": "Er steht vor dem Spiegel und kämmt sich."
           },
           {
             "infinitive": "tun",
@@ -1021,7 +1021,7 @@
             "past": "tat",
             "participle": "getan",
             "translation": "to do",
-            "example": ""
+            "example": "Sie tut alles für ihre Familie."
           },
           {
             "infinitive": "werden",
@@ -1029,7 +1029,7 @@
             "past": "wurde",
             "participle": "geworden",
             "translation": "to become",
-            "example": ""
+            "example": "Es wird im Herbst früh dunkel."
           }
         ]
       }
@@ -1058,7 +1058,7 @@
           {
             "infinitive": "arbeiten",
             "translation": "to work",
-            "example": ""
+            "example": "Er arbeitet seit zehn Jahren in diesem Büro."
           }
         ]
       }
@@ -1102,7 +1102,7 @@
             "past": "durfte",
             "participle": "gedurft",
             "translation": "to be allowed to",
-            "example": ""
+            "example": "Die Kinder dürfen heute länger aufbleiben."
           },
           {
             "infinitive": "können",
@@ -1110,7 +1110,7 @@
             "past": "konnte",
             "participle": "gekonnt",
             "translation": "can, to be able to",
-            "example": ""
+            "example": "Sie kann sehr gut Klavier spielen."
           },
           {
             "infinitive": "mögen",
@@ -1118,7 +1118,7 @@
             "past": "mochte",
             "participle": "gemocht",
             "translation": "to like",
-            "example": ""
+            "example": "Er mag keine Zwiebeln in seiner Suppe."
           },
           {
             "infinitive": "möchten",
@@ -1126,7 +1126,7 @@
             "past": "mochte",
             "participle": "gemocht",
             "translation": "would like to",
-            "example": ""
+            "example": "Ich möchte bitte einen Kaffee bestellen."
           },
           {
             "infinitive": "müssen",
@@ -1134,7 +1134,7 @@
             "past": "musste",
             "participle": "gemusst",
             "translation": "must, to have to",
-            "example": ""
+            "example": "Wir müssen morgen früh aufstehen."
           },
           {
             "infinitive": "sollen",
@@ -1142,7 +1142,7 @@
             "past": "sollte",
             "participle": "gesollt",
             "translation": "should, to be supposed to",
-            "example": ""
+            "example": "Du sollst mehr Wasser trinken, sagt der Arzt."
           },
           {
             "infinitive": "wollen",
@@ -1150,7 +1150,7 @@
             "past": "wollte",
             "participle": "gewollt",
             "translation": "to want to",
-            "example": ""
+            "example": "Er will nach dem Studium Arzt werden."
           }
         ]
       }
@@ -1184,31 +1184,31 @@
             "preposition": "durch",
             "case": "accusative",
             "translation": "through",
-            "example": ""
+            "example": "Er geht jeden Morgen durch den Wald."
           },
           {
             "preposition": "für",
             "case": "accusative",
             "translation": "for",
-            "example": ""
+            "example": "Dieses Geschenk ist für dich."
           },
           {
             "preposition": "gegen",
             "case": "accusative",
             "translation": "against",
-            "example": ""
+            "example": "Er schwimmt gegen den starken Strom."
           },
           {
             "preposition": "ohne",
             "case": "accusative",
             "translation": "without",
-            "example": ""
+            "example": "Sie verlässt das Haus ohne Regenschirm."
           },
           {
             "preposition": "um",
             "case": "accusative",
             "translation": "around, at (for time)",
-            "example": ""
+            "example": "Wir treffen uns um acht Uhr am Bahnhof."
           }
         ]
       },
@@ -1219,55 +1219,55 @@
             "preposition": "aus",
             "case": "dative",
             "translation": "from, out of",
-            "example": ""
+            "example": "Er kommt aus Deutschland und spricht gut Englisch."
           },
           {
             "preposition": "außer",
             "case": "dative",
             "translation": "except for, besides",
-            "example": ""
+            "example": "Außer ihm ist niemand zur Feier gekommen."
           },
           {
             "preposition": "bei",
             "case": "dative",
             "translation": "at, near, by",
-            "example": ""
+            "example": "Sie arbeitet bei einer großen Bank in Frankfurt."
           },
           {
             "preposition": "mit",
             "case": "dative",
             "translation": "with, by means of",
-            "example": ""
+            "example": "Ich fahre jeden Tag mit dem Zug zur Arbeit."
           },
           {
             "preposition": "nach",
             "case": "dative",
             "translation": "after, to, according to",
-            "example": ""
+            "example": "Nach dem Abendessen gehen sie spazieren."
           },
           {
             "preposition": "seit",
             "case": "dative",
             "translation": "since, for",
-            "example": ""
+            "example": "Er wohnt seit drei Jahren in Berlin."
           },
           {
             "preposition": "von",
             "case": "dative",
             "translation": "from, by, of, about",
-            "example": ""
+            "example": "Das ist ein Brief von meiner Mutter."
           },
           {
             "preposition": "zu",
             "case": "dative",
             "translation": "to",
-            "example": ""
+            "example": "Ich gehe heute zu meinem Freund."
           },
           {
             "preposition": "gegenüber",
             "case": "dative",
             "translation": "across from",
-            "example": ""
+            "example": "Das Café liegt dem Bahnhof gegenüber."
           }
         ]
       },
@@ -1278,55 +1278,55 @@
             "preposition": "an",
             "case": "dative/accusative",
             "translation": "on, at",
-            "example": ""
+            "example": "Das Bild hängt an der Wand. (Dat.) / Er hängt das Bild an die Wand. (Akk.)"
           },
           {
             "preposition": "auf",
             "case": "dative/accusative",
             "translation": "on, on top of",
-            "example": ""
+            "example": "Das Buch liegt auf dem Tisch. (Dat.) / Sie legt das Buch auf den Tisch. (Akk.)"
           },
           {
             "preposition": "hinter",
             "case": "dative/accusative",
             "translation": "behind",
-            "example": ""
+            "example": "Die Katze schläft hinter dem Sofa. (Dat.) / Sie läuft hinter das Sofa. (Akk.)"
           },
           {
             "preposition": "in",
             "case": "dative/accusative",
             "translation": "in, into",
-            "example": ""
+            "example": "Er lebt in der Stadt. (Dat.) / Er zieht in die Stadt. (Akk.)"
           },
           {
             "preposition": "neben",
             "case": "dative/accusative",
             "translation": "next to",
-            "example": ""
+            "example": "Die Bibliothek steht neben der Kirche. (Dat.) / Er stellt sich neben die Tür. (Akk.)"
           },
           {
             "preposition": "über",
             "case": "dative/accusative",
             "translation": "over, above",
-            "example": ""
+            "example": "Die Lampe hängt über dem Tisch. (Dat.) / Sie hängt die Lampe über den Tisch. (Akk.)"
           },
           {
             "preposition": "unter",
             "case": "dative/accusative",
             "translation": "under, among",
-            "example": ""
+            "example": "Die Schuhe stehen unter dem Bett. (Dat.) / Er schiebt die Schuhe unter das Bett. (Akk.)"
           },
           {
             "preposition": "vor",
             "case": "dative/accusative",
             "translation": "in front of, before",
-            "example": ""
+            "example": "Er wartet vor dem Bahnhof. (Dat.) / Er stellt das Auto vor die Garage. (Akk.)"
           },
           {
             "preposition": "zwischen",
             "case": "dative/accusative",
             "translation": "between",
-            "example": ""
+            "example": "Der Park liegt zwischen dem Markt und dem Bahnhof. (Dat.) / Sie setzt sich zwischen die beiden Freunde. (Akk.)"
           }
         ]
       },
@@ -1337,73 +1337,73 @@
             "preposition": "trotz",
             "case": "genitive",
             "translation": "despite, in spite of",
-            "example": ""
+            "example": "Trotz des schlechten Wetters gingen wir spazieren."
           },
           {
             "preposition": "während",
             "case": "genitive",
             "translation": "during",
-            "example": ""
+            "example": "Während des Unterrichts darf man nicht sprechen."
           },
           {
             "preposition": "wegen",
             "case": "genitive",
             "translation": "because of, on account of",
-            "example": ""
+            "example": "Wegen des starken Lärms konnte ich nicht schlafen."
           },
           {
             "preposition": "anstatt / statt",
             "case": "genitive",
             "translation": "instead of",
-            "example": ""
+            "example": "Er kam statt seines Bruders zur Veranstaltung."
           },
           {
             "preposition": "außerhalb",
             "case": "genitive",
             "translation": "outside of",
-            "example": ""
+            "example": "Er wohnt außerhalb der Stadt in einem kleinen Dorf."
           },
           {
             "preposition": "innerhalb",
             "case": "genitive",
             "translation": "inside of, within",
-            "example": ""
+            "example": "Das Paket kommt innerhalb einer Woche an."
           },
           {
             "preposition": "oberhalb",
             "case": "genitive",
             "translation": "above",
-            "example": ""
+            "example": "Die Berghütte liegt oberhalb des Dorfes."
           },
           {
             "preposition": "unterhalb",
             "case": "genitive",
             "translation": "below",
-            "example": ""
+            "example": "Der Fluss fließt unterhalb der alten Brücke."
           },
           {
             "preposition": "diesseits",
             "case": "genitive",
             "translation": "on this side of",
-            "example": ""
+            "example": "Das Hotel liegt diesseits des Flusses."
           },
           {
             "preposition": "jenseits",
             "case": "genitive",
             "translation": "on the other side of",
-            "example": ""
+            "example": "Das Dorf liegt jenseits der hohen Berge."
           },
           {
             "preposition": "beidseits",
             "case": "genitive",
             "translation": "on both sides of",
-            "example": ""
+            "example": "Beidseits der Straße stehen alte Kastanienbäume."
           },
           {
             "preposition": "unweit",
             "case": "genitive",
             "translation": "not far from",
-            "example": ""
+            "example": "Das Hotel liegt unweit des Hauptbahnhofs."
           }
         ]
       }
@@ -1442,42 +1442,42 @@
             "type": "hauptsatz",
             "position": "0",
             "translation": "and",
-            "example": ""
+            "example": "Er geht einkaufen und sie kocht das Abendessen."
           },
           {
             "conjunction": "aber",
             "type": "hauptsatz",
             "position": "0",
             "translation": "but",
-            "example": ""
+            "example": "Ich will gehen, aber ich bin zu müde."
           },
           {
             "conjunction": "denn",
             "type": "hauptsatz",
             "position": "0",
             "translation": "because",
-            "example": ""
+            "example": "Er bleibt zu Hause, denn er ist krank."
           },
           {
             "conjunction": "oder",
             "type": "hauptsatz",
             "position": "0",
             "translation": "or",
-            "example": ""
+            "example": "Möchtest du Tee oder Kaffee?"
           },
           {
             "conjunction": "sondern",
             "type": "hauptsatz",
             "position": "0",
             "translation": "but rather (after negative hauptsatz)",
-            "example": ""
+            "example": "Er trinkt keinen Kaffee, sondern Tee."
           },
           {
             "conjunction": "doch",
             "type": "hauptsatz",
             "position": "0",
             "translation": "yet, still, but",
-            "example": ""
+            "example": "Ich wollte früh aufstehen, doch ich habe verschlafen."
           }
         ]
       },
@@ -1489,63 +1489,63 @@
             "type": "nebensatz",
             "position": "1",
             "translation": "because",
-            "example": ""
+            "example": "Er bleibt zu Hause, weil er krank ist."
           },
           {
             "conjunction": "da",
             "type": "nebensatz",
             "position": "1",
             "translation": "because (can be used in beginning of sentence)",
-            "example": ""
+            "example": "Da er krank war, blieb er zu Hause."
           },
           {
             "conjunction": "dass",
             "type": "nebensatz",
             "position": "1",
             "translation": "that",
-            "example": ""
+            "example": "Ich weiß, dass er morgen kommt."
           },
           {
             "conjunction": "ob",
             "type": "nebensatz",
             "position": "1",
             "translation": "if, whether",
-            "example": ""
+            "example": "Er fragt, ob sie Zeit für ein Treffen hat."
           },
           {
             "conjunction": "wenn",
             "type": "nebensatz",
             "position": "1",
             "translation": "if, when",
-            "example": ""
+            "example": "Wenn es regnet, bleibe ich lieber drinnen."
           },
           {
             "conjunction": "als",
             "type": "nebensatz",
             "position": "1",
             "translation": "when (past singular event) / than",
-            "example": ""
+            "example": "Als ich jung war, spielte ich jeden Tag draußen."
           },
           {
             "conjunction": "obwohl",
             "type": "nebensatz",
             "position": "1",
             "translation": "although",
-            "example": ""
+            "example": "Obwohl es regnet, geht er ohne Schirm raus."
           },
           {
             "conjunction": "damit",
             "type": "nebensatz",
             "position": "1",
             "translation": "so that, in order to",
-            "example": ""
+            "example": "Er lernt fleißig, damit er die Prüfung besteht."
           },
           {
             "conjunction": "seit/seitdem",
             "type": "nebensatz",
             "position": "1",
             "translation": "since (cause)",
-            "example": ""
+            "example": "Seitdem er umgezogen ist, sehen wir uns selten."
           }
         ]
       },
@@ -1557,56 +1557,56 @@
             "type": "nebensatz",
             "position": "1",
             "translation": "before",
-            "example": ""
+            "example": "Bevor ich schlafe, lese ich immer ein Buch."
           },
           {
             "conjunction": "bis",
             "type": "nebensatz",
             "position": "1",
             "translation": "until",
-            "example": ""
+            "example": "Ich warte hier, bis er endlich kommt."
           },
           {
             "conjunction": "nachdem",
             "type": "nebensatz",
             "position": "1",
             "translation": "after",
-            "example": ""
+            "example": "Nachdem er gegessen hatte, ging er schlafen."
           },
           {
             "conjunction": "solange",
             "type": "nebensatz",
             "position": "1",
             "translation": "as long as",
-            "example": ""
+            "example": "Solange du hier bist, bin ich glücklich."
           },
           {
             "conjunction": "sobald",
             "type": "nebensatz",
             "position": "1",
             "translation": "as soon as",
-            "example": ""
+            "example": "Sobald er ankommt, rufe ich dich sofort an."
           },
           {
             "conjunction": "während",
             "type": "nebensatz",
             "position": "1",
             "translation": "while",
-            "example": ""
+            "example": "Während sie kocht, höre ich Musik."
           },
           {
             "conjunction": "falls",
             "type": "nebensatz",
             "position": "1",
             "translation": "in case",
-            "example": ""
+            "example": "Falls es regnet, nehmen wir lieber ein Taxi."
           },
           {
             "conjunction": "sodass",
             "type": "nebensatz",
             "position": "1",
             "translation": "so that, with the result that",
-            "example": ""
+            "example": "Es regnete so stark, sodass die Straßen überflutet wurden."
           }
         ]
       },
@@ -1618,35 +1618,35 @@
             "type": "hauptsatz",
             "position": "1",
             "translation": "then",
-            "example": ""
+            "example": "Erst machen wir die Hausaufgaben, dann spielen wir."
           },
           {
             "conjunction": "deshalb",
             "type": "hauptsatz",
             "position": "1",
             "translation": "therefore",
-            "example": ""
+            "example": "Er war krank, deshalb blieb er zu Hause."
           },
           {
             "conjunction": "trotzdem",
             "type": "hauptsatz",
             "position": "1",
             "translation": "despite that, nevertheless",
-            "example": ""
+            "example": "Es regnete stark, trotzdem gingen sie spazieren."
           },
           {
             "conjunction": "sonst",
             "type": "hauptsatz",
             "position": "1",
             "translation": "otherwise",
-            "example": ""
+            "example": "Beeil dich, sonst verpasst du den letzten Zug."
           },
           {
             "conjunction": "außerdem",
             "type": "hauptsatz",
             "position": "1",
             "translation": "besides, in addition",
-            "example": ""
+            "example": "Er ist sehr nett und außerdem sehr klug."
           }
         ]
       }
@@ -1685,182 +1685,182 @@
             "gender": "der",
             "plural": "Männer",
             "translation": "the man",
-            "example": ""
+            "example": "Der Mann liest ruhig seine Zeitung."
           },
           {
             "noun": "Frau",
             "gender": "die",
             "plural": "Frauen",
             "translation": "the woman",
-            "example": ""
+            "example": "Die Frau kauft frisches Gemüse auf dem Markt."
           },
           {
             "noun": "Kind",
             "gender": "das",
             "plural": "Kinder",
             "translation": "the child",
-            "example": ""
+            "example": "Das Kind spielt den ganzen Nachmittag im Garten."
           },
           {
             "noun": "Junge",
             "gender": "der",
             "plural": "Jungen",
             "translation": "the boy",
-            "example": ""
+            "example": "Der Junge fährt nach der Schule Fahrrad."
           },
           {
             "noun": "Mädchen",
             "gender": "das",
             "plural": "Mädchen",
             "translation": "the girl",
-            "example": ""
+            "example": "Das Mädchen singt ein schönes Lied."
           },
           {
             "noun": "Familie",
             "gender": "die",
             "plural": "Familien",
             "translation": "the family",
-            "example": ""
+            "example": "Die Familie frühstückt am Wochenende zusammen."
           },
           {
             "noun": "Freund",
             "gender": "der",
             "plural": "Freunde",
             "translation": "the friend (male)",
-            "example": ""
+            "example": "Mein bester Freund wohnt in München."
           },
           {
             "noun": "Freundin",
             "gender": "die",
             "plural": "Freundinnen",
             "translation": "the friend (female)",
-            "example": ""
+            "example": "Ihre Freundin kommt heute Nachmittag zu Besuch."
           },
           {
             "noun": "Vater",
             "gender": "der",
             "plural": "Väter",
             "translation": "the father",
-            "example": ""
+            "example": "Der Vater bringt die Kinder jeden Morgen zur Schule."
           },
           {
             "noun": "Mutter",
             "gender": "die",
             "plural": "Mütter",
             "translation": "the mother",
-            "example": ""
+            "example": "Die Mutter kocht das Abendessen für die Familie."
           },
           {
             "noun": "Sohn",
             "gender": "der",
             "plural": "Söhne",
             "translation": "the son",
-            "example": ""
+            "example": "Ihr Sohn studiert Medizin an der Universität."
           },
           {
             "noun": "Tochter",
             "gender": "die",
             "plural": "Töchter",
             "translation": "the daughter",
-            "example": ""
+            "example": "Die Tochter hilft ihrer Mutter in der Küche."
           },
           {
             "noun": "Bruder",
             "gender": "der",
             "plural": "Brüder",
             "translation": "the brother",
-            "example": ""
+            "example": "Sein älterer Bruder wohnt in Hamburg."
           },
           {
             "noun": "Schwester",
             "gender": "die",
             "plural": "Schwestern",
             "translation": "the sister",
-            "example": ""
+            "example": "Meine Schwester ist Ärztin in einem großen Krankenhaus."
           },
           {
             "noun": "Mensch",
             "gender": "der",
             "plural": "Menschen",
             "translation": "the person",
-            "example": ""
+            "example": "Jeder Mensch macht im Leben Fehler."
           },
           {
             "noun": "Leute",
             "gender": "die",
             "plural": "Leute",
             "translation": "the people",
-            "example": ""
+            "example": "Viele Leute warten auf den nächsten Bus."
           },
           {
             "noun": "Haus",
             "gender": "das",
             "plural": "Häuser",
             "translation": "the house",
-            "example": ""
+            "example": "Sie wohnen in einem großen Haus mit Garten."
           },
           {
             "noun": "Wohnung",
             "gender": "die",
             "plural": "Wohnungen",
             "translation": "the apartment",
-            "example": ""
+            "example": "Er hat eine kleine Wohnung im Stadtzentrum."
           },
           {
             "noun": "Zimmer",
             "gender": "das",
             "plural": "Zimmer",
             "translation": "the room",
-            "example": ""
+            "example": "Sein Zimmer ist immer ordentlich aufgeräumt."
           },
           {
             "noun": "Tür",
             "gender": "die",
             "plural": "Türen",
             "translation": "the door",
-            "example": ""
+            "example": "Bitte schließ die Tür hinter dir."
           },
           {
             "noun": "Fenster",
             "gender": "das",
             "plural": "Fenster",
             "translation": "the window",
-            "example": ""
+            "example": "Er öffnet das Fenster, weil es im Zimmer zu heiß ist."
           },
           {
             "noun": "Tisch",
             "gender": "der",
             "plural": "Tische",
             "translation": "the table",
-            "example": ""
+            "example": "Die ganze Familie sitzt am Tisch und isst."
           },
           {
             "noun": "Stuhl",
             "gender": "der",
             "plural": "Stühle",
             "translation": "the chair",
-            "example": ""
+            "example": "Der Stuhl steht vor dem Schreibtisch."
           },
           {
             "noun": "Bett",
             "gender": "das",
             "plural": "Betten",
             "translation": "the bed",
-            "example": ""
+            "example": "Sie liegt im Bett und liest ein Buch."
           },
           {
             "noun": "Schrank",
             "gender": "der",
             "plural": "Schränke",
             "translation": "the cupboard",
-            "example": ""
+            "example": "Ihre Kleider hängen ordentlich im Schrank."
           },
           {
             "noun": "Spiegel",
             "gender": "der",
             "plural": "Spiegel",
             "translation": "the mirror",
-            "example": ""
+            "example": "Er schaut morgens in den Spiegel."
           }
         ]
       },
@@ -1872,175 +1872,175 @@
             "gender": "die",
             "plural": "Lampen",
             "translation": "the lamp",
-            "example": ""
+            "example": "Die Lampe auf dem Schreibtisch leuchtet hell."
           },
           {
             "noun": "Licht",
             "gender": "das",
             "plural": "Lichter",
             "translation": "the light",
-            "example": ""
+            "example": "Er macht das Licht aus, bevor er schläft."
           },
           {
             "noun": "Computer",
             "gender": "der",
             "plural": "Computer",
             "translation": "the computer",
-            "example": ""
+            "example": "Sie arbeitet den ganzen Tag am Computer."
           },
           {
             "noun": "Handy",
             "gender": "das",
             "plural": "Handys",
             "translation": "the mobile phone",
-            "example": ""
+            "example": "Er vergisst oft sein Handy zu Hause."
           },
           {
             "noun": "Buch",
             "gender": "das",
             "plural": "Bücher",
             "translation": "the book",
-            "example": ""
+            "example": "Das Buch liegt aufgeschlagen auf dem Tisch."
           },
           {
             "noun": "Zeitung",
             "gender": "die",
             "plural": "Zeitungen",
             "translation": "the newspaper",
-            "example": ""
+            "example": "Er liest jeden Morgen die Zeitung beim Frühstück."
           },
           {
             "noun": "Heft",
             "gender": "das",
             "plural": "Hefte",
             "translation": "the notebook",
-            "example": ""
+            "example": "Sie schreibt alle wichtigen Notizen ins Heft."
           },
           {
             "noun": "Stift",
             "gender": "der",
             "plural": "Stifte",
             "translation": "the pen",
-            "example": ""
+            "example": "Er sucht einen Stift, um die Adresse aufzuschreiben."
           },
           {
             "noun": "Tag",
             "gender": "der",
             "plural": "Tage",
             "translation": "the day",
-            "example": ""
+            "example": "Es war ein langer und anstrengender Tag."
           },
           {
             "noun": "Woche",
             "gender": "die",
             "plural": "Wochen",
             "translation": "the week",
-            "example": ""
+            "example": "Diese Woche haben wir sehr viel zu erledigen."
           },
           {
             "noun": "Monat",
             "gender": "der",
             "plural": "Monate",
             "translation": "the month",
-            "example": ""
+            "example": "Im nächsten Monat fahren wir in den Urlaub."
           },
           {
             "noun": "Jahr",
             "gender": "das",
             "plural": "Jahre",
             "translation": "the year",
-            "example": ""
+            "example": "Letztes Jahr war ich das erste Mal in Paris."
           },
           {
             "noun": "Zeit",
             "gender": "die",
             "plural": "Zeiten",
             "translation": "the time",
-            "example": ""
+            "example": "Ich habe leider keine Zeit mehr für ein Gespräch."
           },
           {
             "noun": "Uhr",
             "gender": "die",
             "plural": "Uhren",
             "translation": "the clock",
-            "example": ""
+            "example": "Die Uhr an der Wand zeigt genau drei Uhr."
           },
           {
             "noun": "Morgen",
             "gender": "der",
             "plural": "Morgen",
             "translation": "the morning",
-            "example": ""
+            "example": "Am Morgen trinkt er immer einen starken Kaffee."
           },
           {
             "noun": "Abend",
             "gender": "der",
             "plural": "Abende",
             "translation": "the evening",
-            "example": ""
+            "example": "Am Abend gehen sie gemeinsam spazieren."
           },
           {
             "noun": "Nacht",
             "gender": "die",
             "plural": "Nächte",
             "translation": "the night",
-            "example": ""
+            "example": "In der Nacht ist es auf dem Land sehr ruhig."
           },
           {
             "noun": "Kopf",
             "gender": "der",
             "plural": "Köpfe",
             "translation": "the head",
-            "example": ""
+            "example": "Er hat nach der langen Arbeit starke Kopfschmerzen."
           },
           {
             "noun": "Gesicht",
             "gender": "das",
             "plural": "Gesichter",
             "translation": "the face",
-            "example": ""
+            "example": "Sie wäscht sich morgens das Gesicht mit kaltem Wasser."
           },
           {
             "noun": "Auge",
             "gender": "das",
             "plural": "Augen",
             "translation": "the eye",
-            "example": ""
+            "example": "Er hat wunderschöne blaue Augen."
           },
           {
             "noun": "Ohr",
             "gender": "das",
             "plural": "Ohren",
             "translation": "the ear",
-            "example": ""
+            "example": "Das Kind hält sich die Ohren zu, weil es zu laut ist."
           },
           {
             "noun": "Mund",
             "gender": "der",
             "plural": "Münder",
             "translation": "the mouth",
-            "example": ""
+            "example": "Er hält den Mund und hört aufmerksam zu."
           },
           {
             "noun": "Hand",
             "gender": "die",
             "plural": "Hände",
             "translation": "the hand",
-            "example": ""
+            "example": "Sie gibt ihm zur Begrüßung die Hand."
           },
           {
             "noun": "Finger",
             "gender": "der",
             "plural": "Finger",
             "translation": "the finger",
-            "example": ""
+            "example": "Er schneidet sich beim Kochen in den Finger."
           },
           {
             "noun": "Fuß",
             "gender": "der",
             "plural": "Füße",
             "translation": "the foot",
-            "example": ""
+            "example": "Ihr Fuß tut weh, seit sie gestürzt ist."
           }
         ]
       },
@@ -2052,175 +2052,175 @@
             "gender": "das",
             "plural": "Herzen",
             "translation": "the heart",
-            "example": ""
+            "example": "Das Herz schlägt bei Aufregung sehr schnell."
           },
           {
             "noun": "Freund",
             "gender": "der",
             "plural": "Freunde",
             "translation": "the boyfriend",
-            "example": ""
+            "example": "Ihr Freund schenkt ihr Blumen zum Geburtstag."
           },
           {
             "noun": "Freundin",
             "gender": "die",
             "plural": "Freundinnen",
             "translation": "the girlfriend",
-            "example": ""
+            "example": "Seine Freundin studiert Germanistik in Berlin."
           },
           {
             "noun": "Schule",
             "gender": "die",
             "plural": "Schulen",
             "translation": "the school",
-            "example": ""
+            "example": "Die Kinder gehen jeden Morgen zur Schule."
           },
           {
             "noun": "Universität",
             "gender": "die",
             "plural": "Universitäten",
             "translation": "the university",
-            "example": ""
+            "example": "Sie studiert Informatik an der Universität München."
           },
           {
             "noun": "Lehrer",
             "gender": "der",
             "plural": "Lehrer",
             "translation": "the teacher (male)",
-            "example": ""
+            "example": "Der Lehrer erklärt die Aufgabe sehr geduldig."
           },
           {
             "noun": "Lehrerin",
             "gender": "die",
             "plural": "Lehrerinnen",
             "translation": "the teacher (female)",
-            "example": ""
+            "example": "Die Lehrerin schreibt das neue Wort an die Tafel."
           },
           {
             "noun": "Schüler",
             "gender": "der",
             "plural": "Schüler",
             "translation": "the pupil (male)",
-            "example": ""
+            "example": "Der Schüler stellt dem Lehrer eine kluge Frage."
           },
           {
             "noun": "Schülerin",
             "gender": "die",
             "plural": "Schülerinnen",
             "translation": "the pupil (female)",
-            "example": ""
+            "example": "Die Schülerin löst die Aufgabe als Erste."
           },
           {
             "noun": "Student",
             "gender": "der",
             "plural": "Studenten",
             "translation": "the student (male)",
-            "example": ""
+            "example": "Der Student lernt die ganze Nacht für die Prüfung."
           },
           {
             "noun": "Studentin",
             "gender": "die",
             "plural": "Studentinnen",
             "translation": "the student (female)",
-            "example": ""
+            "example": "Die Studentin schreibt ihre Hausarbeit in der Bibliothek."
           },
           {
             "noun": "Essen",
             "gender": "das",
             "plural": "Essen",
             "translation": "the food",
-            "example": ""
+            "example": "Das Essen riecht sehr lecker — was kochst du?"
           },
           {
             "noun": "Brot",
             "gender": "das",
             "plural": "Brote",
             "translation": "the bread",
-            "example": ""
+            "example": "Er schneidet eine dicke Scheibe Brot ab."
           },
           {
             "noun": "Suppe",
             "gender": "die",
             "plural": "Suppen",
             "translation": "the soup",
-            "example": ""
+            "example": "Sie kocht eine heiße Suppe, wenn jemand krank ist."
           },
           {
             "noun": "Apfel",
             "gender": "der",
             "plural": "Äpfel",
             "translation": "the apple",
-            "example": ""
+            "example": "Sie isst jeden Tag einen Apfel als gesunden Snack."
           },
           {
             "noun": "Banane",
             "gender": "die",
             "plural": "Bananen",
             "translation": "the banana",
-            "example": ""
+            "example": "Das Kind isst gerne Bananen zum Frühstück."
           },
           {
             "noun": "Milch",
             "gender": "die",
             "plural": "Milchen",
             "translation": "the milk",
-            "example": ""
+            "example": "Er trinkt jeden Abend ein Glas warme Milch."
           },
           {
             "noun": "Wasser",
             "gender": "das",
             "plural": "Wasser",
             "translation": "the water",
-            "example": ""
+            "example": "Sie trinkt täglich mindestens zwei Liter Wasser."
           },
           {
             "noun": "Kaffee",
             "gender": "der",
             "plural": "Kaffees",
             "translation": "the coffee",
-            "example": ""
+            "example": "Ohne seinen Morgenkaffee kann er nicht arbeiten."
           },
           {
             "noun": "Tee",
             "gender": "der",
             "plural": "Tees",
             "translation": "the tea",
-            "example": ""
+            "example": "Sie trinkt abends gerne einen beruhigenden Tee."
           },
           {
             "noun": "Bier",
             "gender": "das",
             "plural": "Biere",
             "translation": "the beer",
-            "example": ""
+            "example": "Im Sommer trinken sie gerne ein kühles Bier im Garten."
           },
           {
             "noun": "Wein",
             "gender": "der",
             "plural": "Weine",
             "translation": "the wine",
-            "example": ""
+            "example": "Zum Abendessen trinken sie ein Glas Rotwein."
           },
           {
             "noun": "Auto",
             "gender": "das",
             "plural": "Autos",
             "translation": "the car",
-            "example": ""
+            "example": "Er fährt jeden Tag mit dem Auto zur Arbeit."
           },
           {
             "noun": "Bus",
             "gender": "der",
             "plural": "Busse",
             "translation": "the bus",
-            "example": ""
+            "example": "Sie nimmt jeden Morgen den Bus zur Schule."
           },
           {
             "noun": "Zug",
             "gender": "der",
             "plural": "Züge",
             "translation": "the train",
-            "example": ""
+            "example": "Wir fahren mit dem Zug von München nach Berlin."
           }
         ]
       },
@@ -2232,182 +2232,182 @@
             "gender": "das",
             "plural": "Flugzeuge",
             "translation": "the airplane",
-            "example": ""
+            "example": "Das Flugzeug landet in einer Stunde in Frankfurt."
           },
           {
             "noun": "Schiff",
             "gender": "das",
             "plural": "Schiffe",
             "translation": "the ship",
-            "example": ""
+            "example": "Das große Schiff überquert den Atlantik in fünf Tagen."
           },
           {
             "noun": "Weg",
             "gender": "der",
             "plural": "Wege",
             "translation": "the way",
-            "example": ""
+            "example": "Können Sie mir bitte den Weg zum Bahnhof zeigen?"
           },
           {
             "noun": "Straße",
             "gender": "die",
             "plural": "Straßen",
             "translation": "the street",
-            "example": ""
+            "example": "Die Kinder spielen nicht auf der belebten Straße."
           },
           {
             "noun": "Platz",
             "gender": "der",
             "plural": "Plätze",
             "translation": "the square/place",
-            "example": ""
+            "example": "Der Marktplatz liegt im Herzen der Altstadt."
           },
           {
             "noun": "Stadt",
             "gender": "die",
             "plural": "Städte",
             "translation": "the city",
-            "example": ""
+            "example": "Die Stadt hat viele interessante Sehenswürdigkeiten."
           },
           {
             "noun": "Dorf",
             "gender": "das",
             "plural": "Dörfer",
             "translation": "the village",
-            "example": ""
+            "example": "Das kleine Dorf liegt ruhig im Tal."
           },
           {
             "noun": "Land",
             "gender": "das",
             "plural": "Länder",
             "translation": "the country",
-            "example": ""
+            "example": "Sie kommt aus einem fernen Land und spricht kein Deutsch."
           },
           {
             "noun": "Welt",
             "gender": "die",
             "plural": "Welten",
             "translation": "the world",
-            "example": ""
+            "example": "Er träumt davon, die ganze Welt zu bereisen."
           },
           {
             "noun": "Arbeit",
             "gender": "die",
             "plural": "Arbeiten",
             "translation": "the work",
-            "example": ""
+            "example": "Er sucht schon seit Monaten eine neue Arbeit."
           },
           {
             "noun": "Beruf",
             "gender": "der",
             "plural": "Berufe",
             "translation": "the profession",
-            "example": ""
+            "example": "Was ist dein Beruf? — Ich bin Ingenieur."
           },
           {
             "noun": "Geld",
             "gender": "das",
             "plural": "Gelder",
             "translation": "the money",
-            "example": ""
+            "example": "Er verdient viel Geld, aber hat wenig Freizeit."
           },
           {
             "noun": "Euro",
             "gender": "der",
             "plural": "Euros",
             "translation": "the euro",
-            "example": ""
+            "example": "Das Mittagessen kostet heute nur acht Euro."
           },
           {
             "noun": "Bank",
             "gender": "die",
             "plural": "Banken",
             "translation": "the bank",
-            "example": ""
+            "example": "Er geht zur Bank, um Geld abzuheben."
           },
           {
             "noun": "Geschäft",
             "gender": "das",
             "plural": "Geschäfte",
             "translation": "the shop",
-            "example": ""
+            "example": "Sie kauft Lebensmittel im Geschäft um die Ecke."
           },
           {
             "noun": "Laden",
             "gender": "der",
             "plural": "Läden",
             "translation": "the store",
-            "example": ""
+            "example": "Der kleine Laden öffnet jeden Morgen um neun Uhr."
           },
           {
             "noun": "Markt",
             "gender": "der",
             "plural": "Märkte",
             "translation": "the market",
-            "example": ""
+            "example": "Am Samstag gehen sie zusammen auf den Wochenmarkt."
           },
           {
             "noun": "Kirche",
             "gender": "die",
             "plural": "Kirchen",
             "translation": "the church",
-            "example": ""
+            "example": "Die alte Kirche steht seit Jahrhunderten in der Stadtmitte."
           },
           {
             "noun": "Krankenhaus",
             "gender": "das",
             "plural": "Krankenhäuser",
             "translation": "the hospital",
-            "example": ""
+            "example": "Er liegt seit einer Woche im Krankenhaus."
           },
           {
             "noun": "Apotheke",
             "gender": "die",
             "plural": "Apotheken",
             "translation": "the pharmacy",
-            "example": ""
+            "example": "Sie holt ihre Medikamente in der nächsten Apotheke."
           },
           {
             "noun": "Polizei",
             "gender": "die",
             "plural": "Polizeien",
             "translation": "the police",
-            "example": ""
+            "example": "Die Polizei kommt sofort nach dem Unfall."
           },
           {
             "noun": "Wetter",
             "gender": "das",
             "plural": "Wetter",
             "translation": "the weather",
-            "example": ""
+            "example": "Das Wetter ist heute ideal für einen Ausflug."
           },
           {
             "noun": "Sonne",
             "gender": "die",
             "plural": "Sonnen",
             "translation": "the sun",
-            "example": ""
+            "example": "Die Sonne scheint heute den ganzen Tag."
           },
           {
             "noun": "Regen",
             "gender": "der",
             "plural": "Regen",
             "translation": "the rain",
-            "example": ""
+            "example": "Bei starkem Regen bleibe ich lieber drinnen."
           },
           {
             "noun": "Schnee",
             "gender": "der",
             "plural": "Schnee",
             "translation": "the snow",
-            "example": ""
+            "example": "Im Winter gibt es in den Bergen viel Schnee."
           },
           {
             "noun": "Wind",
             "gender": "der",
             "plural": "Winde",
             "translation": "the wind",
-            "example": ""
+            "example": "Der Wind bläst heute so stark, dass der Hut wegfliegt."
           }
         ]
       }
@@ -2436,7 +2436,7 @@
           {
             "adjective": "schön",
             "translation": "beautiful",
-            "example": ""
+            "example": "Der Garten ist im Frühling besonders schön."
           }
         ]
       }
@@ -2465,132 +2465,132 @@
           {
             "adverb": "oft",
             "translation": "often",
-            "example": ""
+            "example": "Sie geht oft mit ihrer Freundin ins Kino."
           },
           {
             "adverb": "immer",
             "translation": "always",
-            "example": ""
+            "example": "Er ist immer pünktlich zu seinen Terminen."
           },
           {
             "adverb": "nie",
             "translation": "never",
-            "example": ""
+            "example": "Sie trinkt nie Alkohol."
           },
           {
             "adverb": "manchmal",
             "translation": "sometimes",
-            "example": ""
+            "example": "Manchmal esse ich abends zu viel."
           },
           {
             "adverb": "selten",
             "translation": "rarely",
-            "example": ""
+            "example": "Er schreibt selten Briefe — er ruft lieber an."
           },
           {
             "adverb": "jetzt",
             "translation": "now",
-            "example": ""
+            "example": "Ich muss jetzt gehen, sonst verpasse ich den Bus."
           },
           {
             "adverb": "dann",
             "translation": "then",
-            "example": ""
+            "example": "Wir essen zuerst, dann gehen wir spazieren."
           },
           {
             "adverb": "bald",
             "translation": "soon",
-            "example": ""
+            "example": "Er kommt bald nach Hause — nur noch zehn Minuten."
           },
           {
             "adverb": "schon",
             "translation": "already",
-            "example": ""
+            "example": "Bist du schon mit den Hausaufgaben fertig?"
           },
           {
             "adverb": "noch",
             "translation": "still/yet",
-            "example": ""
+            "example": "Ich bin noch nicht bereit — warte bitte kurz."
           },
           {
             "adverb": "wieder",
             "translation": "again",
-            "example": ""
+            "example": "Er ist wieder krank — das dritte Mal dieses Jahr."
           },
           {
             "adverb": "gerade",
             "translation": "just/right now",
-            "example": ""
+            "example": "Sie arbeitet gerade an einem wichtigen Projekt."
           },
           {
             "adverb": "heute",
             "translation": "today",
-            "example": ""
+            "example": "Was hast du heute vor?"
           },
           {
             "adverb": "morgen",
             "translation": "tomorrow",
-            "example": ""
+            "example": "Morgen fahren wir an die Nordsee."
           },
           {
             "adverb": "gestern",
             "translation": "yesterday",
-            "example": ""
+            "example": "Gestern war ich mit Freunden im Kino."
           },
           {
             "adverb": "hier",
             "translation": "here",
-            "example": ""
+            "example": "Bitte setz dich hier neben mich."
           },
           {
             "adverb": "dort",
             "translation": "there",
-            "example": ""
+            "example": "Warte dort bei der Bushaltestelle auf mich."
           },
           {
             "adverb": "überall",
             "translation": "everywhere",
-            "example": ""
+            "example": "Im Sommer sieht man überall Touristen."
           },
           {
             "adverb": "nirgends",
             "translation": "nowhere",
-            "example": ""
+            "example": "Das Buch ist nirgends zu finden — hast du es gesehen?"
           },
           {
             "adverb": "links",
             "translation": "left",
-            "example": ""
+            "example": "Biegen Sie an der Ampel links ab."
           },
           {
             "adverb": "rechts",
             "translation": "right",
-            "example": ""
+            "example": "Das Restaurant ist rechts um die nächste Ecke."
           },
           {
             "adverb": "weiter",
             "translation": "further",
-            "example": ""
+            "example": "Gehen Sie bitte noch etwas weiter geradeaus."
           },
           {
             "adverb": "oben",
             "translation": "above/upstairs",
-            "example": ""
+            "example": "Das Schlafzimmer ist oben, die Küche ist unten."
           },
           {
             "adverb": "unten",
             "translation": "below/downstairs",
-            "example": ""
+            "example": "Die Kinder spielen unten im Keller."
           },
           {
             "adverb": "vorn",
             "translation": "in front",
-            "example": ""
+            "example": "Er sitzt vorn im Auto neben dem Fahrer."
           },
           {
             "adverb": "hinten",
             "translation": "in back",
-            "example": ""
+            "example": "Die Kinder sitzen hinten im Bus."
           }
         ]
       },
@@ -2600,132 +2600,132 @@
           {
             "adverb": "draußen",
             "translation": "outside",
-            "example": ""
+            "example": "Die Kinder spielen draußen im Schnee."
           },
           {
             "adverb": "drinnen",
             "translation": "inside",
-            "example": ""
+            "example": "Es ist zu kalt — wir bleiben lieber drinnen."
           },
           {
             "adverb": "sehr",
             "translation": "very",
-            "example": ""
+            "example": "Der Film war sehr spannend und aufregend."
           },
           {
             "adverb": "ziemlich",
             "translation": "quite/pretty",
-            "example": ""
+            "example": "Es ist ziemlich spät geworden — ich muss gehen."
           },
           {
             "adverb": "gut",
             "translation": "well",
-            "example": ""
+            "example": "Er spielt sehr gut Gitarre."
           },
           {
             "adverb": "schlecht",
             "translation": "badly",
-            "example": ""
+            "example": "Er fühlt sich heute schlecht und bleibt im Bett."
           },
           {
             "adverb": "gern",
             "translation": "gladly/with pleasure",
-            "example": ""
+            "example": "Sie tanzt gern, besonders Salsa."
           },
           {
             "adverb": "leider",
             "translation": "unfortunately",
-            "example": ""
+            "example": "Leider kann ich heute nicht zur Party kommen."
           },
           {
             "adverb": "vielleicht",
             "translation": "perhaps/maybe",
-            "example": ""
+            "example": "Vielleicht kommt er morgen zum Abendessen."
           },
           {
             "adverb": "bestimmt",
             "translation": "definitely/certainly",
-            "example": ""
+            "example": "Er kommt bestimmt bald — er ist immer pünktlich."
           },
           {
             "adverb": "wirklich",
             "translation": "really",
-            "example": ""
+            "example": "Das ist wirklich ein wunderschönes Gemälde."
           },
           {
             "adverb": "natürlich",
             "translation": "naturally/of course",
-            "example": ""
+            "example": "Natürlich helfe ich dir bei den Hausaufgaben."
           },
           {
             "adverb": "sicher",
             "translation": "surely",
-            "example": ""
+            "example": "Sie ist sicher schon zu Hause angekommen."
           },
           {
             "adverb": "genau",
             "translation": "exactly",
-            "example": ""
+            "example": "Ich verstehe genau, was du damit meinst."
           },
           {
             "adverb": "ganz",
             "translation": "completely/quite",
-            "example": ""
+            "example": "Das ist ganz einfach — ich zeige es dir."
           },
           {
             "adverb": "fast",
             "translation": "almost",
-            "example": ""
+            "example": "Ich bin fast fertig — nur noch fünf Minuten."
           },
           {
             "adverb": "nur",
             "translation": "only",
-            "example": ""
+            "example": "Er denkt nur an sich und nie an andere."
           },
           {
             "adverb": "auch",
             "translation": "also",
-            "example": ""
+            "example": "Sie kommt auch mit — das wird schön!"
           },
           {
             "adverb": "so",
             "translation": "so/like this",
-            "example": ""
+            "example": "Mach es bitte genau so wie ich es dir gezeigt habe."
           },
           {
             "adverb": "deshalb",
             "translation": "therefore",
-            "example": ""
+            "example": "Er ist sehr müde, deshalb schläft er früh ein."
           },
           {
             "adverb": "trotzdem",
             "translation": "nevertheless",
-            "example": ""
+            "example": "Es war sehr kalt, trotzdem gingen sie spazieren."
           },
           {
             "adverb": "danach",
             "translation": "afterward",
-            "example": ""
+            "example": "Wir arbeiten zuerst, danach machen wir eine Pause."
           },
           {
             "adverb": "zuerst",
             "translation": "first",
-            "example": ""
+            "example": "Zuerst müssen wir einkaufen, dann können wir kochen."
           },
           {
             "adverb": "schließlich",
             "translation": "finally",
-            "example": ""
+            "example": "Schließlich hat er die schwierige Prüfung bestanden."
           },
           {
             "adverb": "allerdings",
             "translation": "however",
-            "example": ""
+            "example": "Das Hotel ist schön, allerdings auch sehr teuer."
           },
           {
             "adverb": "beinahe",
             "translation": "almost/nearly",
-            "example": ""
+            "example": "Ich hätte es beinahe vergessen — zum Glück nicht!"
           }
         ]
       }
